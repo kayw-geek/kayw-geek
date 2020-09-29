@@ -1,8 +1,7 @@
 ### Hi there 👋
-
 - 🔭 I’m currently working on CHASING
 - 🌱 I’m currently learning English
 - 📫 How to reach me: weikaiii@sina.cn
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kayw-geek&show_icons=true&theme=onedark)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kayw-geek&show_icons=true&theme=onedark)](https://github.com/kayw-geek)
