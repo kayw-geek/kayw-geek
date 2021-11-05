@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on CHASING
+- 🔭 I’m currently working on RigthCapital
 - 🌱 I’m currently learning Go
 - 📫 How to reach me: weikaiii@sina.cn
 
