@@ -33,3 +33,5 @@
 ---
 
 <!-- comments will be preserved -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kayw-geek&show_icons=true&theme=onedark)](https://github.com/kayw-geek)
