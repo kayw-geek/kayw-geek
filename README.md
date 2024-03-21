@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v10.48.4](https://github.com/laravel/framework/releases/tag/v10.48.4), today) - The Laravel Framework.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.52.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [laravel/framework](https://github.com/laravel/framework) ([v11.0.7](https://github.com/laravel/framework/releases/tag/v11.0.7), 6 days ago) - The Laravel Framework.
 - [omniphx/forrest](https://github.com/omniphx/forrest) ([v2.18.1](https://github.com/omniphx/forrest/releases/tag/v2.18.1), 1 week ago) - A Laravel library for Salesforce
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5), 2 weeks ago) - The Symfony PHP framework
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.1](https://github.com/calebporzio/sushi/releases/tag/v2.5.1), 1 month ago) - Eloquent&#39;s missing &#34;array&#34; driver.
