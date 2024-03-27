@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.1.0](https://github.com/laravel/framework/releases/tag/v11.1.0), today) - The Laravel Framework.
-- [omniphx/forrest](https://github.com/omniphx/forrest) ([v2.18.2](https://github.com/omniphx/forrest/releases/tag/v2.18.2), 3 days ago) - A Laravel library for Salesforce
+- [laravel/framework](https://github.com/laravel/framework) ([v11.1.0](https://github.com/laravel/framework/releases/tag/v11.1.0), 1 day ago) - The Laravel Framework.
+- [omniphx/forrest](https://github.com/omniphx/forrest) ([v2.18.2](https://github.com/omniphx/forrest/releases/tag/v2.18.2), 4 days ago) - A Laravel library for Salesforce
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.52.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5), 3 weeks ago) - The Symfony PHP framework
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.1](https://github.com/calebporzio/sushi/releases/tag/v2.5.1), 1 month ago) - Eloquent&#39;s missing &#34;array&#34; driver.
@@ -46,19 +46,19 @@
 - [[Process] Fix exec function execute exception when command - v with other command option](https://github.com/symfony/symfony/pull/53482) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - [[Process] Fix executable finder when the command starts with a dash](https://github.com/symfony/symfony/pull/53481) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - [Update PSR-16 example code to latest version](https://github.com/php-fig/fig-standards/pull/1313) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (2 months ago)
-- [[10.x] Fixes the `Arr::dot()` method to properly handle indexes array](https://github.com/laravel/framework/pull/49507) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
+- [[10.x] Fixes the `Arr::dot()` method to properly handle indexes array](https://github.com/laravel/framework/pull/49507) on [laravel/framework](https://github.com/laravel/framework) (3 months ago)
 - [Revert ‘Remove leading &#39;v&#39; character from version strings’](https://github.com/ergebnis/json-normalizer/pull/1046) on [ergebnis/json-normalizer](https://github.com/ergebnis/json-normalizer) (3 months ago)
 - [Fix wrong compare when values contain boolean type](https://github.com/sebastianbergmann/comparator/pull/111) on [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (4 days ago)
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (5 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user (1 week ago)
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things. (1 week ago)
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux. (1 week ago)
 - [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions (1 week ago)
-- [shipmonk-rnd/input-mapper](https://github.com/shipmonk-rnd/input-mapper) - Performant array-to-object mapper supporting generics, array shapes, optional fields and much more! (2 weeks ago)
+- [shipmonk-rnd/input-mapper](https://github.com/shipmonk-rnd/input-mapper) - Performant array-to-object mapper supporting generics, array shapes, optional fields and much more! (3 weeks ago)
 - [mroth/scmpuff](https://github.com/mroth/scmpuff) - :1234: Numeric file shortcuts for common git commands (3 weeks ago)
 - [LaravelDaily/laravel-tips](https://github.com/LaravelDaily/laravel-tips) - Awesome tips for Laravel (3 weeks ago)
 - [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py) - 👨‍💻 Python cleanup script for macOS (3 weeks ago)
