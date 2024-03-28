@@ -52,6 +52,8 @@
 
 #### ⭐ Recent Stars
 
+- [php-type-language/reflection-converter](https://github.com/php-type-language/reflection-converter) - Converts PHP Reflection objects to the Type Language AST (today)
+- [php-type-language/parser](https://github.com/php-type-language/parser) - PHP Type Language parser reference implementation (today)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (6 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user (1 week ago)
@@ -60,8 +62,6 @@
 - [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions (1 week ago)
 - [shipmonk-rnd/input-mapper](https://github.com/shipmonk-rnd/input-mapper) - Performant array-to-object mapper supporting generics, array shapes, optional fields and much more! (3 weeks ago)
 - [mroth/scmpuff](https://github.com/mroth/scmpuff) - :1234: Numeric file shortcuts for common git commands (3 weeks ago)
-- [LaravelDaily/laravel-tips](https://github.com/LaravelDaily/laravel-tips) - Awesome tips for Laravel (3 weeks ago)
-- [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py) - 👨‍💻 Python cleanup script for macOS (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
