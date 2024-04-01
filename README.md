@@ -22,7 +22,7 @@
 
 #### 🪅 Recent contributed Repos
 
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (3 weeks ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (4 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (2 months ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (4 months ago)
@@ -30,16 +30,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.1.1](https://github.com/laravel/framework/releases/tag/v11.1.1), 3 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.1.1](https://github.com/laravel/framework/releases/tag/v11.1.1), 4 days ago) - The Laravel Framework.
 - [omniphx/forrest](https://github.com/omniphx/forrest) ([v2.18.2](https://github.com/omniphx/forrest/releases/tag/v2.18.2), 1 week ago) - A Laravel library for Salesforce
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.52.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5), 3 weeks ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.5](https://github.com/symfony/symfony/releases/tag/v7.0.5), 4 weeks ago) - The Symfony PHP framework
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.1](https://github.com/calebporzio/sushi/releases/tag/v2.5.1), 1 month ago) - Eloquent&#39;s missing &#34;array&#34; driver.
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.21](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.21), 8 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 
 #### 🔨 My recent Pull Requests
 
-- [[10.x] Fix the cache cannot expire cache with `0` TTL](https://github.com/laravel/framework/pull/50359) on [laravel/framework](https://github.com/laravel/framework) (3 weeks ago)
+- [[10.x] Fix the cache cannot expire cache with `0` TTL](https://github.com/laravel/framework/pull/50359) on [laravel/framework](https://github.com/laravel/framework) (4 weeks ago)
 - [feat: Introduce config option for standardized null in typehints](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7860) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 month ago)
 - [[Process] Fix the `command -v` exception](https://github.com/symfony/symfony/pull/54006) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - [Fix find excutable function execute exception when command option treated as executable file](https://github.com/composer/composer/pull/11790) on [composer/composer](https://github.com/composer/composer) (2 months ago)
@@ -52,8 +52,8 @@
 
 #### ⭐ Recent Stars
 
-- [php-type-language/reflection-converter](https://github.com/php-type-language/reflection-converter) - Converts PHP Reflection objects to the Type Language AST (3 days ago)
-- [php-type-language/parser](https://github.com/php-type-language/parser) - PHP Type Language parser reference implementation (3 days ago)
+- [php-type-language/reflection-converter](https://github.com/php-type-language/reflection-converter) - Converts PHP Reflection objects to the Type Language AST (4 days ago)
+- [php-type-language/parser](https://github.com/php-type-language/parser) - PHP Type Language parser reference implementation (4 days ago)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (1 week ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user (1 week ago)
@@ -61,7 +61,7 @@
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux. (1 week ago)
 - [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions (2 weeks ago)
 - [shipmonk-rnd/input-mapper](https://github.com/shipmonk-rnd/input-mapper) - Performant array-to-object mapper supporting generics, array shapes, optional fields and much more! (3 weeks ago)
-- [mroth/scmpuff](https://github.com/mroth/scmpuff) - :1234: Numeric file shortcuts for common git commands (3 weeks ago)
+- [mroth/scmpuff](https://github.com/mroth/scmpuff) - :1234: Numeric file shortcuts for common git commands (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
