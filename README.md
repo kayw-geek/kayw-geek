@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 A concise, efficient, good-looking input, screenshot, and word translation software (today)
 - [php-type-language/reflection-converter](https://github.com/php-type-language/reflection-converter) - Converts PHP Reflection objects to the Type Language AST (4 days ago)
 - [php-type-language/parser](https://github.com/php-type-language/parser) - PHP Type Language parser reference implementation (4 days ago)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (1 week ago)
@@ -61,7 +62,6 @@
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux. (1 week ago)
 - [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions (2 weeks ago)
 - [shipmonk-rnd/input-mapper](https://github.com/shipmonk-rnd/input-mapper) - Performant array-to-object mapper supporting generics, array shapes, optional fields and much more! (3 weeks ago)
-- [mroth/scmpuff](https://github.com/mroth/scmpuff) - :1234: Numeric file shortcuts for common git commands (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
