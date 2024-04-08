@@ -30,10 +30,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.53.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.53.0), today) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 5 days ago) - The Symfony PHP framework
 - [laravel/framework](https://github.com/laravel/framework) ([v11.2.0](https://github.com/laravel/framework/releases/tag/v11.2.0), 6 days ago) - The Laravel Framework.
 - [omniphx/forrest](https://github.com/omniphx/forrest) ([v2.18.2](https://github.com/omniphx/forrest/releases/tag/v2.18.2), 2 weeks ago) - A Laravel library for Salesforce
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.52.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1), 2 weeks ago) - A tool to automatically fix PHP Coding Standards issues
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.1](https://github.com/calebporzio/sushi/releases/tag/v2.5.1), 2 months ago) - Eloquent&#39;s missing &#34;array&#34; driver.
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.21](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.21), 8 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 
