@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.48.5](https://github.com/laravel/framework/releases/tag/v10.48.5), today) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.3.0](https://github.com/laravel/framework/releases/tag/v11.3.0), today) - The Laravel Framework.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.53.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.53.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 6 days ago) - The Symfony PHP framework
 - [omniphx/forrest](https://github.com/omniphx/forrest) ([v2.18.2](https://github.com/omniphx/forrest/releases/tag/v2.18.2), 2 weeks ago) - A Laravel library for Salesforce
