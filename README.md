@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.3.1](https://github.com/laravel/framework/releases/tag/v11.3.1), today) - The Laravel Framework.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.53.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.53.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [laravel/framework](https://github.com/laravel/framework) ([v11.3.1](https://github.com/laravel/framework/releases/tag/v11.3.1), 1 day ago) - The Laravel Framework.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.53.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.53.0), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 1 week ago) - The Symfony PHP framework
 - [omniphx/forrest](https://github.com/omniphx/forrest) ([v2.18.2](https://github.com/omniphx/forrest/releases/tag/v2.18.2), 2 weeks ago) - A Laravel library for Salesforce
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.1](https://github.com/calebporzio/sushi/releases/tag/v2.5.1), 2 months ago) - Eloquent&#39;s missing &#34;array&#34; driver.
@@ -52,12 +52,12 @@
 
 #### ⭐ Recent Stars
 
-- [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼 (1 day ago)
-- [mehrancodes/laravel-harbor](https://github.com/mehrancodes/laravel-harbor) - a cli tool to Quickly create on-demand preview environment for your app on Laravel Forge. (1 day ago)
-- [christophrumpel/what-you-can-test-in-laravel](https://github.com/christophrumpel/what-you-can-test-in-laravel) -  (2 days ago)
+- [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼 (2 days ago)
+- [mehrancodes/laravel-harbor](https://github.com/mehrancodes/laravel-harbor) - a cli tool to Quickly create on-demand preview environment for your app on Laravel Forge. (2 days ago)
+- [christophrumpel/what-you-can-test-in-laravel](https://github.com/christophrumpel/what-you-can-test-in-laravel) -  (3 days ago)
 - [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 A concise, efficient, good-looking input, screenshot, and word translation software (1 week ago)
-- [php-type-language/reader](https://github.com/php-type-language/reader) - Library for reading TypeLang AST nodes from types exposed by PHP Reflection objects (1 week ago)
-- [php-type-language/parser](https://github.com/php-type-language/parser) - Library for parsing and validating TypeLang syntax and converting it into AST nodes (1 week ago)
+- [php-type-language/reader](https://github.com/php-type-language/reader) - Library for reading TypeLang AST nodes from types exposed by PHP Reflection objects (2 weeks ago)
+- [php-type-language/parser](https://github.com/php-type-language/parser) - Library for parsing and validating TypeLang syntax and converting it into AST nodes (2 weeks ago)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (2 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 weeks ago)
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user (3 weeks ago)
