@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.3.1](https://github.com/laravel/framework/releases/tag/v11.3.1), 5 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.3.1](https://github.com/laravel/framework/releases/tag/v11.3.1), 6 days ago) - The Laravel Framework.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.53.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.53.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 1 week ago) - The Symfony PHP framework
 - [omniphx/forrest](https://github.com/omniphx/forrest) ([v2.18.2](https://github.com/omniphx/forrest/releases/tag/v2.18.2), 3 weeks ago) - A Laravel library for Salesforce
@@ -39,7 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Support the `nikic/php-parser` to 5.x](https://github.com/worksome/envy/pull/41) on [worksome/envy](https://github.com/worksome/envy) (1 week ago)
+- [Support the `nikic/php-parser` to 5.x](https://github.com/worksome/envy/pull/41) on [worksome/envy](https://github.com/worksome/envy) (2 weeks ago)
 - [[10.x] Fix the cache cannot expire cache with `0` TTL](https://github.com/laravel/framework/pull/50359) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
 - [feat: Introduce config option for standardized null in typehints](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7860) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 month ago)
 - [[Process] Fix the `command -v` exception](https://github.com/symfony/symfony/pull/54006) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
@@ -52,16 +52,16 @@
 
 #### ⭐ Recent Stars
 
-- [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼 (6 days ago)
-- [mehrancodes/laravel-harbor](https://github.com/mehrancodes/laravel-harbor) - a cli tool to Quickly create on-demand preview environment for your app on Laravel Forge. (6 days ago)
+- [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼 (1 week ago)
+- [mehrancodes/laravel-harbor](https://github.com/mehrancodes/laravel-harbor) - a cli tool to Quickly create on-demand preview environment for your app on Laravel Forge. (1 week ago)
 - [christophrumpel/what-you-can-test-in-laravel](https://github.com/christophrumpel/what-you-can-test-in-laravel) -  (1 week ago)
 - [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Input, screenshot, picture, word selection, replacement, text recognition, AI, translation software || 输入、截图、图片、划词、替换、文字识别、AI、翻译软件 (2 weeks ago)
 - [php-type-language/reader](https://github.com/php-type-language/reader) - Library for reading TypeLang AST nodes from types exposed by PHP Reflection objects (2 weeks ago)
 - [php-type-language/parser](https://github.com/php-type-language/parser) - Library for parsing and validating TypeLang syntax and converting it into AST nodes (2 weeks ago)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (3 weeks ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 weeks ago)
-- [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user (3 weeks ago)
-- [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things. (3 weeks ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 weeks ago)
+- [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user (4 weeks ago)
+- [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
