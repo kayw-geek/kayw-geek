@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (today)
 - [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼 (1 week ago)
 - [mehrancodes/laravel-harbor](https://github.com/mehrancodes/laravel-harbor) - a cli tool to Quickly create on-demand preview environment for your app on Laravel Forge. (1 week ago)
 - [christophrumpel/what-you-can-test-in-laravel](https://github.com/christophrumpel/what-you-can-test-in-laravel) -  (1 week ago)
@@ -61,7 +62,6 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (3 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 weeks ago)
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user (4 weeks ago)
-- [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
