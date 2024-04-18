@@ -22,14 +22,15 @@
 
 #### 🪅 Recent contributed Repos
 
+- [worksome/envy](https://github.com/worksome/envy) - Keep your .env.example file up to date (2 weeks ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (2 months ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (5 months ago)
-- [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), today) - Keep your .env.example file up to date
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.54.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.54.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [laravel/framework](https://github.com/laravel/framework) ([v11.4.0](https://github.com/laravel/framework/releases/tag/v11.4.0), 2 days ago) - The Laravel Framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 2 weeks ago) - The Symfony PHP framework
