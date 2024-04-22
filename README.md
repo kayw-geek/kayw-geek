@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make Env File Easier to Read by Grouping Variables Together](https://github.com/worksome/envy/pull/44) on [worksome/envy](https://github.com/worksome/envy) (today)
 - [Support the `nikic/php-parser` to 5.x](https://github.com/worksome/envy/pull/41) on [worksome/envy](https://github.com/worksome/envy) (2 weeks ago)
 - [[10.x] Fix the cache cannot expire cache with `0` TTL](https://github.com/laravel/framework/pull/50359) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
 - [feat: Introduce config option for standardized null in typehints](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7860) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 month ago)
@@ -49,7 +50,6 @@
 - [[Process] Fix executable finder when the command starts with a dash](https://github.com/symfony/symfony/pull/53481) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - [Update PSR-16 example code to latest version](https://github.com/php-fig/fig-standards/pull/1313) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (3 months ago)
 - [[10.x] Fixes the `Arr::dot()` method to properly handle indexes array](https://github.com/laravel/framework/pull/49507) on [laravel/framework](https://github.com/laravel/framework) (3 months ago)
-- [Revert ‘Remove leading &#39;v&#39; character from version strings’](https://github.com/ergebnis/json-normalizer/pull/1046) on [ergebnis/json-normalizer](https://github.com/ergebnis/json-normalizer) (3 months ago)
 
 #### ⭐ Recent Stars
 
