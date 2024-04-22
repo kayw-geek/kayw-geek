@@ -30,11 +30,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 3 days ago) - Keep your .env.example file up to date
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.54.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.54.0), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [laravel/framework](https://github.com/laravel/framework) ([v11.4.0](https://github.com/laravel/framework/releases/tag/v11.4.0), 5 days ago) - The Laravel Framework.
+- [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 4 days ago) - Keep your .env.example file up to date
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.54.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.54.0), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [laravel/framework](https://github.com/laravel/framework) ([v11.4.0](https://github.com/laravel/framework/releases/tag/v11.4.0), 6 days ago) - The Laravel Framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.6](https://github.com/symfony/symfony/releases/tag/v7.0.6), 2 weeks ago) - The Symfony PHP framework
-- [omniphx/forrest](https://github.com/omniphx/forrest) ([v2.18.2](https://github.com/omniphx/forrest/releases/tag/v2.18.2), 4 weeks ago) - A Laravel library for Salesforce
+- [omniphx/forrest](https://github.com/omniphx/forrest) ([v2.18.2](https://github.com/omniphx/forrest/releases/tag/v2.18.2), 1 month ago) - A Laravel library for Salesforce
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.1](https://github.com/calebporzio/sushi/releases/tag/v2.5.1), 2 months ago) - Eloquent&#39;s missing &#34;array&#34; driver.
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.21](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.21), 8 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 
@@ -53,13 +53,13 @@
 
 #### ⭐ Recent Stars
 
-- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what&#39;s your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性等等。 (3 days ago)
-- [php-static-analysis/attributes](https://github.com/php-static-analysis/attributes) - Attributes used for static analysis (4 days ago)
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (5 days ago)
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what&#39;s your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性等等。 (4 days ago)
+- [php-static-analysis/attributes](https://github.com/php-static-analysis/attributes) - Attributes used for static analysis (5 days ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (6 days ago)
 - [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼 (1 week ago)
 - [mehrancodes/laravel-harbor](https://github.com/mehrancodes/laravel-harbor) - a cli tool to Quickly create on-demand preview environment for your app on Laravel Forge. (1 week ago)
-- [christophrumpel/what-you-can-test-in-laravel](https://github.com/christophrumpel/what-you-can-test-in-laravel) -  (1 week ago)
-- [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Input, screenshot, picture, word selection, replacement, text recognition, AI, translation software || 输入、截图、图片、划词、替换、文字识别、AI、翻译软件 (2 weeks ago)
+- [christophrumpel/what-you-can-test-in-laravel](https://github.com/christophrumpel/what-you-can-test-in-laravel) -  (2 weeks ago)
+- [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Input, screenshot, picture, word selection, replacement, text recognition, AI, translation software || 输入、截图、图片、划词、替换、文字识别、AI、翻译软件 (3 weeks ago)
 - [php-type-language/reader](https://github.com/php-type-language/reader) - Library for reading TypeLang AST nodes from types exposed by PHP Reflection objects (3 weeks ago)
 - [php-type-language/parser](https://github.com/php-type-language/parser) - Library for parsing and validating TypeLang syntax and converting it into AST nodes (3 weeks ago)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (1 month ago)
