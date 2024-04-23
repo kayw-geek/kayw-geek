@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (today)
 - [buggregator/trap](https://github.com/buggregator/trap) - Buggregator PHP helpers and local debug server (today)
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒 (today)
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (1 day ago)
@@ -62,7 +63,6 @@
 - [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼 (2 weeks ago)
 - [mehrancodes/laravel-harbor](https://github.com/mehrancodes/laravel-harbor) - a cli tool to Quickly create on-demand preview environment for your app on Laravel Forge. (2 weeks ago)
 - [christophrumpel/what-you-can-test-in-laravel](https://github.com/christophrumpel/what-you-can-test-in-laravel) -  (2 weeks ago)
-- [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件 (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
