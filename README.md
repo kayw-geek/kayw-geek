@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.7](https://github.com/symfony/symfony/releases/tag/v6.4.7), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.7](https://github.com/symfony/symfony/releases/tag/v7.0.7), today) - The Symfony PHP framework
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 5 days ago) - Eloquent&#39;s missing &#34;array&#34; driver.
 - [laravel/framework](https://github.com/laravel/framework) ([v11.5.0](https://github.com/laravel/framework/releases/tag/v11.5.0), 6 days ago) - The Laravel Framework.
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 1 week ago) - Keep your .env.example file up to date
