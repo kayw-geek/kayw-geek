@@ -23,15 +23,15 @@
 #### 🪅 Recent contributed Repos
 
 - [worksome/envy](https://github.com/worksome/envy) - Keep your .env.example file up to date (1 month ago)
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 month ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (2 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (3 months ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1), today) - The Symfony PHP framework
-- [laravel/framework](https://github.com/laravel/framework) ([v11.6.0](https://github.com/laravel/framework/releases/tag/v11.6.0), 2 days ago) - The Laravel Framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1), 1 day ago) - The Symfony PHP framework
+- [laravel/framework](https://github.com/laravel/framework) ([v11.6.0](https://github.com/laravel/framework/releases/tag/v11.6.0), 3 days ago) - The Laravel Framework.
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 1 week ago) - Eloquent&#39;s missing &#34;array&#34; driver.
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 2 weeks ago) - Keep your .env.example file up to date
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.54.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.54.0), 2 weeks ago) - A tool to automatically fix PHP Coding Standards issues
@@ -42,13 +42,13 @@
 
 - [Make Env File Easier to Read by Grouping Variables Together](https://github.com/worksome/envy/pull/44) on [worksome/envy](https://github.com/worksome/envy) (1 week ago)
 - [Support the `nikic/php-parser` to 5.x](https://github.com/worksome/envy/pull/41) on [worksome/envy](https://github.com/worksome/envy) (1 month ago)
-- [[10.x] Fix the cache cannot expire cache with `0` TTL](https://github.com/laravel/framework/pull/50359) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
+- [[10.x] Fix the cache cannot expire cache with `0` TTL](https://github.com/laravel/framework/pull/50359) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
 - [feat: Introduce config option for standardized null in typehints](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7860) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 months ago)
 - [[Process] Fix the `command -v` exception](https://github.com/symfony/symfony/pull/54006) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - [Fix find excutable function execute exception when command option treated as executable file](https://github.com/composer/composer/pull/11790) on [composer/composer](https://github.com/composer/composer) (3 months ago)
 - [[Process] Fix exec function execute exception when command - v with other command option](https://github.com/symfony/symfony/pull/53482) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
 - [[Process] Fix executable finder when the command starts with a dash](https://github.com/symfony/symfony/pull/53481) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
-- [Update PSR-16 example code to latest version](https://github.com/php-fig/fig-standards/pull/1313) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (3 months ago)
+- [Update PSR-16 example code to latest version](https://github.com/php-fig/fig-standards/pull/1313) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (4 months ago)
 - [[10.x] Fixes the `Arr::dot()` method to properly handle indexes array](https://github.com/laravel/framework/pull/49507) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
 
 #### ⭐ Recent Stars
