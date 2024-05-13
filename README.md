@@ -26,12 +26,12 @@
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (2 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent&#39;s missing &#34;array&#34; driver. (3 months ago)
-- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (5 months ago)
+- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.56.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.56.1), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [laravel/framework](https://github.com/laravel/framework) ([v11.7.0](https://github.com/laravel/framework/releases/tag/v11.7.0), 5 days ago) - The Laravel Framework.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.56.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.56.1), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [laravel/framework](https://github.com/laravel/framework) ([v11.7.0](https://github.com/laravel/framework/releases/tag/v11.7.0), 6 days ago) - The Laravel Framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1), 1 week ago) - The Symfony PHP framework
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 2 weeks ago) - Eloquent&#39;s missing &#34;array&#34; driver.
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 3 weeks ago) - Keep your .env.example file up to date
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Make Env File Easier to Read by Grouping Variables Together](https://github.com/worksome/envy/pull/44) on [worksome/envy](https://github.com/worksome/envy) (2 weeks ago)
+- [Make Env File Easier to Read by Grouping Variables Together](https://github.com/worksome/envy/pull/44) on [worksome/envy](https://github.com/worksome/envy) (3 weeks ago)
 - [Support the `nikic/php-parser` to 5.x](https://github.com/worksome/envy/pull/41) on [worksome/envy](https://github.com/worksome/envy) (1 month ago)
 - [[10.x] Fix the cache cannot expire cache with `0` TTL](https://github.com/laravel/framework/pull/50359) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
 - [feat: Introduce config option for standardized null in typehints](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7860) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 months ago)
@@ -53,14 +53,14 @@
 
 #### ⭐ Recent Stars
 
-- [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (5 days ago)
-- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision (6 days ago)
-- [laravel-upgrade-helper/laravel-upgrade-helper.github.io](https://github.com/laravel-upgrade-helper/laravel-upgrade-helper.github.io) - Take a quick look and upgrade Laravel. Fearlessly. (6 days ago)
-- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! (6 days ago)
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (6 days ago)
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision (1 week ago)
+- [laravel-upgrade-helper/laravel-upgrade-helper.github.io](https://github.com/laravel-upgrade-helper/laravel-upgrade-helper.github.io) - Take a quick look and upgrade Laravel. Fearlessly. (1 week ago)
+- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! (1 week ago)
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (2 weeks ago)
 - [buggregator/trap](https://github.com/buggregator/trap) - Buggregator local debug server for PHP projects as composer package (2 weeks ago)
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒 (2 weeks ago)
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (2 weeks ago)
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (3 weeks ago)
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what&#39;s your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。 (3 weeks ago)
 - [php-static-analysis/attributes](https://github.com/php-static-analysis/attributes) - Attributes used for static analysis (3 weeks ago)
 
