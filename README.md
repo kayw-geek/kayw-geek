@@ -30,11 +30,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.57.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.57.1), today) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.57.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.57.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [laravel/framework](https://github.com/laravel/framework) ([v11.7.0](https://github.com/laravel/framework/releases/tag/v11.7.0), 1 week ago) - The Laravel Framework.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1), 1 week ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1), 2 weeks ago) - The Symfony PHP framework
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 3 weeks ago) - Eloquent&#39;s missing &#34;array&#34; driver.
-- [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 3 weeks ago) - Keep your .env.example file up to date
+- [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 4 weeks ago) - Keep your .env.example file up to date
 - [omniphx/forrest](https://github.com/omniphx/forrest) ([v2.18.2](https://github.com/omniphx/forrest/releases/tag/v2.18.2), 1 month ago) - A Laravel library for Salesforce
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.21](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.21), 9 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 
@@ -53,8 +53,8 @@
 
 #### ⭐ Recent Stars
 
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install (1 day ago)
-- [TomasVotruba/phpstan-bodyscan](https://github.com/TomasVotruba/phpstan-bodyscan) - Get error count for each PHPStan level (2 days ago)
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install (2 days ago)
+- [TomasVotruba/phpstan-bodyscan](https://github.com/TomasVotruba/phpstan-bodyscan) - Get error count for each PHPStan level (3 days ago)
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (1 week ago)
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision (1 week ago)
 - [laravel-upgrade-helper/laravel-upgrade-helper.github.io](https://github.com/laravel-upgrade-helper/laravel-upgrade-helper.github.io) - Take a quick look and upgrade Laravel. Fearlessly. (1 week ago)
