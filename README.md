@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) - The PHP AST Viewer is a tool for viewing the Abstract Syntax Tree of PHP code. By visualizing the structure, it helps developers gain a deeper understanding of the code, thus improving code quality and maintenance efficiency. (today)
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install (3 days ago)
 - [TomasVotruba/phpstan-bodyscan](https://github.com/TomasVotruba/phpstan-bodyscan) - Get error count for each PHPStan level (4 days ago)
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (1 week ago)
@@ -62,7 +63,6 @@
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (3 weeks ago)
 - [buggregator/trap](https://github.com/buggregator/trap) - Buggregator local debug server for PHP projects as composer package (3 weeks ago)
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒 (3 weeks ago)
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
