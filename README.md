@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.1.0-RC1), today) - The Symfony PHP framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.57.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.57.1), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [laravel/framework](https://github.com/laravel/framework) ([v11.7.0](https://github.com/laravel/framework/releases/tag/v11.7.0), 1 week ago) - The Laravel Framework.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.1.0-BETA1), 2 weeks ago) - The Symfony PHP framework
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 3 weeks ago) - Eloquent&#39;s missing &#34;array&#34; driver.
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 4 weeks ago) - Keep your .env.example file up to date
 - [omniphx/forrest](https://github.com/omniphx/forrest) ([v2.18.2](https://github.com/omniphx/forrest/releases/tag/v2.18.2), 1 month ago) - A Laravel library for Salesforce
