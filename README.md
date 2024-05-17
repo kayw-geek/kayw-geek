@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add `ext-json` extension to `composer.json` ](https://github.com/RightCapitalHQ/php-ast-viewer/pull/9) on [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) (today)
 - [Make Env File Easier to Read by Grouping Variables Together](https://github.com/worksome/envy/pull/44) on [worksome/envy](https://github.com/worksome/envy) (3 weeks ago)
 - [Support the `nikic/php-parser` to 5.x](https://github.com/worksome/envy/pull/41) on [worksome/envy](https://github.com/worksome/envy) (1 month ago)
 - [[10.x] Fix the cache cannot expire cache with `0` TTL](https://github.com/laravel/framework/pull/50359) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
@@ -49,7 +50,6 @@
 - [[Process] Fix exec function execute exception when command - v with other command option](https://github.com/symfony/symfony/pull/53482) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 - [[Process] Fix executable finder when the command starts with a dash](https://github.com/symfony/symfony/pull/53481) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 - [Update PSR-16 example code to latest version](https://github.com/php-fig/fig-standards/pull/1313) on [php-fig/fig-standards](https://github.com/php-fig/fig-standards) (4 months ago)
-- [[10.x] Fixes the `Arr::dot()` method to properly handle indexes array](https://github.com/laravel/framework/pull/49507) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
 
 #### ⭐ Recent Stars
 
