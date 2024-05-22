@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [laracraft-tech/laravel-useful-additions](https://github.com/laracraft-tech/laravel-useful-additions) - A collection of useful Laravel additions! (today)
 - [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) - The PHP AST Viewer is a tool for viewing the Abstract Syntax Tree of PHP code. By visualizing the structure, it helps developers gain a deeper understanding of the code, thus improving code quality and maintenance efficiency. (5 days ago)
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install (1 week ago)
 - [TomasVotruba/phpstan-bodyscan](https://github.com/TomasVotruba/phpstan-bodyscan) - Get error count for each PHPStan level (1 week ago)
@@ -62,7 +63,6 @@
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! (2 weeks ago)
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (4 weeks ago)
 - [buggregator/trap](https://github.com/buggregator/trap) - Buggregator local debug server for PHP projects as composer package (4 weeks ago)
-- [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒 (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
