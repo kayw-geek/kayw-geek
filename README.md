@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.8.0](https://github.com/laravel/framework/releases/tag/v11.8.0), 1 day ago) - The Laravel Framework.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.57.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.57.2), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.1.0-RC1), 5 days ago) - The Symfony PHP framework
+- [laravel/framework](https://github.com/laravel/framework) ([v11.8.0](https://github.com/laravel/framework/releases/tag/v11.8.0), 2 days ago) - The Laravel Framework.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.57.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.57.2), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.1.0-RC1), 6 days ago) - The Symfony PHP framework
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 4 weeks ago) - Eloquent&#39;s missing &#34;array&#34; driver.
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 1 month ago) - Keep your .env.example file up to date
 - [omniphx/forrest](https://github.com/omniphx/forrest) ([v2.18.2](https://github.com/omniphx/forrest/releases/tag/v2.18.2), 2 months ago) - A Laravel library for Salesforce
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add `ext-json` extension to `composer.json` ](https://github.com/RightCapitalHQ/php-ast-viewer/pull/9) on [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) (5 days ago)
+- [feat: add `ext-json` extension to `composer.json` ](https://github.com/RightCapitalHQ/php-ast-viewer/pull/9) on [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) (6 days ago)
 - [Make Env File Easier to Read by Grouping Variables Together](https://github.com/worksome/envy/pull/44) on [worksome/envy](https://github.com/worksome/envy) (1 month ago)
 - [Support the `nikic/php-parser` to 5.x](https://github.com/worksome/envy/pull/41) on [worksome/envy](https://github.com/worksome/envy) (1 month ago)
 - [[10.x] Fix the cache cannot expire cache with `0` TTL](https://github.com/laravel/framework/pull/50359) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
@@ -53,16 +53,16 @@
 
 #### ⭐ Recent Stars
 
-- [laracraft-tech/laravel-useful-additions](https://github.com/laracraft-tech/laravel-useful-additions) - A collection of useful Laravel additions! (today)
-- [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) - The PHP AST Viewer is a tool for viewing the Abstract Syntax Tree of PHP code. By visualizing the structure, it helps developers gain a deeper understanding of the code, thus improving code quality and maintenance efficiency. (5 days ago)
+- [laracraft-tech/laravel-useful-additions](https://github.com/laracraft-tech/laravel-useful-additions) - A collection of useful Laravel additions! (1 day ago)
+- [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) - The PHP AST Viewer is a tool for viewing the Abstract Syntax Tree of PHP code. By visualizing the structure, it helps developers gain a deeper understanding of the code, thus improving code quality and maintenance efficiency. (6 days ago)
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install (1 week ago)
 - [TomasVotruba/phpstan-bodyscan](https://github.com/TomasVotruba/phpstan-bodyscan) - Get error count for each PHPStan level (1 week ago)
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (2 weeks ago)
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision (2 weeks ago)
 - [laravel-upgrade-helper/laravel-upgrade-helper.github.io](https://github.com/laravel-upgrade-helper/laravel-upgrade-helper.github.io) - Take a quick look and upgrade Laravel. Fearlessly. (2 weeks ago)
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! (2 weeks ago)
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (4 weeks ago)
-- [buggregator/trap](https://github.com/buggregator/trap) - Buggregator local debug server for PHP projects as composer package (4 weeks ago)
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (1 month ago)
+- [buggregator/trap](https://github.com/buggregator/trap) - Buggregator local debug server for PHP projects as composer package (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
