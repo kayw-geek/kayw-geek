@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) - PHP Benchmarking framework (today)
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies) (today)
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (1 day ago)
 - [laracraft-tech/laravel-useful-additions](https://github.com/laracraft-tech/laravel-useful-additions) - A collection of useful Laravel additions! (2 days ago)
@@ -62,7 +63,6 @@
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (2 weeks ago)
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision (2 weeks ago)
 - [laravel-upgrade-helper/laravel-upgrade-helper.github.io](https://github.com/laravel-upgrade-helper/laravel-upgrade-helper.github.io) - Take a quick look and upgrade Laravel. Fearlessly. (2 weeks ago)
-- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
