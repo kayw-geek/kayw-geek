@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies) (today)
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (1 day ago)
 - [laracraft-tech/laravel-useful-additions](https://github.com/laracraft-tech/laravel-useful-additions) - A collection of useful Laravel additions! (2 days ago)
 - [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) - The PHP AST Viewer is a tool for viewing the Abstract Syntax Tree of PHP code. By visualizing the structure, it helps developers gain a deeper understanding of the code, thus improving code quality and maintenance efficiency. (1 week ago)
@@ -62,7 +63,6 @@
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision (2 weeks ago)
 - [laravel-upgrade-helper/laravel-upgrade-helper.github.io](https://github.com/laravel-upgrade-helper/laravel-upgrade-helper.github.io) - Take a quick look and upgrade Laravel. Fearlessly. (2 weeks ago)
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! (2 weeks ago)
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
