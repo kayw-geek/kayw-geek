@@ -22,7 +22,7 @@
 
 #### 🪅 Recent contributed Repos
 
-- [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files (3 days ago)
+- [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files (4 days ago)
 - [worksome/envy](https://github.com/worksome/envy) - Keep your .env.example file up to date (1 month ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (2 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 months ago)
@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 3 days ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
-- [laravel/framework](https://github.com/laravel/framework) ([v11.8.0](https://github.com/laravel/framework/releases/tag/v11.8.0), 6 days ago) - The Laravel Framework.
+- [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 4 days ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
+- [laravel/framework](https://github.com/laravel/framework) ([v11.8.0](https://github.com/laravel/framework/releases/tag/v11.8.0), 1 week ago) - The Laravel Framework.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.57.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.57.2), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.1.0-RC1), 1 week ago) - The Symfony PHP framework
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 1 month ago) - Eloquent&#39;s missing &#34;array&#34; driver.
@@ -53,15 +53,15 @@
 
 #### ⭐ Recent Stars
 
-- [nunomaduro/laravel-desktop-notifier](https://github.com/nunomaduro/laravel-desktop-notifier) - 💻 Send notifications to your desktop from your Laravel Artisan Commands. An JoliNotif wrapper for Laravel. (today)
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten (today)
-- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash (3 days ago)
-- [phpbench/phpbench](https://github.com/phpbench/phpbench) - PHP Benchmarking framework (3 days ago)
-- [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies) (3 days ago)
-- [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (4 days ago)
-- [laracraft-tech/laravel-useful-additions](https://github.com/laracraft-tech/laravel-useful-additions) - A collection of useful Laravel additions! (5 days ago)
+- [nunomaduro/laravel-desktop-notifier](https://github.com/nunomaduro/laravel-desktop-notifier) - 💻 Send notifications to your desktop from your Laravel Artisan Commands. An JoliNotif wrapper for Laravel. (1 day ago)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten (1 day ago)
+- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash (4 days ago)
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) - PHP Benchmarking framework (4 days ago)
+- [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies) (4 days ago)
+- [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (5 days ago)
+- [laracraft-tech/laravel-useful-additions](https://github.com/laracraft-tech/laravel-useful-additions) - A collection of useful Laravel additions! (6 days ago)
 - [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) - The PHP AST Viewer is a tool for viewing the Abstract Syntax Tree of PHP code. By visualizing the structure, it helps developers gain a deeper understanding of the code, thus improving code quality and maintenance efficiency. (1 week ago)
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install (1 week ago)
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install (2 weeks ago)
 - [TomasVotruba/phpstan-bodyscan](https://github.com/TomasVotruba/phpstan-bodyscan) - Get error count for each PHPStan level (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
