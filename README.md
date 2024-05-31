@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [ZenUml/web-sequence](https://github.com/ZenUml/web-sequence) - Realtime tool for generating sequence diagrams. (today)
 - [WendellAdriel/laravel-lift](https://github.com/WendellAdriel/laravel-lift) - Take your Eloquent Models to the next level (2 days ago)
 - [nunomaduro/laravel-desktop-notifier](https://github.com/nunomaduro/laravel-desktop-notifier) - 💻 Send notifications to your desktop from your Laravel Artisan Commands. An JoliNotif wrapper for Laravel. (4 days ago)
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten (4 days ago)
@@ -62,7 +63,6 @@
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (1 week ago)
 - [laracraft-tech/laravel-useful-additions](https://github.com/laracraft-tech/laravel-useful-additions) - A collection of useful Laravel additions! (1 week ago)
 - [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) - The PHP AST Viewer is a tool for viewing the Abstract Syntax Tree of PHP code. By visualizing the structure, it helps developers gain a deeper understanding of the code, thus improving code quality and maintenance efficiency. (2 weeks ago)
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
