@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (today)
 - [IonBazan/composer-diff](https://github.com/IonBazan/composer-diff) - Compares composer.lock changes and generates Markdown report so you can use it in PR description. (today)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love (today)
 - [vcian/laravel-db-auditor](https://github.com/vcian/laravel-db-auditor) - Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table (5 days ago)
@@ -62,7 +63,6 @@
 - [nunomaduro/laravel-desktop-notifier](https://github.com/nunomaduro/laravel-desktop-notifier) - 💻 Send notifications to your desktop from your Laravel Artisan Commands. An JoliNotif wrapper for Laravel. (1 week ago)
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten (1 week ago)
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash (1 week ago)
-- [phpbench/phpbench](https://github.com/phpbench/phpbench) - PHP Benchmarking framework (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
