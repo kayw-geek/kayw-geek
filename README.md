@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [IonBazan/composer-diff](https://github.com/IonBazan/composer-diff) - Compares composer.lock changes and generates Markdown report so you can use it in PR description. (today)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love (today)
 - [vcian/laravel-db-auditor](https://github.com/vcian/laravel-db-auditor) - Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table (5 days ago)
 - [tomloprod/time-warden](https://github.com/tomloprod/time-warden) - TimeWarden is a lightweight PHP library that enables you to monitor the processing time of tasks (useful during the development stage) and allows you to set maximum execution times to tasks, empowering reactive actions when tasks exceed their estimate duration. (5 days ago)
@@ -62,7 +63,6 @@
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten (1 week ago)
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash (1 week ago)
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) - PHP Benchmarking framework (1 week ago)
-- [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies) (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
