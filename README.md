@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.59.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.59.2), today) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.59.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.59.3), today) - A tool to automatically fix PHP Coding Standards issues
 - [laravel/framework](https://github.com/laravel/framework) ([v11.10.0](https://github.com/laravel/framework/releases/tag/v11.10.0), 1 week ago) - The Laravel Framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 1 week ago) - The Symfony PHP framework
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 3 weeks ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
