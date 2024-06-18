@@ -30,10 +30,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.314.3](https://github.com/aws/aws-sdk-php/releases/tag/3.314.3), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.59.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.59.3), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [laravel/framework](https://github.com/laravel/framework) ([v11.10.0](https://github.com/laravel/framework/releases/tag/v11.10.0), 1 week ago) - The Laravel Framework.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 1 week ago) - The Symfony PHP framework
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.314.3](https://github.com/aws/aws-sdk-php/releases/tag/3.314.3), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.59.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.59.3), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [laravel/framework](https://github.com/laravel/framework) ([v11.10.0](https://github.com/laravel/framework/releases/tag/v11.10.0), 2 weeks ago) - The Laravel Framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 2 weeks ago) - The Symfony PHP framework
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 3 weeks ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 1 month ago) - Eloquent&#39;s missing &#34;array&#34; driver.
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 2 months ago) - Keep your .env.example file up to date
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator) - &#34;Copybook Generator&#34; is a powerful copybook generation tool designed to meet the writing practice needs of different users. (today)
+- [jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator) - &#34;Copybook Generator&#34; is a powerful copybook generation tool designed to meet the writing practice needs of different users. (1 day ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (1 week ago)
 - [IonBazan/composer-diff](https://github.com/IonBazan/composer-diff) - Compares composer.lock changes and generates Markdown report so you can use it in PR description. (1 week ago)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love (1 week ago)
