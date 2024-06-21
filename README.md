@@ -22,27 +22,27 @@
 
 #### 🪅 Recent contributed Repos
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) - Official repository of the AWS SDK for PHP (@awsforphp) (2 days ago)
-- [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files (3 weeks ago)
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) - Official repository of the AWS SDK for PHP (@awsforphp) (3 days ago)
+- [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files (4 weeks ago)
 - [worksome/envy](https://github.com/worksome/envy) - Keep your .env.example file up to date (2 months ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (3 months ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.314.6](https://github.com/aws/aws-sdk-php/releases/tag/3.314.6), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v11.11.1](https://github.com/laravel/framework/releases/tag/v11.11.1), today) - The Laravel Framework.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.59.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.59.3), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.314.6](https://github.com/aws/aws-sdk-php/releases/tag/3.314.6), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v11.11.1](https://github.com/laravel/framework/releases/tag/v11.11.1), 1 day ago) - The Laravel Framework.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.59.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.59.3), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 2 weeks ago) - The Symfony PHP framework
-- [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 3 weeks ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
+- [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 4 weeks ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 1 month ago) - Eloquent&#39;s missing &#34;array&#34; driver.
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 2 months ago) - Keep your .env.example file up to date
-- [omniphx/forrest](https://github.com/omniphx/forrest) ([v2.18.2](https://github.com/omniphx/forrest/releases/tag/v2.18.2), 2 months ago) - A Laravel library for Salesforce
+- [omniphx/forrest](https://github.com/omniphx/forrest) ([v2.18.2](https://github.com/omniphx/forrest/releases/tag/v2.18.2), 3 months ago) - A Laravel library for Salesforce
 
 #### 🔨 My recent Pull Requests
 
 - [feat: add `ext-json` extension to `composer.json` ](https://github.com/RightCapitalHQ/php-ast-viewer/pull/9) on [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) (1 month ago)
-- [Make Env File Easier to Read by Grouping Variables Together](https://github.com/worksome/envy/pull/44) on [worksome/envy](https://github.com/worksome/envy) (1 month ago)
+- [Make Env File Easier to Read by Grouping Variables Together](https://github.com/worksome/envy/pull/44) on [worksome/envy](https://github.com/worksome/envy) (2 months ago)
 - [Support the `nikic/php-parser` to 5.x](https://github.com/worksome/envy/pull/41) on [worksome/envy](https://github.com/worksome/envy) (2 months ago)
 - [[10.x] Fix the cache cannot expire cache with `0` TTL](https://github.com/laravel/framework/pull/50359) on [laravel/framework](https://github.com/laravel/framework) (3 months ago)
 - [feat: Introduce config option for standardized null in typehints](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/7860) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (3 months ago)
@@ -54,14 +54,14 @@
 
 #### ⭐ Recent Stars
 
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - PHPStan based SQL static analysis and type inference for the database access layer (today)
-- [jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator) - &#34;Copybook Generator&#34; is a powerful copybook generation tool designed to meet the writing practice needs of different users. (3 days ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - PHPStan based SQL static analysis and type inference for the database access layer (1 day ago)
+- [jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator) - &#34;Copybook Generator&#34; is a powerful copybook generation tool designed to meet the writing practice needs of different users. (4 days ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (2 weeks ago)
 - [IonBazan/composer-diff](https://github.com/IonBazan/composer-diff) - Compares composer.lock changes and generates Markdown report so you can use it in PR description. (2 weeks ago)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love (2 weeks ago)
-- [vcian/laravel-db-auditor](https://github.com/vcian/laravel-db-auditor) - Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table (2 weeks ago)
-- [tomloprod/time-warden](https://github.com/tomloprod/time-warden) - TimeWarden is a lightweight PHP library that enables you to monitor the processing time of tasks (useful during the development stage) and allows you to set maximum execution times to tasks, empowering reactive actions when tasks exceed their estimate duration. (2 weeks ago)
-- [ZenUml/web-sequence](https://github.com/ZenUml/web-sequence) - Realtime tool for generating sequence diagrams. (2 weeks ago)
+- [vcian/laravel-db-auditor](https://github.com/vcian/laravel-db-auditor) - Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table (3 weeks ago)
+- [tomloprod/time-warden](https://github.com/tomloprod/time-warden) - TimeWarden is a lightweight PHP library that enables you to monitor the processing time of tasks (useful during the development stage) and allows you to set maximum execution times to tasks, empowering reactive actions when tasks exceed their estimate duration. (3 weeks ago)
+- [ZenUml/web-sequence](https://github.com/ZenUml/web-sequence) - Realtime tool for generating sequence diagrams. (3 weeks ago)
 - [WendellAdriel/laravel-lift](https://github.com/WendellAdriel/laravel-lift) - Take your Eloquent Models to the next level (3 weeks ago)
 - [nunomaduro/laravel-desktop-notifier](https://github.com/nunomaduro/laravel-desktop-notifier) - 💻 Send notifications to your desktop from your Laravel Artisan Commands. An JoliNotif wrapper for Laravel. (3 weeks ago)
 
