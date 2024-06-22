@@ -67,11 +67,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [kazhuravlev](https://github.com/kazhuravlev)
 - [KqLLL](https://github.com/KqLLL)
 - [rxrw](https://github.com/rxrw)
 - [djarif6585](https://github.com/djarif6585)
 - [surfskyio](https://github.com/surfskyio)
-- [rainx](https://github.com/rainx)
 
 
 ---
