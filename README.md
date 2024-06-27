@@ -54,6 +54,7 @@
 
 #### ⭐ Recent Stars
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World&#39;s most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. (today)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - PHPStan based SQL static analysis and type inference for the database access layer (1 week ago)
 - [jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator) - &#34;Copybook Generator&#34; is a powerful copybook generation tool designed to meet the writing practice needs of different users. (1 week ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (3 weeks ago)
@@ -63,7 +64,6 @@
 - [tomloprod/time-warden](https://github.com/tomloprod/time-warden) - TimeWarden is a lightweight PHP library that enables you to monitor the processing time of tasks (useful during the development stage) and allows you to set maximum execution times to tasks, empowering reactive actions when tasks exceed their estimate duration. (3 weeks ago)
 - [ZenUml/web-sequence](https://github.com/ZenUml/web-sequence) - Realtime tool for generating sequence diagrams. (3 weeks ago)
 - [WendellAdriel/laravel-lift](https://github.com/WendellAdriel/laravel-lift) - Take your Eloquent Models to the next level (4 weeks ago)
-- [nunomaduro/laravel-desktop-notifier](https://github.com/nunomaduro/laravel-desktop-notifier) - 💻 Send notifications to your desktop from your Laravel Artisan Commands. An JoliNotif wrapper for Laravel. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
