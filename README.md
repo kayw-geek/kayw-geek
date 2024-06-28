@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.9](https://github.com/symfony/symfony/releases/tag/v6.4.9), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.9](https://github.com/symfony/symfony/releases/tag/v7.0.9), today) - The Symfony PHP framework
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.315.1](https://github.com/aws/aws-sdk-php/releases/tag/3.315.1), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [laravel/framework](https://github.com/laravel/framework) ([v11.13.0](https://github.com/laravel/framework/releases/tag/v11.13.0), 1 day ago) - The Laravel Framework.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.59.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.59.3), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
