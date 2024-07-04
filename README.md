@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.315.5](https://github.com/aws/aws-sdk-php/releases/tag/3.315.5), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v10.48.15](https://github.com/laravel/framework/releases/tag/v10.48.15), 1 day ago) - The Laravel Framework.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), 5 days ago) - The Symfony PHP framework
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.315.5](https://github.com/aws/aws-sdk-php/releases/tag/3.315.5), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v10.48.15](https://github.com/laravel/framework/releases/tag/v10.48.15), 2 days ago) - The Laravel Framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), 6 days ago) - The Symfony PHP framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.59.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.59.3), 2 weeks ago) - A tool to automatically fix PHP Coding Standards issues
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 1 month ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 2 months ago) - Eloquent&#39;s missing &#34;array&#34; driver.
@@ -41,8 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Recurrence bug of standalone null type will be fixed to multiple null](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8099) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (5 days ago)
-- [fix: Fix for Incorrect Null Handling in NullableTypeDeclarationFixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8098) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (6 days ago)
+- [Recurrence bug of standalone null type will be fixed to multiple null](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8099) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (6 days ago)
+- [fix: Fix for Incorrect Null Handling in NullableTypeDeclarationFixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8098) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 - [feat: add `ext-json` extension to `composer.json` ](https://github.com/RightCapitalHQ/php-ast-viewer/pull/9) on [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) (1 month ago)
 - [Make Env File Easier to Read by Grouping Variables Together](https://github.com/worksome/envy/pull/44) on [worksome/envy](https://github.com/worksome/envy) (2 months ago)
 - [Support the `nikic/php-parser` to 5.x](https://github.com/worksome/envy/pull/41) on [worksome/envy](https://github.com/worksome/envy) (3 months ago)
@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World&#39;s most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. (6 days ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - PHPStan based SQL static analysis and type inference for the database access layer (1 week ago)
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World&#39;s most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. (1 week ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - PHPStan based SQL static analysis and type inference for the database access layer (2 weeks ago)
 - [jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator) - &#34;Copybook Generator&#34; is a powerful copybook generation tool designed to meet the writing practice needs of different users. (2 weeks ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (4 weeks ago)
 - [IonBazan/composer-diff](https://github.com/IonBazan/composer-diff) - Compares composer.lock changes and generates Markdown report so you can use it in PR description. (4 weeks ago)
