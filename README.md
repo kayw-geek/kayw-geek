@@ -22,11 +22,11 @@
 
 #### 🪅 Recent contributed Repos
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues (today)
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) - Official repository of the AWS SDK for PHP (@awsforphp) (2 weeks ago)
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files (1 month ago)
 - [worksome/envy](https://github.com/worksome/envy) - Keep your .env.example file up to date (3 months ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (4 months ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -42,7 +42,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Recurrence bug of standalone null type will be fixed to multiple null](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8099) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
-- [fix: Fix for Incorrect Null Handling in NullableTypeDeclarationFixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8098) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
+- [fix: `NullableTypeDeclarationFixer` - don&#39;t convert standalone `null` into nullable union type](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8098) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 week ago)
 - [feat: add `ext-json` extension to `composer.json` ](https://github.com/RightCapitalHQ/php-ast-viewer/pull/9) on [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) (1 month ago)
 - [Make Env File Easier to Read by Grouping Variables Together](https://github.com/worksome/envy/pull/44) on [worksome/envy](https://github.com/worksome/envy) (2 months ago)
 - [Support the `nikic/php-parser` to 5.x](https://github.com/worksome/envy/pull/41) on [worksome/envy](https://github.com/worksome/envy) (3 months ago)
