@@ -54,6 +54,8 @@
 
 #### ⭐ Recent Stars
 
+- [wwb521/live](https://github.com/wwb521/live) - 更新高质量电视直播源，欢迎大家使用，永久免费 (today)
+- [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook&#39;s notch like Dynamic Island for temporary storing files and AirDrop (today)
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World&#39;s most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. (1 week ago)
 - [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - PHPStan based SQL static analysis and type inference for the database access layer (2 weeks ago)
 - [jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator) - &#34;Copybook Generator&#34; is a powerful copybook generation tool designed to meet the writing practice needs of different users. (3 weeks ago)
@@ -62,8 +64,6 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love (1 month ago)
 - [vcian/laravel-db-auditor](https://github.com/vcian/laravel-db-auditor) - Database DB Auditor provide leverage to audit your MySql database standards and also provide options to add constraints in table (1 month ago)
 - [tomloprod/time-warden](https://github.com/tomloprod/time-warden) - TimeWarden is a lightweight PHP library that enables you to monitor the processing time of tasks (useful during the development stage) and allows you to set maximum execution times to tasks, empowering reactive actions when tasks exceed their estimate duration. (1 month ago)
-- [ZenUml/web-sequence](https://github.com/ZenUml/web-sequence) - Realtime tool for generating sequence diagrams. (1 month ago)
-- [WendellAdriel/laravel-lift](https://github.com/WendellAdriel/laravel-lift) - Take your Eloquent Models to the next level (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
