@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [alcohol/iso3166](https://github.com/alcohol/iso3166) - A PHP library providing ISO 3166-1 data. (today)
+- [sokil/php-isocodes](https://github.com/sokil/php-isocodes) - :star: PHP library providing ISO codes with localization: country (ISO 3166-1), subdivision (ISO 3166-2), language (ISO 639-3), currency (ISO 4217) and scripts (ISO 15924) (today)
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事 (2 weeks ago)
 - [wwb521/live](https://github.com/wwb521/live) - 更新高质量电视直播源，欢迎大家使用，永久免费 (2 weeks ago)
 - [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook&#39;s notch like Dynamic Island for temporary storing files and AirDrop (2 weeks ago)
