@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.316.6](https://github.com/aws/aws-sdk-php/releases/tag/3.316.6), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v11.17.0](https://github.com/laravel/framework/releases/tag/v11.17.0), today) - The Laravel Framework.
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.316.6](https://github.com/aws/aws-sdk-php/releases/tag/3.316.6), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v11.17.0](https://github.com/laravel/framework/releases/tag/v11.17.0), 1 day ago) - The Laravel Framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), 3 weeks ago) - The Symfony PHP framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.59.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.59.3), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 2 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [sokil/php-isocodes](https://github.com/sokil/php-isocodes) - :star: PHP library providing ISO codes with localization: country (ISO 3166-1), subdivision (ISO 3166-2), language (ISO 639-3), currency (ISO 4217) and scripts (ISO 15924) (today)
+- [sokil/php-isocodes](https://github.com/sokil/php-isocodes) - :star: PHP library providing ISO codes with localization: country (ISO 3166-1), subdivision (ISO 3166-2), language (ISO 639-3), currency (ISO 4217) and scripts (ISO 15924) (1 day ago)
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事 (2 weeks ago)
 - [wwb521/live](https://github.com/wwb521/live) - 更新高质量电视直播源，欢迎大家使用，永久免费 (2 weeks ago)
 - [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook&#39;s notch like Dynamic Island for temporary storing files and AirDrop (2 weeks ago)
