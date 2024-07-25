@@ -54,6 +54,7 @@
 
 #### ⭐ Recent Stars
 
+- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (today)
 - [sokil/php-isocodes](https://github.com/sokil/php-isocodes) - :star: PHP library providing ISO codes with localization: country (ISO 3166-1), subdivision (ISO 3166-2), language (ISO 639-3), currency (ISO 4217) and scripts (ISO 15924) (2 days ago)
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事 (2 weeks ago)
 - [wwb521/live](https://github.com/wwb521/live) - 更新高质量电视直播源，欢迎大家使用，永久免费 (2 weeks ago)
@@ -63,7 +64,6 @@
 - [jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator) - &#34;Copybook Generator&#34; is a powerful copybook generation tool designed to meet the writing practice needs of different users. (1 month ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (1 month ago)
 - [IonBazan/composer-diff](https://github.com/IonBazan/composer-diff) - Compares composer.lock changes and generates Markdown report so you can use it in PR description. (1 month ago)
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
