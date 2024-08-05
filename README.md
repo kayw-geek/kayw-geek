@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.317.1](https://github.com/aws/aws-sdk-php/releases/tag/3.317.1), 3 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.317.2](https://github.com/aws/aws-sdk-php/releases/tag/3.317.2), today) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.2.3](https://github.com/orchestral/testbench-core/releases/tag/v9.2.3), 3 days ago) - Testing Helper for Laravel Development
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.61.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.61.1), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [laravel/framework](https://github.com/laravel/framework) ([v11.19.0](https://github.com/laravel/framework/releases/tag/v11.19.0), 6 days ago) - The Laravel Framework.
