@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.320.0](https://github.com/aws/aws-sdk-php/releases/tag/3.320.0), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.3.0](https://github.com/orchestral/testbench-core/releases/tag/v9.3.0), today) - Testing Helper for Laravel Development
-- [laravel/framework](https://github.com/laravel/framework) ([v10.48.20](https://github.com/laravel/framework/releases/tag/v10.48.20), 5 days ago) - The Laravel Framework.
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.320.0](https://github.com/aws/aws-sdk-php/releases/tag/3.320.0), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.3.0](https://github.com/orchestral/testbench-core/releases/tag/v9.3.0), 1 day ago) - Testing Helper for Laravel Development
+- [laravel/framework](https://github.com/laravel/framework) ([v10.48.20](https://github.com/laravel/framework/releases/tag/v10.48.20), 6 days ago) - The Laravel Framework.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.62.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.62.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 2 weeks ago) - The Symfony PHP framework
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 2 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
@@ -45,7 +45,7 @@
 - [Supports PHPUnit 11.3](https://github.com/orchestral/testbench-core/pull/220) on [orchestral/testbench-core](https://github.com/orchestral/testbench-core) (1 week ago)
 - [Recurrence bug of standalone null type will be fixed to multiple null](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8099) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 month ago)
 - [fix: `NullableTypeDeclarationFixer` - don&#39;t convert standalone `null` into nullable union type](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8098) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 month ago)
-- [feat: add `ext-json` extension to `composer.json` ](https://github.com/RightCapitalHQ/php-ast-viewer/pull/9) on [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) (2 months ago)
+- [feat: add `ext-json` extension to `composer.json` ](https://github.com/RightCapitalHQ/php-ast-viewer/pull/9) on [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) (3 months ago)
 - [Make Env File Easier to Read by Grouping Variables Together](https://github.com/worksome/envy/pull/44) on [worksome/envy](https://github.com/worksome/envy) (3 months ago)
 - [Support the `nikic/php-parser` to 5.x](https://github.com/worksome/envy/pull/41) on [worksome/envy](https://github.com/worksome/envy) (4 months ago)
 - [[10.x] Fix the cache cannot expire cache with `0` TTL](https://github.com/laravel/framework/pull/50359) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
@@ -54,10 +54,10 @@
 
 #### ⭐ Recent Stars
 
-- [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么 (2 days ago)
+- [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么 (3 days ago)
 - [Sammyjo20/ssh-php](https://github.com/Sammyjo20/ssh-php) - The ridiculously simple starting point for building PHP SSH apps! 🔥 (1 week ago)
 - [yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android) - 使用Android原生开发的电视直播软件 (2 weeks ago)
-- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (2 weeks ago)
+- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (3 weeks ago)
 - [sokil/php-isocodes](https://github.com/sokil/php-isocodes) - :star: PHP library providing ISO codes with localization: country (ISO 3166-1), subdivision (ISO 3166-2), language (ISO 639-3), currency (ISO 4217) and scripts (ISO 15924) (3 weeks ago)
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事 (1 month ago)
 - [wwb521/live](https://github.com/wwb521/live) - 更新高质量电视直播源，欢迎大家使用，永久免费 (1 month ago)
