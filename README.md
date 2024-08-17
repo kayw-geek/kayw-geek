@@ -24,14 +24,14 @@
 
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) - Testing Helper for Laravel Development (2 weeks ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues (1 month ago)
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) - Official repository of the AWS SDK for PHP (@awsforphp) (1 month ago)
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) - Official repository of the AWS SDK for PHP (@awsforphp) (2 months ago)
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files (2 months ago)
 - [worksome/envy](https://github.com/worksome/envy) - Keep your .env.example file up to date (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.320.2](https://github.com/aws/aws-sdk-php/releases/tag/3.320.2), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.3.0](https://github.com/orchestral/testbench-core/releases/tag/v9.3.0), 2 days ago) - Testing Helper for Laravel Development
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.320.2](https://github.com/aws/aws-sdk-php/releases/tag/3.320.2), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.3.0](https://github.com/orchestral/testbench-core/releases/tag/v9.3.0), 3 days ago) - Testing Helper for Laravel Development
 - [laravel/framework](https://github.com/laravel/framework) ([v10.48.20](https://github.com/laravel/framework/releases/tag/v10.48.20), 1 week ago) - The Laravel Framework.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.62.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.62.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 3 weeks ago) - The Symfony PHP framework
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么 (4 days ago)
+- [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么 (5 days ago)
 - [Sammyjo20/ssh-php](https://github.com/Sammyjo20/ssh-php) - The ridiculously simple starting point for building PHP SSH apps! 🔥 (2 weeks ago)
 - [yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android) - 使用Android原生开发的电视直播软件 (3 weeks ago)
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (3 weeks ago)
