@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.320.2](https://github.com/aws/aws-sdk-php/releases/tag/3.320.2), 2 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.3.0](https://github.com/orchestral/testbench-core/releases/tag/v9.3.0), 4 days ago) - Testing Helper for Laravel Development
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.320.2](https://github.com/aws/aws-sdk-php/releases/tag/3.320.2), 3 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.3.0](https://github.com/orchestral/testbench-core/releases/tag/v9.3.0), 5 days ago) - Testing Helper for Laravel Development
 - [laravel/framework](https://github.com/laravel/framework) ([v10.48.20](https://github.com/laravel/framework/releases/tag/v10.48.20), 1 week ago) - The Laravel Framework.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.62.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.62.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 3 weeks ago) - The Symfony PHP framework
@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove the `--warm-coverage-cache` option cause by issue #4600](https://github.com/sebastianbergmann/phpunit/pull/5911) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)
+- [Remove the `--warm-coverage-cache` option cause by issue #4600](https://github.com/sebastianbergmann/phpunit/pull/5911) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)
 - [Supports PHPUnit 11.3](https://github.com/orchestral/testbench-core/pull/220) on [orchestral/testbench-core](https://github.com/orchestral/testbench-core) (2 weeks ago)
 - [Recurrence bug of standalone null type will be fixed to multiple null](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8099) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 month ago)
 - [fix: `NullableTypeDeclarationFixer` - don&#39;t convert standalone `null` into nullable union type](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8098) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (1 month ago)
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么 (6 days ago)
+- [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么 (1 week ago)
 - [Sammyjo20/ssh-php](https://github.com/Sammyjo20/ssh-php) - The ridiculously simple starting point for building PHP SSH apps! 🔥 (2 weeks ago)
 - [yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android) - 使用Android原生开发的电视直播软件 (3 weeks ago)
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (3 weeks ago)
@@ -63,7 +63,7 @@
 - [wwb521/live](https://github.com/wwb521/live) - 更新高质量电视直播源，欢迎大家使用，永久免费 (1 month ago)
 - [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook&#39;s notch like Dynamic Island for temporary storing files and AirDrop (1 month ago)
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World&#39;s most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. (1 month ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - PHPStan based SQL static analysis and type inference for the database access layer (1 month ago)
+- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - PHPStan based SQL static analysis and type inference for the database access layer (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
