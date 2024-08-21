@@ -54,6 +54,7 @@
 
 #### ⭐ Recent Stars
 
+- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap (today)
 - [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么 (1 week ago)
 - [Sammyjo20/ssh-php](https://github.com/Sammyjo20/ssh-php) - The ridiculously simple starting point for building PHP SSH apps! 🔥 (2 weeks ago)
 - [yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android) - 使用Android原生开发的电视直播软件 (3 weeks ago)
@@ -63,7 +64,6 @@
 - [wwb521/live](https://github.com/wwb521/live) - 更新高质量电视直播源，欢迎大家使用，永久免费 (1 month ago)
 - [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook&#39;s notch like Dynamic Island for temporary storing files and AirDrop (1 month ago)
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World&#39;s most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. (1 month ago)
-- [staabm/phpstan-dba](https://github.com/staabm/phpstan-dba) - PHPStan based SQL static analysis and type inference for the database access layer (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
