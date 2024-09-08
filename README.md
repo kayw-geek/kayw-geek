@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.321.6](https://github.com/aws/aws-sdk-php/releases/tag/3.321.6), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v11.22.0](https://github.com/laravel/framework/releases/tag/v11.22.0), 4 days ago) - The Laravel Framework.
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.321.6](https://github.com/aws/aws-sdk-php/releases/tag/3.321.6), 2 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v11.22.0](https://github.com/laravel/framework/releases/tag/v11.22.0), 5 days ago) - The Laravel Framework.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.64.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 1 week ago) - The Symfony PHP framework
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.4.0](https://github.com/orchestral/testbench-core/releases/tag/v9.4.0), 1 week ago) - Testing Helper for Laravel Development
@@ -54,9 +54,9 @@
 
 #### ⭐ Recent Stars
 
-- [TicketSwap/phpstan-error-formatter](https://github.com/TicketSwap/phpstan-error-formatter) - A minimalistic error formatter for PHPStan (2 days ago)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (2 days ago)
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (5 days ago)
+- [TicketSwap/phpstan-error-formatter](https://github.com/TicketSwap/phpstan-error-formatter) - A minimalistic error formatter for PHPStan (3 days ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (3 days ago)
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (6 days ago)
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS (2 weeks ago)
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap (2 weeks ago)
 - [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么 (3 weeks ago)
