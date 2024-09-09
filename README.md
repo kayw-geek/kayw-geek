@@ -30,11 +30,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.321.6](https://github.com/aws/aws-sdk-php/releases/tag/3.321.6), 2 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v11.22.0](https://github.com/laravel/framework/releases/tag/v11.22.0), 5 days ago) - The Laravel Framework.
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.321.6](https://github.com/aws/aws-sdk-php/releases/tag/3.321.6), 3 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v11.22.0](https://github.com/laravel/framework/releases/tag/v11.22.0), 6 days ago) - The Laravel Framework.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.64.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 1 week ago) - The Symfony PHP framework
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.4.0](https://github.com/orchestral/testbench-core/releases/tag/v9.4.0), 1 week ago) - Testing Helper for Laravel Development
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.4.0](https://github.com/orchestral/testbench-core/releases/tag/v9.4.0), 2 weeks ago) - Testing Helper for Laravel Development
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 3 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 4 months ago) - Eloquent&#39;s missing &#34;array&#34; driver.
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 4 months ago) - Keep your .env.example file up to date
@@ -54,12 +54,12 @@
 
 #### ⭐ Recent Stars
 
-- [TicketSwap/phpstan-error-formatter](https://github.com/TicketSwap/phpstan-error-formatter) - A minimalistic error formatter for PHPStan (3 days ago)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (3 days ago)
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (6 days ago)
+- [TicketSwap/phpstan-error-formatter](https://github.com/TicketSwap/phpstan-error-formatter) - A minimalistic error formatter for PHPStan (4 days ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (4 days ago)
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (1 week ago)
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS (2 weeks ago)
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap (2 weeks ago)
-- [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么 (3 weeks ago)
+- [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么 (4 weeks ago)
 - [Sammyjo20/ssh-php](https://github.com/Sammyjo20/ssh-php) - The ridiculously simple starting point for building PHP SSH apps! 🔥 (1 month ago)
 - [yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android) - 使用Android原生开发的电视直播软件 (1 month ago)
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (1 month ago)
