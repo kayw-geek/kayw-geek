@@ -22,7 +22,7 @@
 
 #### 🪅 Recent contributed Repos
 
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (3 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (4 days ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (3 weeks ago)
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) - Testing Helper for Laravel Development (1 month ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues (2 months ago)
@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.321.11](https://github.com/aws/aws-sdk-php/releases/tag/3.321.11), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v11.23.5](https://github.com/laravel/framework/releases/tag/v11.23.5), today) - The Laravel Framework.
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.4.1](https://github.com/orchestral/testbench-core/releases/tag/v9.4.1), 1 day ago) - Testing Helper for Laravel Development
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.321.11](https://github.com/aws/aws-sdk-php/releases/tag/3.321.11), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v11.23.5](https://github.com/laravel/framework/releases/tag/v11.23.5), 1 day ago) - The Laravel Framework.
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.4.1](https://github.com/orchestral/testbench-core/releases/tag/v9.4.1), 2 days ago) - Testing Helper for Laravel Development
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.64.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0), 2 weeks ago) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 2 weeks ago) - The Symfony PHP framework
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 3 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
@@ -41,23 +41,23 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[11.x] Enhance PHPDoc for Eloquent Relations to support precise subclasses](https://github.com/laravel/framework/pull/52775) on [laravel/framework](https://github.com/laravel/framework) (today)
-- [[11.x] Fix incorrect PHPDoc for Builder relation](https://github.com/laravel/framework/pull/52754) on [laravel/framework](https://github.com/laravel/framework) (1 day ago)
-- [[11.x] Fix incorrect variable-length argument `$guards` from array to string](https://github.com/laravel/framework/pull/52719) on [laravel/framework](https://github.com/laravel/framework) (3 days ago)
+- [[11.x] Enhance PHPDoc for Eloquent Relations to support precise subclasses](https://github.com/laravel/framework/pull/52775) on [laravel/framework](https://github.com/laravel/framework) (1 day ago)
+- [[11.x] Fix incorrect PHPDoc for Builder relation](https://github.com/laravel/framework/pull/52754) on [laravel/framework](https://github.com/laravel/framework) (2 days ago)
+- [[11.x] Fix incorrect variable-length argument `$guards` from array to string](https://github.com/laravel/framework/pull/52719) on [laravel/framework](https://github.com/laravel/framework) (4 days ago)
 - [Resolve the `symfony/config` compatibility](https://github.com/symplify/monorepo-builder/pull/74) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 weeks ago)
 - [Optimize the composer properties sorting](https://github.com/symplify/monorepo-builder/pull/73) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 weeks ago)
 - [Remove the `--warm-coverage-cache` option cause by issue #4600](https://github.com/sebastianbergmann/phpunit/pull/5911) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 month ago)
 - [Supports PHPUnit 11.3](https://github.com/orchestral/testbench-core/pull/220) on [orchestral/testbench-core](https://github.com/orchestral/testbench-core) (1 month ago)
 - [Recurrence bug of standalone null type will be fixed to multiple null](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8099) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 months ago)
 - [fix: `NullableTypeDeclarationFixer` - don&#39;t convert standalone `null` into nullable union type](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pull/8098) on [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) (2 months ago)
-- [feat: add `ext-json` extension to `composer.json` ](https://github.com/RightCapitalHQ/php-ast-viewer/pull/9) on [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) (3 months ago)
+- [feat: add `ext-json` extension to `composer.json` ](https://github.com/RightCapitalHQ/php-ast-viewer/pull/9) on [RightCapitalHQ/php-ast-viewer](https://github.com/RightCapitalHQ/php-ast-viewer) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [zenstruck/console-extra](https://github.com/zenstruck/console-extra) - A modular set of features to reduce configuration boilerplate for your Symfony commands. (today)
-- [morishin/XDeck](https://github.com/morishin/XDeck) - An 𝕏 client app for macOS as a TweetDeck (X Pro) alternative. (today)
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000&#43; tools and scripts. (today)
-- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments (today)
+- [zenstruck/console-extra](https://github.com/zenstruck/console-extra) - A modular set of features to reduce configuration boilerplate for your Symfony commands. (1 day ago)
+- [morishin/XDeck](https://github.com/morishin/XDeck) - An 𝕏 client app for macOS as a TweetDeck (X Pro) alternative. (1 day ago)
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000&#43; tools and scripts. (1 day ago)
+- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments (1 day ago)
 - [TicketSwap/phpstan-error-formatter](https://github.com/TicketSwap/phpstan-error-formatter) - A minimalistic error formatter for PHPStan (1 week ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (1 week ago)
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (1 week ago)
