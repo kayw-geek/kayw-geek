@@ -67,11 +67,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [hairrrrr](https://github.com/hairrrrr)
 - [rxrw](https://github.com/rxrw)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [jzhangdev](https://github.com/jzhangdev)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
-- [KqLLL](https://github.com/KqLLL)
 
 
 ---
