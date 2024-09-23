@@ -54,6 +54,7 @@
 
 #### ⭐ Recent Stars
 
+- [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive. (today)
 - [zenstruck/console-extra](https://github.com/zenstruck/console-extra) - A modular set of features to reduce configuration boilerplate for your Symfony commands. (1 week ago)
 - [morishin/XDeck](https://github.com/morishin/XDeck) - An 𝕏 client app for macOS as a TweetDeck (X Pro) alternative. (1 week ago)
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000&#43; tools and scripts. (1 week ago)
@@ -63,7 +64,6 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (3 weeks ago)
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS (1 month ago)
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap (1 month ago)
-- [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
