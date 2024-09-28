@@ -22,7 +22,7 @@
 
 #### 🪅 Recent contributed Repos
 
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (2 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (3 days ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (1 month ago)
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) - Testing Helper for Laravel Development (1 month ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues (2 months ago)
@@ -30,10 +30,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.322.7](https://github.com/aws/aws-sdk-php/releases/tag/3.322.7), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v11.25.0](https://github.com/laravel/framework/releases/tag/v11.25.0), 1 day ago) - The Laravel Framework.
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.1](https://github.com/orchestral/testbench-core/releases/tag/v9.5.1), 2 days ago) - Testing Helper for Laravel Development
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 6 days ago) - The Symfony PHP framework
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.322.7](https://github.com/aws/aws-sdk-php/releases/tag/3.322.7), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v11.25.0](https://github.com/laravel/framework/releases/tag/v11.25.0), 2 days ago) - The Laravel Framework.
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.1](https://github.com/orchestral/testbench-core/releases/tag/v9.5.1), 3 days ago) - Testing Helper for Laravel Development
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 1 week ago) - The Symfony PHP framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.64.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0), 4 weeks ago) - A tool to automatically fix PHP Coding Standards issues
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 4 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 5 months ago) - Eloquent&#39;s missing &#34;array&#34; driver.
@@ -41,9 +41,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[11.x] Add generic type parameters for `Eloquent\Builder` in `@param` Tag to avoid PHPStan errors](https://github.com/laravel/framework/pull/52944) on [laravel/framework](https://github.com/laravel/framework) (1 day ago)
-- [[11.x] Fix incorrect PHPDoc for KeyBy and GroupBy](https://github.com/laravel/framework/pull/52918) on [laravel/framework](https://github.com/laravel/framework) (2 days ago)
-- [[11.x] Fix PHPDoc for TestResponse&#39;s `Response` Type to \Symfony\Component\HttpFoundation\Response](https://github.com/laravel/framework/pull/52915) on [laravel/framework](https://github.com/laravel/framework) (2 days ago)
+- [[11.x] Add generic type parameters for `Eloquent\Builder` in `@param` Tag to avoid PHPStan errors](https://github.com/laravel/framework/pull/52944) on [laravel/framework](https://github.com/laravel/framework) (2 days ago)
+- [[11.x] Fix incorrect PHPDoc for KeyBy and GroupBy](https://github.com/laravel/framework/pull/52918) on [laravel/framework](https://github.com/laravel/framework) (3 days ago)
+- [[11.x] Fix PHPDoc for TestResponse&#39;s `Response` Type to \Symfony\Component\HttpFoundation\Response](https://github.com/laravel/framework/pull/52915) on [laravel/framework](https://github.com/laravel/framework) (3 days ago)
 - [[11.x] Enhance PHPDoc for Eloquent Relations to support precise subclasses](https://github.com/laravel/framework/pull/52775) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
 - [[11.x] Fix incorrect PHPDoc for Builder relation](https://github.com/laravel/framework/pull/52754) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
 - [[11.x] Fix incorrect variable-length argument `$guards` from array to string](https://github.com/laravel/framework/pull/52719) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive. (4 days ago)
+- [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive. (5 days ago)
 - [zenstruck/console-extra](https://github.com/zenstruck/console-extra) - A modular set of features to reduce configuration boilerplate for your Symfony commands. (2 weeks ago)
 - [morishin/XDeck](https://github.com/morishin/XDeck) - An 𝕏 client app for macOS as a TweetDeck (X Pro) alternative. (2 weeks ago)
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000&#43; tools and scripts. (2 weeks ago)
