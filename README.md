@@ -54,6 +54,7 @@
 
 #### ⭐ Recent Stars
 
+- [hongye612430/awesome-programming-books-1](https://github.com/hongye612430/awesome-programming-books-1) - 📚 经典技术书籍 PDF 文件，持续更新... (today)
 - [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive. (6 days ago)
 - [zenstruck/console-extra](https://github.com/zenstruck/console-extra) - A modular set of features to reduce configuration boilerplate for your Symfony commands. (2 weeks ago)
 - [morishin/XDeck](https://github.com/morishin/XDeck) - An 𝕏 client app for macOS as a TweetDeck (X Pro) alternative. (2 weeks ago)
@@ -63,7 +64,6 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (3 weeks ago)
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (3 weeks ago)
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS (1 month ago)
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
