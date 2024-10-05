@@ -30,10 +30,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.323.1](https://github.com/aws/aws-sdk-php/releases/tag/3.323.1), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v11.26.0](https://github.com/laravel/framework/releases/tag/v11.26.0), 3 days ago) - The Laravel Framework.
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.323.1](https://github.com/aws/aws-sdk-php/releases/tag/3.323.1), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v11.26.0](https://github.com/laravel/framework/releases/tag/v11.26.0), 4 days ago) - The Laravel Framework.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.1](https://github.com/orchestral/testbench-core/releases/tag/v9.5.1), 1 week ago) - Testing Helper for Laravel Development
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 1 week ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 2 weeks ago) - The Symfony PHP framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.64.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 4 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 5 months ago) - Eloquent&#39;s missing &#34;array&#34; driver.
@@ -54,14 +54,14 @@
 
 #### ⭐ Recent Stars
 
-- [hongye612430/awesome-programming-books-1](https://github.com/hongye612430/awesome-programming-books-1) - 📚 经典技术书籍 PDF 文件，持续更新... (5 days ago)
+- [hongye612430/awesome-programming-books-1](https://github.com/hongye612430/awesome-programming-books-1) - 📚 经典技术书籍 PDF 文件，持续更新... (6 days ago)
 - [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive. (1 week ago)
 - [zenstruck/console-extra](https://github.com/zenstruck/console-extra) - A modular set of features to reduce configuration boilerplate for your Symfony commands. (3 weeks ago)
 - [morishin/XDeck](https://github.com/morishin/XDeck) - An 𝕏 client app for macOS as a TweetDeck (X Pro) alternative. (3 weeks ago)
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000&#43; tools and scripts. (3 weeks ago)
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments (3 weeks ago)
-- [TicketSwap/phpstan-error-formatter](https://github.com/TicketSwap/phpstan-error-formatter) - A minimalistic error formatter for PHPStan (4 weeks ago)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (4 weeks ago)
+- [TicketSwap/phpstan-error-formatter](https://github.com/TicketSwap/phpstan-error-formatter) - A minimalistic error formatter for PHPStan (1 month ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (1 month ago)
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (1 month ago)
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS (1 month ago)
 
