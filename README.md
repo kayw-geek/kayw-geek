@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.3](https://github.com/orchestral/testbench-core/releases/tag/v9.5.3), today) - Testing Helper for Laravel Development
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.323.1](https://github.com/aws/aws-sdk-php/releases/tag/3.323.1), 2 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v11.26.0](https://github.com/laravel/framework/releases/tag/v11.26.0), 5 days ago) - The Laravel Framework.
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.3](https://github.com/orchestral/testbench-core/releases/tag/v9.5.3), 1 day ago) - Testing Helper for Laravel Development
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.323.1](https://github.com/aws/aws-sdk-php/releases/tag/3.323.1), 3 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v11.26.0](https://github.com/laravel/framework/releases/tag/v11.26.0), 6 days ago) - The Laravel Framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 2 weeks ago) - The Symfony PHP framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.64.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 4 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
@@ -55,7 +55,7 @@
 #### ⭐ Recent Stars
 
 - [hongye612430/awesome-programming-books-1](https://github.com/hongye612430/awesome-programming-books-1) - 📚 经典技术书籍 PDF 文件，持续更新... (1 week ago)
-- [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive. (1 week ago)
+- [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive. (2 weeks ago)
 - [zenstruck/console-extra](https://github.com/zenstruck/console-extra) - A modular set of features to reduce configuration boilerplate for your Symfony commands. (3 weeks ago)
 - [morishin/XDeck](https://github.com/morishin/XDeck) - An 𝕏 client app for macOS as a TweetDeck (X Pro) alternative. (3 weeks ago)
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000&#43; tools and scripts. (3 weeks ago)
