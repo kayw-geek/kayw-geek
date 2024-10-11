@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support Laravel 11.x](https://github.com/saasscaleup/laravel-n-plus-one-detector/pull/3) on [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) (today)
 - [[11.x] Add generic type parameters for `Eloquent\Builder` in `@param` Tag to avoid PHPStan errors](https://github.com/laravel/framework/pull/52944) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
 - [[11.x] Fix incorrect PHPDoc for KeyBy and GroupBy](https://github.com/laravel/framework/pull/52918) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
 - [[11.x] Fix PHPDoc for TestResponse&#39;s `Response` Type to \Symfony\Component\HttpFoundation\Response](https://github.com/laravel/framework/pull/52915) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
@@ -50,7 +51,6 @@
 - [Resolve the `symfony/config` compatibility](https://github.com/symplify/monorepo-builder/pull/74) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [Optimize the composer properties sorting](https://github.com/symplify/monorepo-builder/pull/73) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [Remove the `--warm-coverage-cache` option cause by issue #4600](https://github.com/sebastianbergmann/phpunit/pull/5911) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 months ago)
-- [Supports PHPUnit 11.3](https://github.com/orchestral/testbench-core/pull/220) on [orchestral/testbench-core](https://github.com/orchestral/testbench-core) (2 months ago)
 
 #### ⭐ Recent Stars
 
