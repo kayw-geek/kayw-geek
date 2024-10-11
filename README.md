@@ -22,11 +22,11 @@
 
 #### 🪅 Recent contributed Repos
 
+- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (today)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (2 weeks ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (1 month ago)
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) - Testing Helper for Laravel Development (2 months ago)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues (3 months ago)
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) - Official repository of the AWS SDK for PHP (@awsforphp) (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -35,6 +35,7 @@
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.3](https://github.com/orchestral/testbench-core/releases/tag/v9.5.3), 5 days ago) - Testing Helper for Laravel Development
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 2 weeks ago) - The Symfony PHP framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.64.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
+- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.5](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.5), 2 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 4 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 5 months ago) - Eloquent&#39;s missing &#34;array&#34; driver.
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 5 months ago) - Keep your .env.example file up to date
