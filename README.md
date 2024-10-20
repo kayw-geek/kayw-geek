@@ -30,10 +30,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.324.6](https://github.com/aws/aws-sdk-php/releases/tag/3.324.6), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v11.28.1](https://github.com/laravel/framework/releases/tag/v11.28.1), 3 days ago) - The Laravel Framework.
-- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 5 days ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.3](https://github.com/orchestral/testbench-core/releases/tag/v9.5.3), 1 week ago) - Testing Helper for Laravel Development
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.324.6](https://github.com/aws/aws-sdk-php/releases/tag/3.324.6), 2 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v11.28.1](https://github.com/laravel/framework/releases/tag/v11.28.1), 4 days ago) - The Laravel Framework.
+- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 6 days ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.3](https://github.com/orchestral/testbench-core/releases/tag/v9.5.3), 2 weeks ago) - Testing Helper for Laravel Development
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 4 weeks ago) - The Symfony PHP framework
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.64.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 4 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
@@ -50,16 +50,16 @@
 - [[11.x] Fix incorrect PHPDoc for Builder relation](https://github.com/laravel/framework/pull/52754) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
 - [[11.x] Fix incorrect variable-length argument `$guards` from array to string](https://github.com/laravel/framework/pull/52719) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
 - [Resolve the `symfony/config` compatibility](https://github.com/symplify/monorepo-builder/pull/74) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
-- [Optimize the composer properties sorting](https://github.com/symplify/monorepo-builder/pull/73) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
+- [Optimize the composer properties sorting](https://github.com/symplify/monorepo-builder/pull/73) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
 - [Remove the `--warm-coverage-cache` option cause by issue #4600](https://github.com/sebastianbergmann/phpunit/pull/5911) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [editorconfig-checker/editorconfig-checker.php](https://github.com/editorconfig-checker/editorconfig-checker.php) - A tool to verify that your files are in harmony with your .editorconfig (3 days ago)
+- [editorconfig-checker/editorconfig-checker.php](https://github.com/editorconfig-checker/editorconfig-checker.php) - A tool to verify that your files are in harmony with your .editorconfig (4 days ago)
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (1 week ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - PHPStan error formatter that generates baseline files per each error identifier. (1 week ago)
 - [wibus-wee/InjectGUI](https://github.com/wibus-wee/InjectGUI) - macOS Integrated Injection Framework (GUI version) (1 week ago)
-- [hongye612430/awesome-programming-books-1](https://github.com/hongye612430/awesome-programming-books-1) - 📚 经典技术书籍 PDF 文件，持续更新... (2 weeks ago)
+- [hongye612430/awesome-programming-books-1](https://github.com/hongye612430/awesome-programming-books-1) - 📚 经典技术书籍 PDF 文件，持续更新... (3 weeks ago)
 - [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive. (3 weeks ago)
 - [zenstruck/console-extra](https://github.com/zenstruck/console-extra) - A modular set of features to reduce configuration boilerplate for your Symfony commands. (1 month ago)
 - [morishin/XDeck](https://github.com/morishin/XDeck) - An 𝕏 client app for macOS as a TweetDeck (X Pro) alternative. (1 month ago)
