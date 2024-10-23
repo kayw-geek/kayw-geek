@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.324.8](https://github.com/aws/aws-sdk-php/releases/tag/3.324.8), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.324.9](https://github.com/aws/aws-sdk-php/releases/tag/3.324.9), today) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [laravel/framework](https://github.com/laravel/framework) ([v11.29.0](https://github.com/laravel/framework/releases/tag/v11.29.0), 1 day ago) - The Laravel Framework.
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 1 week ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.3](https://github.com/orchestral/testbench-core/releases/tag/v9.5.3), 2 weeks ago) - Testing Helper for Laravel Development
