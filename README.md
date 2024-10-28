@@ -30,11 +30,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), today) - The Symfony PHP framework
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.324.11](https://github.com/aws/aws-sdk-php/releases/tag/3.324.11), 2 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.5](https://github.com/orchestral/testbench-core/releases/tag/v9.5.5), 2 days ago) - Testing Helper for Laravel Development
-- [laravel/framework](https://github.com/laravel/framework) ([v11.29.0](https://github.com/laravel/framework/releases/tag/v11.29.0), 5 days ago) - The Laravel Framework.
-- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 1 week ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 1 day ago) - The Symfony PHP framework
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.324.11](https://github.com/aws/aws-sdk-php/releases/tag/3.324.11), 3 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.5](https://github.com/orchestral/testbench-core/releases/tag/v9.5.5), 3 days ago) - Testing Helper for Laravel Development
+- [laravel/framework](https://github.com/laravel/framework) ([v11.29.0](https://github.com/laravel/framework/releases/tag/v11.29.0), 6 days ago) - The Laravel Framework.
+- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 2 weeks ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.64.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 5 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 6 months ago) - Eloquent&#39;s missing &#34;array&#34; driver.
@@ -42,7 +42,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve PHPDoc for find method of QueryBuilder to support FETCH_ASSOC](https://github.com/larastan/larastan/pull/2081) on [larastan/larastan](https://github.com/larastan/larastan) (6 days ago)
+- [Improve PHPDoc for find method of QueryBuilder to support FETCH_ASSOC](https://github.com/larastan/larastan/pull/2081) on [larastan/larastan](https://github.com/larastan/larastan) (1 week ago)
 - [Support Laravel 11.x](https://github.com/saasscaleup/laravel-n-plus-one-detector/pull/3) on [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) (2 weeks ago)
 - [[11.x] Add generic type parameters for `Eloquent\Builder` in `@param` Tag to avoid PHPStan errors](https://github.com/laravel/framework/pull/52944) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
 - [[11.x] Fix incorrect PHPDoc for KeyBy and GroupBy](https://github.com/laravel/framework/pull/52918) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent Stars
 
-- [corbt/agent.exe](https://github.com/corbt/agent.exe) -  (2 days ago)
+- [corbt/agent.exe](https://github.com/corbt/agent.exe) -  (3 days ago)
 - [editorconfig-checker/editorconfig-checker.php](https://github.com/editorconfig-checker/editorconfig-checker.php) - A tool to verify that your files are in harmony with your .editorconfig (1 week ago)
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (2 weeks ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - PHPStan error formatter that generates baseline files per each error identifier. (2 weeks ago)
