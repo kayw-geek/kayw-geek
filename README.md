@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [olivernybroe/collector-intellij](https://github.com/olivernybroe/collector-intellij) - A PhpStorm plugin for refactoring to collections (today)
 - [corbt/agent.exe](https://github.com/corbt/agent.exe) -  (1 week ago)
 - [editorconfig-checker/editorconfig-checker.php](https://github.com/editorconfig-checker/editorconfig-checker.php) - A tool to verify that your files are in harmony with your .editorconfig (2 weeks ago)
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (3 weeks ago)
@@ -65,7 +66,6 @@
 - [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive. (1 month ago)
 - [zenstruck/console-extra](https://github.com/zenstruck/console-extra) - A modular set of features to reduce configuration boilerplate for your Symfony commands. (1 month ago)
 - [morishin/XDeck](https://github.com/morishin/XDeck) - An 𝕏 client app for macOS as a TweetDeck (X Pro) alternative. (1 month ago)
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - X bootstrap 1000&#43; tools and scripts. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
