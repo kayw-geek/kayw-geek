@@ -22,7 +22,7 @@
 
 #### 🪅 Recent contributed Repos
 
-- [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (today)
+- [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (1 day ago)
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (3 weeks ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 month ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 months ago)
@@ -30,12 +30,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [larastan/larastan](https://github.com/larastan/larastan) ([v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10), 1 day ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.325.2](https://github.com/aws/aws-sdk-php/releases/tag/3.325.2), 2 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.6](https://github.com/orchestral/testbench-core/releases/tag/v9.5.6), 4 days ago) - Testing Helper for Laravel Development
-- [laravel/framework](https://github.com/laravel/framework) ([v11.30.0](https://github.com/laravel/framework/releases/tag/v11.30.0), 4 days ago) - The Laravel Framework.
+- [larastan/larastan](https://github.com/larastan/larastan) ([v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10), 2 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.325.2](https://github.com/aws/aws-sdk-php/releases/tag/3.325.2), 3 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.6](https://github.com/orchestral/testbench-core/releases/tag/v9.5.6), 5 days ago) - Testing Helper for Laravel Development
+- [laravel/framework](https://github.com/laravel/framework) ([v11.30.0](https://github.com/laravel/framework/releases/tag/v11.30.0), 5 days ago) - The Laravel Framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 1 week ago) - The Symfony PHP framework
-- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 2 weeks ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
+- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 3 weeks ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.64.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0), 2 months ago) - A tool to automatically fix PHP Coding Standards issues
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 5 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 6 months ago) - Eloquent&#39;s missing &#34;array&#34; driver.
@@ -43,7 +43,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: improve PHPDoc for find method of QueryBuilder to support FETCH_ASSOC](https://github.com/larastan/larastan/pull/2081) on [larastan/larastan](https://github.com/larastan/larastan) (1 week ago)
+- [fix: improve PHPDoc for find method of QueryBuilder to support FETCH_ASSOC](https://github.com/larastan/larastan/pull/2081) on [larastan/larastan](https://github.com/larastan/larastan) (2 weeks ago)
 - [Support Laravel 11.x](https://github.com/saasscaleup/laravel-n-plus-one-detector/pull/3) on [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) (3 weeks ago)
 - [[11.x] Add generic type parameters for `Eloquent\Builder` in `@param` Tag to avoid PHPStan errors](https://github.com/laravel/framework/pull/52944) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
 - [[11.x] Fix incorrect PHPDoc for KeyBy and GroupBy](https://github.com/laravel/framework/pull/52918) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
