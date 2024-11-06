@@ -22,7 +22,7 @@
 
 #### 🪅 Recent contributed Repos
 
-- [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (2 days ago)
+- [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (3 days ago)
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (3 weeks ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 month ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 months ago)
@@ -30,10 +30,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [larastan/larastan](https://github.com/larastan/larastan) ([v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10), 3 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.325.2](https://github.com/aws/aws-sdk-php/releases/tag/3.325.2), 4 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.6](https://github.com/orchestral/testbench-core/releases/tag/v9.5.6), 6 days ago) - Testing Helper for Laravel Development
-- [laravel/framework](https://github.com/laravel/framework) ([v11.30.0](https://github.com/laravel/framework/releases/tag/v11.30.0), 6 days ago) - The Laravel Framework.
+- [larastan/larastan](https://github.com/larastan/larastan) ([v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10), 4 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.325.2](https://github.com/aws/aws-sdk-php/releases/tag/3.325.2), 5 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.6](https://github.com/orchestral/testbench-core/releases/tag/v9.5.6), 1 week ago) - Testing Helper for Laravel Development
+- [laravel/framework](https://github.com/laravel/framework) ([v11.30.0](https://github.com/laravel/framework/releases/tag/v11.30.0), 1 week ago) - The Laravel Framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA1), 1 week ago) - The Symfony PHP framework
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 3 weeks ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.64.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0), 2 months ago) - A tool to automatically fix PHP Coding Standards issues
@@ -56,9 +56,9 @@
 
 #### ⭐ Recent Stars
 
-- [olivernybroe/collector-intellij](https://github.com/olivernybroe/collector-intellij) - A PhpStorm plugin for refactoring to collections (1 day ago)
+- [olivernybroe/collector-intellij](https://github.com/olivernybroe/collector-intellij) - A PhpStorm plugin for refactoring to collections (2 days ago)
 - [corbt/agent.exe](https://github.com/corbt/agent.exe) -  (1 week ago)
-- [editorconfig-checker/editorconfig-checker.php](https://github.com/editorconfig-checker/editorconfig-checker.php) - A tool to verify that your files are in harmony with your .editorconfig (2 weeks ago)
+- [editorconfig-checker/editorconfig-checker.php](https://github.com/editorconfig-checker/editorconfig-checker.php) - A tool to verify that your files are in harmony with your .editorconfig (3 weeks ago)
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (3 weeks ago)
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - PHPStan error formatter that generates baseline files per each error identifier. (3 weeks ago)
 - [wibus-wee/InjectGUI](https://github.com/wibus-wee/InjectGUI) - macOS Integrated Injection Framework (GUI version) (4 weeks ago)
