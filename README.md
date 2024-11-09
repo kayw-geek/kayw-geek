@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device (today)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (1 day ago)
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app (2 days ago)
 - [olivernybroe/collector-intellij](https://github.com/olivernybroe/collector-intellij) - A PhpStorm plugin for refactoring to collections (5 days ago)
@@ -65,7 +66,6 @@
 - [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - PHPStan error formatter that generates baseline files per each error identifier. (1 month ago)
 - [wibus-wee/InjectGUI](https://github.com/wibus-wee/InjectGUI) - macOS Integrated Injection Framework (GUI version) (1 month ago)
 - [hongye612430/awesome-programming-books-1](https://github.com/hongye612430/awesome-programming-books-1) - 📚 经典技术书籍 PDF 文件，持续更新... (1 month ago)
-- [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
