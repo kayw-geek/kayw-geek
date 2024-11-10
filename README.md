@@ -22,16 +22,16 @@
 
 #### 🪅 Recent contributed Repos
 
-- [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (6 days ago)
-- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (4 weeks ago)
+- [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (1 week ago)
+- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (1 month ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 month ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 months ago)
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) - Testing Helper for Laravel Development (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.325.5](https://github.com/aws/aws-sdk-php/releases/tag/3.325.5), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA2), 3 days ago) - The Symfony PHP framework
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.325.5](https://github.com/aws/aws-sdk-php/releases/tag/3.325.5), 2 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA2), 4 days ago) - The Symfony PHP framework
 - [larastan/larastan](https://github.com/larastan/larastan) ([v2.9.10](https://github.com/larastan/larastan/releases/tag/v2.9.10), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.6](https://github.com/orchestral/testbench-core/releases/tag/v9.5.6), 1 week ago) - Testing Helper for Laravel Development
 - [laravel/framework](https://github.com/laravel/framework) ([v11.30.0](https://github.com/laravel/framework/releases/tag/v11.30.0), 1 week ago) - The Laravel Framework.
@@ -43,9 +43,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix(composer): resolve the `lockFileMaintenance` not working in Composer manager](https://github.com/renovatebot/renovate/pull/32384) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 days ago)
+- [fix(composer): resolve the `lockFileMaintenance` not working in Composer manager](https://github.com/renovatebot/renovate/pull/32384) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (3 days ago)
 - [fix: improve PHPDoc for find method of QueryBuilder to support FETCH_ASSOC](https://github.com/larastan/larastan/pull/2081) on [larastan/larastan](https://github.com/larastan/larastan) (2 weeks ago)
-- [Support Laravel 11.x](https://github.com/saasscaleup/laravel-n-plus-one-detector/pull/3) on [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) (4 weeks ago)
+- [Support Laravel 11.x](https://github.com/saasscaleup/laravel-n-plus-one-detector/pull/3) on [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) (1 month ago)
 - [[11.x] Add generic type parameters for `Eloquent\Builder` in `@param` Tag to avoid PHPStan errors](https://github.com/laravel/framework/pull/52944) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
 - [[11.x] Fix incorrect PHPDoc for KeyBy and GroupBy](https://github.com/laravel/framework/pull/52918) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
 - [[11.x] Fix PHPDoc for TestResponse&#39;s `Response` Type to \Symfony\Component\HttpFoundation\Response](https://github.com/laravel/framework/pull/52915) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
@@ -56,10 +56,10 @@
 
 #### ⭐ Recent Stars
 
-- [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device (today)
-- [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (1 day ago)
-- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app (2 days ago)
-- [olivernybroe/collector-intellij](https://github.com/olivernybroe/collector-intellij) - A PhpStorm plugin for refactoring to collections (5 days ago)
+- [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device (1 day ago)
+- [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (2 days ago)
+- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app (3 days ago)
+- [olivernybroe/collector-intellij](https://github.com/olivernybroe/collector-intellij) - A PhpStorm plugin for refactoring to collections (6 days ago)
 - [corbt/agent.exe](https://github.com/corbt/agent.exe) -  (2 weeks ago)
 - [editorconfig-checker/editorconfig-checker.php](https://github.com/editorconfig-checker/editorconfig-checker.php) - A tool to verify that your files are in harmony with your .editorconfig (3 weeks ago)
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (1 month ago)
