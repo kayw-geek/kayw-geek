@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.47](https://github.com/symfony/symfony/releases/tag/v5.4.47), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1), today) - The Symfony PHP framework
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.325.7](https://github.com/aws/aws-sdk-php/releases/tag/3.325.7), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [laravel/framework](https://github.com/laravel/framework) ([v10.48.23](https://github.com/laravel/framework/releases/tag/v10.48.23), 1 day ago) - The Laravel Framework.
 - [larastan/larastan](https://github.com/larastan/larastan) ([v2.9.11](https://github.com/larastan/larastan/releases/tag/v2.9.11), 2 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
