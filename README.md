@@ -69,11 +69,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ipqwery](https://github.com/ipqwery)
 - [Xusually](https://github.com/Xusually)
 - [hairrrrr](https://github.com/hairrrrr)
 - [rxrw](https://github.com/rxrw)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [jzhangdev](https://github.com/jzhangdev)
 
 
 ---
