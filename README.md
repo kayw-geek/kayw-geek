@@ -56,6 +56,8 @@
 
 #### ⭐ Recent Stars
 
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (today)
+- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (today)
 - [rohanrhu/MacsyZones](https://github.com/rohanrhu/MacsyZones) - Make your workflow more efficient with MacsyZones. Organize your windows with ease. https://macsyzones.com (2 days ago)
 - [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device (6 days ago)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (1 week ago)
@@ -64,8 +66,6 @@
 - [corbt/agent.exe](https://github.com/corbt/agent.exe) -  (3 weeks ago)
 - [editorconfig-checker/editorconfig-checker.php](https://github.com/editorconfig-checker/editorconfig-checker.php) - A tool to verify that your files are in harmony with your .editorconfig (1 month ago)
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (1 month ago)
-- [shipmonk-rnd/phpstan-baseline-per-identifier](https://github.com/shipmonk-rnd/phpstan-baseline-per-identifier) - PHPStan error formatter that generates baseline files per each error identifier. (1 month ago)
-- [wibus-wee/InjectGUI](https://github.com/wibus-wee/InjectGUI) - macOS Integrated Injection Framework (GUI version) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
