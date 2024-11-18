@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v8.29.0](https://github.com/orchestral/testbench-core/releases/tag/v8.29.0), today) - Testing Helper for Laravel Development
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.6.0](https://github.com/orchestral/testbench-core/releases/tag/v9.6.0), today) - Testing Helper for Laravel Development
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.328.0](https://github.com/aws/aws-sdk-php/releases/tag/3.328.0), 3 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [laravel/framework](https://github.com/laravel/framework) ([v11.32.0](https://github.com/laravel/framework/releases/tag/v11.32.0), 3 days ago) - The Laravel Framework.
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.0.0](https://github.com/larastan/larastan/releases/tag/v3.0.0), 3 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
