@@ -30,11 +30,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v8.29.0](https://github.com/orchestral/testbench-core/releases/tag/v8.29.0), today) - Testing Helper for Laravel Development
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.328.0](https://github.com/aws/aws-sdk-php/releases/tag/3.328.0), 3 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [laravel/framework](https://github.com/laravel/framework) ([v11.32.0](https://github.com/laravel/framework/releases/tag/v11.32.0), 3 days ago) - The Laravel Framework.
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.0.0](https://github.com/larastan/larastan/releases/tag/v3.0.0), 3 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1), 5 days ago) - The Symfony PHP framework
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.5.6](https://github.com/orchestral/testbench-core/releases/tag/v9.5.6), 2 weeks ago) - Testing Helper for Laravel Development
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 1 month ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.64.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0), 2 months ago) - A tool to automatically fix PHP Coding Standards issues
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 5 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
