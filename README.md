@@ -30,22 +30,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.33.2](https://github.com/laravel/framework/releases/tag/v11.33.2), today) - The Laravel Framework.
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.328.2](https://github.com/aws/aws-sdk-php/releases/tag/3.328.2), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.6.0](https://github.com/orchestral/testbench-core/releases/tag/v9.6.0), 1 day ago) - Testing Helper for Laravel Development
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.0.0](https://github.com/larastan/larastan/releases/tag/v3.0.0), 4 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1), 6 days ago) - The Symfony PHP framework
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.6.2](https://github.com/orchestral/testbench-core/releases/tag/v9.6.2), today) - Testing Helper for Laravel Development
+- [laravel/framework](https://github.com/laravel/framework) ([v11.33.2](https://github.com/laravel/framework/releases/tag/v11.33.2), 1 day ago) - The Laravel Framework.
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.328.2](https://github.com/aws/aws-sdk-php/releases/tag/3.328.2), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.0.0](https://github.com/larastan/larastan/releases/tag/v3.0.0), 5 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1), 1 week ago) - The Symfony PHP framework
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 1 month ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.64.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0), 2 months ago) - A tool to automatically fix PHP Coding Standards issues
-- [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 5 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
-- [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 6 months ago) - Eloquent&#39;s missing &#34;array&#34; driver.
+- [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 6 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
+- [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 7 months ago) - Eloquent&#39;s missing &#34;array&#34; driver.
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 7 months ago) - Keep your .env.example file up to date
 
 #### 🔨 My recent Pull Requests
 
 - [[11.x] Introduce `TFetchMode` generic to support for different PDO fetch modes](https://github.com/laravel/framework/pull/53477) on [laravel/framework](https://github.com/laravel/framework) (1 week ago)
 - [fix(composer): resolve the `lockFileMaintenance` not working in Composer manager](https://github.com/renovatebot/renovate/pull/32384) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (1 week ago)
-- [fix: improve PHPDoc for find method of QueryBuilder to support FETCH_ASSOC](https://github.com/larastan/larastan/pull/2081) on [larastan/larastan](https://github.com/larastan/larastan) (4 weeks ago)
+- [fix: improve PHPDoc for find method of QueryBuilder to support FETCH_ASSOC](https://github.com/larastan/larastan/pull/2081) on [larastan/larastan](https://github.com/larastan/larastan) (1 month ago)
 - [Support Laravel 11.x](https://github.com/saasscaleup/laravel-n-plus-one-detector/pull/3) on [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) (1 month ago)
 - [[11.x] Add generic type parameters for `Eloquent\Builder` in `@param` Tag to avoid PHPStan errors](https://github.com/laravel/framework/pull/52944) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
 - [[11.x] Fix incorrect PHPDoc for KeyBy and GroupBy](https://github.com/laravel/framework/pull/52918) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
@@ -56,9 +56,9 @@
 
 #### ⭐ Recent Stars
 
-- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (4 days ago)
-- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (4 days ago)
-- [rohanrhu/MacsyZones](https://github.com/rohanrhu/MacsyZones) - Make your workflow more efficient with MacsyZones. Organize your windows with ease. https://macsyzones.com (6 days ago)
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (5 days ago)
+- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (5 days ago)
+- [rohanrhu/MacsyZones](https://github.com/rohanrhu/MacsyZones) - Make your workflow more efficient with MacsyZones. Organize your windows with ease. https://macsyzones.com (1 week ago)
 - [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device (1 week ago)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (1 week ago)
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app (1 week ago)
