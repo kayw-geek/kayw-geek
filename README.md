@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案 (today)
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (6 days ago)
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (6 days ago)
 - [rohanrhu/MacsyZones](https://github.com/rohanrhu/MacsyZones) - Make your workflow more efficient with MacsyZones. Organize your windows with ease. https://macsyzones.com (1 week ago)
@@ -65,7 +66,6 @@
 - [olivernybroe/collector-intellij](https://github.com/olivernybroe/collector-intellij) - A PhpStorm plugin for refactoring to collections (2 weeks ago)
 - [corbt/agent.exe](https://github.com/corbt/agent.exe) -  (3 weeks ago)
 - [editorconfig-checker/editorconfig-checker.php](https://github.com/editorconfig-checker/editorconfig-checker.php) - A tool to verify that your files are in harmony with your .editorconfig (1 month ago)
-- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
