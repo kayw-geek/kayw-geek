@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [ycvk/deeplx-local](https://github.com/ycvk/deeplx-local) - 自建deeplx服务 (today)
 - [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案 (today)
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (6 days ago)
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (6 days ago)
@@ -65,7 +66,6 @@
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app (2 weeks ago)
 - [olivernybroe/collector-intellij](https://github.com/olivernybroe/collector-intellij) - A PhpStorm plugin for refactoring to collections (2 weeks ago)
 - [corbt/agent.exe](https://github.com/corbt/agent.exe) -  (3 weeks ago)
-- [editorconfig-checker/editorconfig-checker.php](https://github.com/editorconfig-checker/editorconfig-checker.php) - A tool to verify that your files are in harmony with your .editorconfig (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
