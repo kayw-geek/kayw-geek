@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (today)
 - [RimoChan/fsspec_disk](https://github.com/RimoChan/fsspec_disk) - 万能硬盘！ (3 days ago)
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query. (3 days ago)
 - [ycvk/deeplx-local](https://github.com/ycvk/deeplx-local) - 自建deeplx服务 (4 days ago)
@@ -65,7 +66,6 @@
 - [rohanrhu/MacsyZones](https://github.com/rohanrhu/MacsyZones) - Make your workflow more efficient with MacsyZones. Organize your windows with ease. https://macsyzones.com (1 week ago)
 - [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device (2 weeks ago)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (2 weeks ago)
-- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
