@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v11.34.2](https://github.com/laravel/framework/releases/tag/v11.34.2), today) - The Laravel Framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.9](https://github.com/symfony/symfony/releases/tag/v7.1.9), today) - The Symfony PHP framework
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.0.2](https://github.com/larastan/larastan/releases/tag/v3.0.2), 1 day ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [laravel/framework](https://github.com/laravel/framework) ([v11.34.1](https://github.com/laravel/framework/releases/tag/v11.34.1), 1 day ago) - The Laravel Framework.
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.330.2](https://github.com/aws/aws-sdk-php/releases/tag/3.330.2), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.65.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.6.2](https://github.com/orchestral/testbench-core/releases/tag/v9.6.2), 1 week ago) - Testing Helper for Laravel Development
