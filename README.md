@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua (today)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (2 days ago)
 - [RimoChan/fsspec_disk](https://github.com/RimoChan/fsspec_disk) - 万能硬盘！ (5 days ago)
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query. (5 days ago)
@@ -65,7 +66,6 @@
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (1 week ago)
 - [rohanrhu/MacsyZones](https://github.com/rohanrhu/MacsyZones) - Make your workflow more efficient with MacsyZones. Organize your windows with ease. https://macsyzones.com (2 weeks ago)
 - [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device (2 weeks ago)
-- [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
