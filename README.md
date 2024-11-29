@@ -56,6 +56,9 @@
 
 #### ⭐ Recent Stars
 
+- [JBZoo/Composer-Diff](https://github.com/JBZoo/Composer-Diff) - See what packages have changed after `composer update`  (today)
+- [IonBazan/composer-diff](https://github.com/IonBazan/composer-diff) - Compares composer.lock changes and generates Markdown report so you can use it in PR description. (today)
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (today)
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua (2 days ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (4 days ago)
 - [RimoChan/fsspec_disk](https://github.com/RimoChan/fsspec_disk) - 万能硬盘！ (1 week ago)
@@ -63,9 +66,6 @@
 - [ycvk/deeplx-local](https://github.com/ycvk/deeplx-local) - 自建deeplx服务 (1 week ago)
 - [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案 (1 week ago)
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (2 weeks ago)
-- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (2 weeks ago)
-- [rohanrhu/MacsyZones](https://github.com/rohanrhu/MacsyZones) - Make your workflow more efficient with MacsyZones. Organize your windows with ease. https://macsyzones.com (2 weeks ago)
-- [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
