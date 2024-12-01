@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v7.49.0](https://github.com/orchestral/testbench-core/releases/tag/v7.49.0), today) - Testing Helper for Laravel Development
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.7.0](https://github.com/orchestral/testbench-core/releases/tag/v9.7.0), today) - Testing Helper for Laravel Development
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0), 2 days ago) - The Symfony PHP framework
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.331.0](https://github.com/aws/aws-sdk-php/releases/tag/3.331.0), 4 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [laravel/framework](https://github.com/laravel/framework) ([v11.34.2](https://github.com/laravel/framework/releases/tag/v11.34.2), 4 days ago) - The Laravel Framework.
