@@ -30,10 +30,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.7.3](https://github.com/orchestral/testbench-core/releases/tag/v9.7.3), today) - The Testing Framework for Laravel Development
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.334.6](https://github.com/aws/aws-sdk-php/releases/tag/3.334.6), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v11.35.1](https://github.com/laravel/framework/releases/tag/v11.35.1), 2 days ago) - The Laravel Framework.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 3 days ago) - The Symfony PHP framework
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.7.3](https://github.com/orchestral/testbench-core/releases/tag/v9.7.3), 1 day ago) - The Testing Framework for Laravel Development
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.334.6](https://github.com/aws/aws-sdk-php/releases/tag/3.334.6), 2 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v11.35.1](https://github.com/laravel/framework/releases/tag/v11.35.1), 3 days ago) - The Laravel Framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 4 days ago) - The Symfony PHP framework
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.0.2](https://github.com/larastan/larastan/releases/tag/v3.0.2), 2 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.65.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0), 2 weeks ago) - A tool to automatically fix PHP Coding Standards issues
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 2 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [chloneda/vim-cheatsheet](https://github.com/chloneda/vim-cheatsheet) - 🍁Vim cheat sheet with everything you want to know. (3 days ago)
+- [chloneda/vim-cheatsheet](https://github.com/chloneda/vim-cheatsheet) - 🍁Vim cheat sheet with everything you want to know. (4 days ago)
 - [spiritix/php-chrome-html2pdf](https://github.com/spiritix/php-chrome-html2pdf) - A PHP library for converting HTML to PDF using Google Chrome (1 week ago)
 - [JBZoo/Composer-Diff](https://github.com/JBZoo/Composer-Diff) - See what packages have changed after `composer update`  (2 weeks ago)
 - [IonBazan/composer-diff](https://github.com/IonBazan/composer-diff) - Compares composer.lock changes and generates Markdown report so you can use it in PR description. (2 weeks ago)
