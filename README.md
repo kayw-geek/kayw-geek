@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience. (today)
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 (1 day ago)
 - [chloneda/vim-cheatsheet](https://github.com/chloneda/vim-cheatsheet) - 🍁Vim cheat sheet with everything you want to know. (6 days ago)
 - [spiritix/php-chrome-html2pdf](https://github.com/spiritix/php-chrome-html2pdf) - A PHP library for converting HTML to PDF using Google Chrome (2 weeks ago)
@@ -65,7 +66,6 @@
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua (2 weeks ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (3 weeks ago)
 - [RimoChan/fsspec_disk](https://github.com/RimoChan/fsspec_disk) - 万能硬盘！ (3 weeks ago)
-- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
