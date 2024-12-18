@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - Rime输入法语言模型全流程构建教程，全局带声调词库，最全带读音单字表词典：LMDG - Language, Model, Dictionary, Grammar (today)
 - [nishuzumi/gemini-teacher](https://github.com/nishuzumi/gemini-teacher) - English pronunciation correction teacher built with gemini (today)
 - [whotto/Video_note_generator](https://github.com/whotto/Video_note_generator) - 一键将视频转换为优质小红书笔记，自动优化内容和配图 (today)
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience. (1 day ago)
@@ -65,7 +66,6 @@
 - [JBZoo/Composer-Diff](https://github.com/JBZoo/Composer-Diff) - See what packages have changed after `composer update`  (2 weeks ago)
 - [IonBazan/composer-diff](https://github.com/IonBazan/composer-diff) - Compares composer.lock changes and generates Markdown report so you can use it in PR description. (2 weeks ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (2 weeks ago)
-- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
