@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (today)
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more (1 day ago)
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city (1 day ago)
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code (3 days ago)
@@ -65,7 +66,6 @@
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience. (1 week ago)
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 (1 week ago)
 - [chloneda/vim-cheatsheet](https://github.com/chloneda/vim-cheatsheet) - 🍁Vim cheat sheet with everything you want to know. (2 weeks ago)
-- [spiritix/php-chrome-html2pdf](https://github.com/spiritix/php-chrome-html2pdf) - A PHP library for converting HTML to PDF using Google Chrome (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
