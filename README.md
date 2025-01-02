@@ -22,7 +22,7 @@
 
 #### 🪅 Recent contributed Repos
 
-- [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (1 month ago)
+- [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (2 months ago)
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (2 months ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (3 months ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (4 months ago)
@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 1 day ago) - The Symfony PHP framework
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.66.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.0), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.336.6](https://github.com/aws/aws-sdk-php/releases/tag/3.336.6), 4 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 2 days ago) - The Symfony PHP framework
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.66.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.0), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.336.6](https://github.com/aws/aws-sdk-php/releases/tag/3.336.6), 5 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.9.0](https://github.com/orchestral/testbench-core/releases/tag/v9.9.0), 1 week ago) - The Testing Framework for Laravel Development
 - [laravel/framework](https://github.com/laravel/framework) ([v11.36.1](https://github.com/laravel/framework/releases/tag/v11.36.1), 2 weeks ago) - The Laravel Framework.
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.0.2](https://github.com/larastan/larastan/releases/tag/v3.0.2), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
@@ -56,10 +56,10 @@
 
 #### ⭐ Recent Stars
 
-- [LOWERTOP/Shadowrocket-First](https://github.com/LOWERTOP/Shadowrocket-First) - 小火箭配色与配置 (today)
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (5 days ago)
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more (6 days ago)
-- [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city (6 days ago)
+- [LOWERTOP/Shadowrocket-First](https://github.com/LOWERTOP/Shadowrocket-First) - 小火箭配色与配置 (1 day ago)
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (6 days ago)
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more (1 week ago)
+- [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city (1 week ago)
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code (1 week ago)
 - [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - Rime输入法语法模型全流程构建教程，全局带声调词库，最全带读音单字表词典：LMDG - Language, Model, Dictionary, Grammar (2 weeks ago)
 - [nishuzumi/gemini-teacher](https://github.com/nishuzumi/gemini-teacher) - English pronunciation correction teacher built with gemini (2 weeks ago)
