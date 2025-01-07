@@ -30,11 +30,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.336.9](https://github.com/aws/aws-sdk-php/releases/tag/3.336.9), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.66.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [laravel/framework](https://github.com/laravel/framework) ([v11.37.0](https://github.com/laravel/framework/releases/tag/v11.37.0), 4 days ago) - The Laravel Framework.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 6 days ago) - The Symfony PHP framework
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.9.0](https://github.com/orchestral/testbench-core/releases/tag/v9.9.0), 1 week ago) - The Testing Framework for Laravel Development
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.336.9](https://github.com/aws/aws-sdk-php/releases/tag/3.336.9), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.66.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.1), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [laravel/framework](https://github.com/laravel/framework) ([v11.37.0](https://github.com/laravel/framework/releases/tag/v11.37.0), 5 days ago) - The Laravel Framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 1 week ago) - The Symfony PHP framework
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.9.0](https://github.com/orchestral/testbench-core/releases/tag/v9.9.0), 2 weeks ago) - The Testing Framework for Laravel Development
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.0.2](https://github.com/larastan/larastan/releases/tag/v3.0.2), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 2 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 7 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
@@ -56,15 +56,15 @@
 
 #### ⭐ Recent Stars
 
-- [LOWERTOP/Shadowrocket-First](https://github.com/LOWERTOP/Shadowrocket-First) - 小火箭配色与配置 (5 days ago)
+- [LOWERTOP/Shadowrocket-First](https://github.com/LOWERTOP/Shadowrocket-First) - 小火箭配色与配置 (6 days ago)
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (1 week ago)
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more (1 week ago)
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city (1 week ago)
-- [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code (1 week ago)
+- [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code (2 weeks ago)
 - [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - Rime输入法语法模型全流程构建教程，全局带声调词库，最全带读音单字表词典：LMDG - Language, Model, Dictionary, Grammar (2 weeks ago)
 - [nishuzumi/gemini-teacher](https://github.com/nishuzumi/gemini-teacher) - English pronunciation correction teacher built with gemini (2 weeks ago)
 - [whotto/Video_note_generator](https://github.com/whotto/Video_note_generator) - 一键将视频转换为优质小红书笔记，自动优化内容和配图 (2 weeks ago)
-- [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience. (2 weeks ago)
+- [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience. (3 weeks ago)
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
