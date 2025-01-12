@@ -30,13 +30,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.336.13](https://github.com/aws/aws-sdk-php/releases/tag/3.336.13), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.67.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.67.0), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.9.1](https://github.com/orchestral/testbench-core/releases/tag/v9.9.1), 4 days ago) - The Testing Framework for Laravel Development
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.336.13](https://github.com/aws/aws-sdk-php/releases/tag/3.336.13), 2 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.67.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.67.0), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.9.1](https://github.com/orchestral/testbench-core/releases/tag/v9.9.1), 5 days ago) - The Testing Framework for Laravel Development
 - [laravel/framework](https://github.com/laravel/framework) ([v11.37.0](https://github.com/laravel/framework/releases/tag/v11.37.0), 1 week ago) - The Laravel Framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 1 week ago) - The Symfony PHP framework
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.0.2](https://github.com/larastan/larastan/releases/tag/v3.0.2), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 2 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
+- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 3 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 7 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) ([v2.5.2](https://github.com/calebporzio/sushi/releases/tag/v2.5.2), 8 months ago) - Eloquent&#39;s missing &#34;array&#34; driver.
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 8 months ago) - Keep your .env.example file up to date
