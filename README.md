@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.337.0](https://github.com/aws/aws-sdk-php/releases/tag/3.337.0), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v11.38.2](https://github.com/laravel/framework/releases/tag/v11.38.2), today) - The Laravel Framework.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.68.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.337.0](https://github.com/aws/aws-sdk-php/releases/tag/3.337.0), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v11.38.2](https://github.com/laravel/framework/releases/tag/v11.38.2), 1 day ago) - The Laravel Framework.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.68.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.0), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.9.1](https://github.com/orchestral/testbench-core/releases/tag/v9.9.1), 1 week ago) - The Testing Framework for Laravel Development
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 2 weeks ago) - The Symfony PHP framework
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.0.2](https://github.com/larastan/larastan/releases/tag/v3.0.2), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
@@ -58,13 +58,13 @@
 
 - [LOWERTOP/Shadowrocket-First](https://github.com/LOWERTOP/Shadowrocket-First) - 小火箭配色与配置 (2 weeks ago)
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (2 weeks ago)
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more (2 weeks ago)
-- [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city (2 weeks ago)
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more (3 weeks ago)
+- [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city (3 weeks ago)
 - [tweakphp/tweakphp](https://github.com/tweakphp/tweakphp) - Easily tweak your PHP code (3 weeks ago)
 - [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - Rime输入法语法模型全流程构建教程，全局带声调词库，最全带读音单字表词典：LMDG - Language, Model, Dictionary, Grammar (4 weeks ago)
 - [nishuzumi/gemini-teacher](https://github.com/nishuzumi/gemini-teacher) - English pronunciation correction teacher built with gemini (4 weeks ago)
 - [whotto/Video_note_generator](https://github.com/whotto/Video_note_generator) - 一键将视频转换为优质小红书笔记，自动优化内容和配图 (4 weeks ago)
-- [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience. (4 weeks ago)
+- [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience. (1 month ago)
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 (1 month ago)
 
 #### 👯 Check out some of my recent followers
