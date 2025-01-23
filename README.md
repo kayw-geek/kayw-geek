@@ -55,6 +55,7 @@
 
 #### ⭐ Recent Stars
 
+- [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法） (today)
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings (1 week ago)
 - [LOWERTOP/Shadowrocket-First](https://github.com/LOWERTOP/Shadowrocket-First) - 小火箭配色与配置 (3 weeks ago)
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (3 weeks ago)
@@ -64,7 +65,6 @@
 - [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - Rime输入法语法模型全流程构建教程，全局带声调词库，最全带读音单字表词典：LMDG - Language, Model, Dictionary, Grammar (1 month ago)
 - [nishuzumi/gemini-teacher](https://github.com/nishuzumi/gemini-teacher) - English pronunciation correction teacher built with gemini (1 month ago)
 - [whotto/Video_note_generator](https://github.com/whotto/Video_note_generator) - 一键将视频转换为优质小红书笔记，自动优化内容和配图 (1 month ago)
-- [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
