@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v11.41.0](https://github.com/laravel/framework/releases/tag/v11.41.0), today) - The Laravel Framework.
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.339.0](https://github.com/aws/aws-sdk-php/releases/tag/3.339.0), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.68.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.3), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [laravel/framework](https://github.com/laravel/framework) ([v11.40.0](https://github.com/laravel/framework/releases/tag/v11.40.0), 4 days ago) - The Laravel Framework.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.9.2](https://github.com/orchestral/testbench-core/releases/tag/v9.9.2), 6 days ago) - The Testing Framework for Laravel Development
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 4 weeks ago) - The Symfony PHP framework
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.0.2](https://github.com/larastan/larastan/releases/tag/v3.0.2), 2 months ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
