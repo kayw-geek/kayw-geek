@@ -30,10 +30,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.68.4](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.4), today) - A tool to automatically fix PHP Coding Standards issues
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.339.2](https://github.com/aws/aws-sdk-php/releases/tag/3.339.2), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), 1 day ago) - The Symfony PHP framework
 - [laravel/framework](https://github.com/laravel/framework) ([v11.41.0](https://github.com/laravel/framework/releases/tag/v11.41.0), 2 days ago) - The Laravel Framework.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.68.3](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.3), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.9.2](https://github.com/orchestral/testbench-core/releases/tag/v9.9.2), 1 week ago) - The Testing Framework for Laravel Development
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.0.2](https://github.com/larastan/larastan/releases/tag/v3.0.2), 2 months ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 3 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
