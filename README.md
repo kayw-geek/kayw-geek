@@ -30,12 +30,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.0.3](https://github.com/larastan/larastan/releases/tag/v3.0.3), today) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v8.32.3](https://github.com/orchestral/testbench-core/releases/tag/v8.32.3), today) - The Testing Framework for Laravel Development
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.339.7](https://github.com/aws/aws-sdk-php/releases/tag/3.339.7), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [laravel/framework](https://github.com/laravel/framework) ([v10.48.28](https://github.com/laravel/framework/releases/tag/v10.48.28), 6 days ago) - The Laravel Framework.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.68.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.5), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), 1 week ago) - The Symfony PHP framework
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.0.2](https://github.com/larastan/larastan/releases/tag/v3.0.2), 2 months ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 3 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 8 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 9 months ago) - Keep your .env.example file up to date
