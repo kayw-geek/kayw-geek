@@ -30,13 +30,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.339.10](https://github.com/aws/aws-sdk-php/releases/tag/3.339.10), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.0.4](https://github.com/larastan/larastan/releases/tag/v3.0.4), 3 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.9.4](https://github.com/orchestral/testbench-core/releases/tag/v9.9.4), 3 days ago) - The Testing Framework for Laravel Development
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.339.10](https://github.com/aws/aws-sdk-php/releases/tag/3.339.10), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.0.4](https://github.com/larastan/larastan/releases/tag/v3.0.4), 4 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.9.4](https://github.com/orchestral/testbench-core/releases/tag/v9.9.4), 4 days ago) - The Testing Framework for Laravel Development
 - [laravel/framework](https://github.com/laravel/framework) ([v10.48.28](https://github.com/laravel/framework/releases/tag/v10.48.28), 1 week ago) - The Laravel Framework.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.68.5](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.68.5), 1 week ago) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), 1 week ago) - The Symfony PHP framework
-- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 3 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
+- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 4 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 8 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.0](https://github.com/worksome/envy/releases/tag/v1.3.0), 9 months ago) - Keep your .env.example file up to date
 
@@ -55,9 +55,9 @@
 
 #### ⭐ Recent Stars
 
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (today)
-- [fatwang2/siri-ultra](https://github.com/fatwang2/siri-ultra) - The most intelligent Siri powered by LLMs (today)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. (today)
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (1 day ago)
+- [fatwang2/siri-ultra](https://github.com/fatwang2/siri-ultra) - The most intelligent Siri powered by LLMs (1 day ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. (1 day ago)
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. (1 week ago)
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法） (2 weeks ago)
 - [LOWERTOP/Shadowrocket-First](https://github.com/LOWERTOP/Shadowrocket-First) - 小火箭配色与配置 (1 month ago)
