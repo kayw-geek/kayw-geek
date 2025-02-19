@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v11.43.2](https://github.com/laravel/framework/releases/tag/v11.43.2), today) - The Laravel Framework.
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.339.17](https://github.com/aws/aws-sdk-php/releases/tag/3.339.17), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v11.43.1](https://github.com/laravel/framework/releases/tag/v11.43.1), today) - The Laravel Framework.
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.1](https://github.com/worksome/envy/releases/tag/v1.3.1), today) - Keep your .env.example file up to date
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.11.0](https://github.com/orchestral/testbench-core/releases/tag/v9.11.0), today) - The Testing Framework for Laravel Development
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.69.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.69.1), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
