@@ -30,12 +30,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.0.0](https://github.com/orchestral/testbench-core/releases/tag/v10.0.0), today) - The Testing Framework for Laravel Development
+- [laravel/framework](https://github.com/laravel/framework) ([v12.0.0](https://github.com/laravel/framework/releases/tag/v12.0.0), today) - The Laravel Framework.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.70.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.339.19](https://github.com/aws/aws-sdk-php/releases/tag/3.339.19), 3 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.1.0](https://github.com/larastan/larastan/releases/tag/v3.1.0), 4 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [laravel/framework](https://github.com/laravel/framework) ([v11.43.2](https://github.com/laravel/framework/releases/tag/v11.43.2), 5 days ago) - The Laravel Framework.
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.1](https://github.com/worksome/envy/releases/tag/v1.3.1), 5 days ago) - Keep your .env.example file up to date
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.11.0](https://github.com/orchestral/testbench-core/releases/tag/v9.11.0), 5 days ago) - The Testing Framework for Laravel Development
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 4 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 9 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 
