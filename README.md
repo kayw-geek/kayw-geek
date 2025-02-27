@@ -30,11 +30,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.340.2](https://github.com/aws/aws-sdk-php/releases/tag/3.340.2), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.0.2](https://github.com/orchestral/testbench-core/releases/tag/v10.0.2), 1 day ago) - The Testing Framework for Laravel Development
-- [laravel/framework](https://github.com/laravel/framework) ([v12.0.1](https://github.com/laravel/framework/releases/tag/v12.0.1), 2 days ago) - The Laravel Framework.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.70.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.0), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.1.0](https://github.com/larastan/larastan/releases/tag/v3.1.0), 6 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.340.2](https://github.com/aws/aws-sdk-php/releases/tag/3.340.2), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.0.2](https://github.com/orchestral/testbench-core/releases/tag/v10.0.2), 2 days ago) - The Testing Framework for Laravel Development
+- [laravel/framework](https://github.com/laravel/framework) ([v12.0.1](https://github.com/laravel/framework/releases/tag/v12.0.1), 3 days ago) - The Laravel Framework.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.70.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.0), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.1.0](https://github.com/larastan/larastan/releases/tag/v3.1.0), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.1](https://github.com/worksome/envy/releases/tag/v1.3.1), 1 week ago) - Keep your .env.example file up to date
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 4 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 9 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (5 days ago)
-- [dmaicher/doctrine-test-bundle](https://github.com/dmaicher/doctrine-test-bundle) - Symfony bundle to isolate your app&#39;s doctrine database tests and improve the test performance (6 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (6 days ago)
+- [dmaicher/doctrine-test-bundle](https://github.com/dmaicher/doctrine-test-bundle) - Symfony bundle to isolate your app&#39;s doctrine database tests and improve the test performance (1 week ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (2 weeks ago)
 - [fatwang2/siri-ultra](https://github.com/fatwang2/siri-ultra) - The most intelligent Siri powered by LLMs (2 weeks ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. (2 weeks ago)
