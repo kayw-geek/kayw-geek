@@ -26,14 +26,14 @@
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (4 months ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (5 months ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (6 months ago)
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) - The Testing Framework for Laravel Development (6 months ago)
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) - The Testing Framework for Laravel Development (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.340.3](https://github.com/aws/aws-sdk-php/releases/tag/3.340.3), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.0.2](https://github.com/orchestral/testbench-core/releases/tag/v10.0.2), 2 days ago) - The Testing Framework for Laravel Development
-- [laravel/framework](https://github.com/laravel/framework) ([v12.0.1](https://github.com/laravel/framework/releases/tag/v12.0.1), 3 days ago) - The Laravel Framework.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.70.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.0), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.340.3](https://github.com/aws/aws-sdk-php/releases/tag/3.340.3), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.0.2](https://github.com/orchestral/testbench-core/releases/tag/v10.0.2), 3 days ago) - The Testing Framework for Laravel Development
+- [laravel/framework](https://github.com/laravel/framework) ([v12.0.1](https://github.com/laravel/framework/releases/tag/v12.0.1), 4 days ago) - The Laravel Framework.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.70.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.0), 6 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.1.0](https://github.com/larastan/larastan/releases/tag/v3.1.0), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.1](https://github.com/worksome/envy/releases/tag/v1.3.1), 1 week ago) - Keep your .env.example file up to date
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 4 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
@@ -54,12 +54,12 @@
 
 #### ⭐ Recent Stars
 
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (6 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 week ago)
 - [dmaicher/doctrine-test-bundle](https://github.com/dmaicher/doctrine-test-bundle) - Symfony bundle to isolate your app&#39;s doctrine database tests and improve the test performance (1 week ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (2 weeks ago)
 - [fatwang2/siri-ultra](https://github.com/fatwang2/siri-ultra) - The most intelligent Siri powered by LLMs (2 weeks ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. (2 weeks ago)
-- [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. (4 weeks ago)
+- [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. (1 month ago)
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法） (1 month ago)
 - [LOWERTOP/Shadowrocket-First](https://github.com/LOWERTOP/Shadowrocket-First) - 小火箭配色与配置 (1 month ago)
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (2 months ago)
