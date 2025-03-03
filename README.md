@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.340.5](https://github.com/aws/aws-sdk-php/releases/tag/3.340.5), today) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.0.3](https://github.com/orchestral/testbench-core/releases/tag/v10.0.3), today) - The Testing Framework for Laravel Development
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.70.1](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.1), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.340.4](https://github.com/aws/aws-sdk-php/releases/tag/3.340.4), 3 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [laravel/framework](https://github.com/laravel/framework) ([v12.0.1](https://github.com/laravel/framework/releases/tag/v12.0.1), 1 week ago) - The Laravel Framework.
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.1.0](https://github.com/larastan/larastan/releases/tag/v3.1.0), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [worksome/envy](https://github.com/worksome/envy) ([v1.3.1](https://github.com/worksome/envy/releases/tag/v1.3.1), 1 week ago) - Keep your .env.example file up to date
