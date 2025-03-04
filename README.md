@@ -30,10 +30,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.341.0](https://github.com/aws/aws-sdk-php/releases/tag/3.341.0), today) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [worksome/envy](https://github.com/worksome/envy) ([v1.4.0](https://github.com/worksome/envy/releases/tag/v1.4.0), today) - Keep your .env.example file up to date
 - [laravel/framework](https://github.com/laravel/framework) ([v12.1.0](https://github.com/laravel/framework/releases/tag/v12.1.0), today) - The Laravel Framework.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.70.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.2), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.340.5](https://github.com/aws/aws-sdk-php/releases/tag/3.340.5), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.0.3](https://github.com/orchestral/testbench-core/releases/tag/v10.0.3), 1 day ago) - The Testing Framework for Laravel Development
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.1.0](https://github.com/larastan/larastan/releases/tag/v3.1.0), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 4 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
