@@ -30,11 +30,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.341.0](https://github.com/aws/aws-sdk-php/releases/tag/3.341.0), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [worksome/envy](https://github.com/worksome/envy) ([v1.4.0](https://github.com/worksome/envy/releases/tag/v1.4.0), today) - Keep your .env.example file up to date
-- [laravel/framework](https://github.com/laravel/framework) ([v12.1.0](https://github.com/laravel/framework/releases/tag/v12.1.0), today) - The Laravel Framework.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.70.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.2), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.0.3](https://github.com/orchestral/testbench-core/releases/tag/v10.0.3), 1 day ago) - The Testing Framework for Laravel Development
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.341.0](https://github.com/aws/aws-sdk-php/releases/tag/3.341.0), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [worksome/envy](https://github.com/worksome/envy) ([v1.4.0](https://github.com/worksome/envy/releases/tag/v1.4.0), 1 day ago) - Keep your .env.example file up to date
+- [laravel/framework](https://github.com/laravel/framework) ([v12.1.0](https://github.com/laravel/framework/releases/tag/v12.1.0), 1 day ago) - The Laravel Framework.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.70.2](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.70.2), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.0.3](https://github.com/orchestral/testbench-core/releases/tag/v10.0.3), 2 days ago) - The Testing Framework for Laravel Development
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.1.0](https://github.com/larastan/larastan/releases/tag/v3.1.0), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 4 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 9 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in. (today)
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in. (1 day ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 week ago)
 - [dmaicher/doctrine-test-bundle](https://github.com/dmaicher/doctrine-test-bundle) - Symfony bundle to isolate your app&#39;s doctrine database tests and improve the test performance (1 week ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (3 weeks ago)
