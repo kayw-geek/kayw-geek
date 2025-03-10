@@ -23,18 +23,18 @@
 #### 🪅 Recent contributed Repos
 
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (4 months ago)
-- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (4 months ago)
+- [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (5 months ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (5 months ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (6 months ago)
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) - The Testing Framework for Laravel Development (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.71.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.71.0), 2 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.342.2](https://github.com/aws/aws-sdk-php/releases/tag/3.342.2), 2 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.1.0](https://github.com/orchestral/testbench-core/releases/tag/v10.1.0), 3 days ago) - The Testing Framework for Laravel Development
-- [laravel/framework](https://github.com/laravel/framework) ([v11.44.1](https://github.com/laravel/framework/releases/tag/v11.44.1), 4 days ago) - The Laravel Framework.
-- [worksome/envy](https://github.com/worksome/envy) ([v1.4.0](https://github.com/worksome/envy/releases/tag/v1.4.0), 5 days ago) - Keep your .env.example file up to date
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.71.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.71.0), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.342.2](https://github.com/aws/aws-sdk-php/releases/tag/3.342.2), 3 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.1.0](https://github.com/orchestral/testbench-core/releases/tag/v10.1.0), 4 days ago) - The Testing Framework for Laravel Development
+- [laravel/framework](https://github.com/laravel/framework) ([v11.44.1](https://github.com/laravel/framework/releases/tag/v11.44.1), 5 days ago) - The Laravel Framework.
+- [worksome/envy](https://github.com/worksome/envy) ([v1.4.0](https://github.com/worksome/envy/releases/tag/v1.4.0), 6 days ago) - Keep your .env.example file up to date
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.1.0](https://github.com/larastan/larastan/releases/tag/v3.1.0), 2 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 4 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 9 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
@@ -45,7 +45,7 @@
 - [[11.x] Introduce `TFetchMode` generic to support for different PDO fetch modes](https://github.com/laravel/framework/pull/53477) on [laravel/framework](https://github.com/laravel/framework) (3 months ago)
 - [fix(composer): resolve the `lockFileMaintenance` not working](https://github.com/renovatebot/renovate/pull/32384) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (4 months ago)
 - [fix: improve PHPDoc for find method of QueryBuilder to support FETCH_ASSOC](https://github.com/larastan/larastan/pull/2081) on [larastan/larastan](https://github.com/larastan/larastan) (4 months ago)
-- [Support Laravel 11.x](https://github.com/saasscaleup/laravel-n-plus-one-detector/pull/3) on [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) (4 months ago)
+- [Support Laravel 11.x](https://github.com/saasscaleup/laravel-n-plus-one-detector/pull/3) on [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) (5 months ago)
 - [[11.x] Add generic type parameters for `Eloquent\Builder` in `@param` Tag to avoid PHPStan errors](https://github.com/laravel/framework/pull/52944) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
 - [[11.x] Fix incorrect PHPDoc for KeyBy and GroupBy](https://github.com/laravel/framework/pull/52918) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
 - [[11.x] Fix PHPDoc for TestResponse&#39;s `Response` Type to \Symfony\Component\HttpFoundation\Response](https://github.com/laravel/framework/pull/52915) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
@@ -54,12 +54,12 @@
 
 #### ⭐ Recent Stars
 
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in. (5 days ago)
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in. (6 days ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (2 weeks ago)
 - [dmaicher/doctrine-test-bundle](https://github.com/dmaicher/doctrine-test-bundle) - Symfony bundle to isolate your app&#39;s doctrine database tests and improve the test performance (2 weeks ago)
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (3 weeks ago)
-- [fatwang2/siri-ultra](https://github.com/fatwang2/siri-ultra) - The most intelligent Siri powered by LLMs (3 weeks ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. (3 weeks ago)
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (4 weeks ago)
+- [fatwang2/siri-ultra](https://github.com/fatwang2/siri-ultra) - The most intelligent Siri powered by LLMs (4 weeks ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. (4 weeks ago)
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. (1 month ago)
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法） (1 month ago)
 - [LOWERTOP/Shadowrocket-First](https://github.com/LOWERTOP/Shadowrocket-First) - 小火箭配色与配置 (2 months ago)
