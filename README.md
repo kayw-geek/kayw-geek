@@ -30,11 +30,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.342.3](https://github.com/aws/aws-sdk-php/releases/tag/3.342.3), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.71.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.71.0), 3 days ago) - A tool to automatically fix PHP Coding Standards issues
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.1.0](https://github.com/orchestral/testbench-core/releases/tag/v10.1.0), 4 days ago) - The Testing Framework for Laravel Development
-- [laravel/framework](https://github.com/laravel/framework) ([v11.44.1](https://github.com/laravel/framework/releases/tag/v11.44.1), 5 days ago) - The Laravel Framework.
-- [worksome/envy](https://github.com/worksome/envy) ([v1.4.0](https://github.com/worksome/envy/releases/tag/v1.4.0), 6 days ago) - Keep your .env.example file up to date
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.342.3](https://github.com/aws/aws-sdk-php/releases/tag/3.342.3), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.71.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.71.0), 4 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.1.0](https://github.com/orchestral/testbench-core/releases/tag/v10.1.0), 5 days ago) - The Testing Framework for Laravel Development
+- [laravel/framework](https://github.com/laravel/framework) ([v11.44.1](https://github.com/laravel/framework/releases/tag/v11.44.1), 6 days ago) - The Laravel Framework.
+- [worksome/envy](https://github.com/worksome/envy) ([v1.4.0](https://github.com/worksome/envy/releases/tag/v1.4.0), 1 week ago) - Keep your .env.example file up to date
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.1.0](https://github.com/larastan/larastan/releases/tag/v3.1.0), 2 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 4 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 9 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
@@ -50,11 +50,11 @@
 - [[11.x] Fix incorrect PHPDoc for KeyBy and GroupBy](https://github.com/laravel/framework/pull/52918) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
 - [[11.x] Fix PHPDoc for TestResponse&#39;s `Response` Type to \Symfony\Component\HttpFoundation\Response](https://github.com/laravel/framework/pull/52915) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
 - [[11.x] Enhance PHPDoc for Eloquent Relations to support precise subclasses](https://github.com/laravel/framework/pull/52775) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
-- [[11.x] Fix incorrect PHPDoc for Builder relation](https://github.com/laravel/framework/pull/52754) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
+- [[11.x] Fix incorrect PHPDoc for Builder relation](https://github.com/laravel/framework/pull/52754) on [laravel/framework](https://github.com/laravel/framework) (6 months ago)
 
 #### ⭐ Recent Stars
 
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in. (6 days ago)
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in. (1 week ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (2 weeks ago)
 - [dmaicher/doctrine-test-bundle](https://github.com/dmaicher/doctrine-test-bundle) - Symfony bundle to isolate your app&#39;s doctrine database tests and improve the test performance (2 weeks ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (4 weeks ago)
