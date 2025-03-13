@@ -41,6 +41,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[12.x] Enhance PHPDoc for Manager classes with `@param-closure-this`](https://github.com/laravel/framework/pull/55002) on [laravel/framework](https://github.com/laravel/framework) (today)
+- [[12.x] Enhance PHPDoc for Manager classes with `@param-closure-this`](https://github.com/laravel/framework/pull/55001) on [laravel/framework](https://github.com/laravel/framework) (today)
 - [[symfony-mailer-bridges] Add missing `symfony/http-client-contracts` dependency](https://github.com/symfony/symfony/pull/59516) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
 - [[11.x] Introduce `TFetchMode` generic to support for different PDO fetch modes](https://github.com/laravel/framework/pull/53477) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
 - [fix(composer): resolve the `lockFileMaintenance` not working](https://github.com/renovatebot/renovate/pull/32384) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (4 months ago)
@@ -49,8 +51,6 @@
 - [[11.x] Add generic type parameters for `Eloquent\Builder` in `@param` Tag to avoid PHPStan errors](https://github.com/laravel/framework/pull/52944) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
 - [[11.x] Fix incorrect PHPDoc for KeyBy and GroupBy](https://github.com/laravel/framework/pull/52918) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
 - [[11.x] Fix PHPDoc for TestResponse&#39;s `Response` Type to \Symfony\Component\HttpFoundation\Response](https://github.com/laravel/framework/pull/52915) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
-- [[11.x] Enhance PHPDoc for Eloquent Relations to support precise subclasses](https://github.com/laravel/framework/pull/52775) on [laravel/framework](https://github.com/laravel/framework) (6 months ago)
-- [[11.x] Fix incorrect PHPDoc for Builder relation](https://github.com/laravel/framework/pull/52754) on [laravel/framework](https://github.com/laravel/framework) (6 months ago)
 
 #### ⭐ Recent Stars
 
