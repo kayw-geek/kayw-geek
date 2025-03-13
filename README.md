@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix: improve type inference for `preg_match` direct comparison ](https://github.com/thecodingmachine/phpstan-safe-rule/pull/58) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (today)
 - [[12.x] Enhance PHPDoc for Manager classes with `@param-closure-this`](https://github.com/laravel/framework/pull/55002) on [laravel/framework](https://github.com/laravel/framework) (today)
 - [[12.x] Enhance PHPDoc for Manager classes with `@param-closure-this`](https://github.com/laravel/framework/pull/55001) on [laravel/framework](https://github.com/laravel/framework) (today)
 - [[symfony-mailer-bridges] Add missing `symfony/http-client-contracts` dependency](https://github.com/symfony/symfony/pull/59516) on [symfony/symfony](https://github.com/symfony/symfony) (1 month ago)
@@ -50,7 +51,6 @@
 - [Support Laravel 11.x](https://github.com/saasscaleup/laravel-n-plus-one-detector/pull/3) on [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) (5 months ago)
 - [[11.x] Add generic type parameters for `Eloquent\Builder` in `@param` Tag to avoid PHPStan errors](https://github.com/laravel/framework/pull/52944) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
 - [[11.x] Fix incorrect PHPDoc for KeyBy and GroupBy](https://github.com/laravel/framework/pull/52918) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
-- [[11.x] Fix PHPDoc for TestResponse&#39;s `Response` Type to \Symfony\Component\HttpFoundation\Response](https://github.com/laravel/framework/pull/52915) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
 
 #### ⭐ Recent Stars
 
