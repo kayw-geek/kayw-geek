@@ -22,9 +22,9 @@
 
 #### 🪅 Recent contributed Repos
 
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (today)
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (4 months ago)
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (5 months ago)
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (5 months ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (6 months ago)
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) - The Testing Framework for Laravel Development (7 months ago)
 
