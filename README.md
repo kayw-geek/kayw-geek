@@ -54,6 +54,7 @@
 
 #### ⭐ Recent Stars
 
+- [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) - A MCP Server for the RAG Web Browser Actor (today)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (today)
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools &amp; Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. (today)
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -  (2 days ago)
@@ -63,7 +64,6 @@
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in. (2 weeks ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (3 weeks ago)
 - [dmaicher/doctrine-test-bundle](https://github.com/dmaicher/doctrine-test-bundle) - Symfony bundle to isolate your app&#39;s doctrine database tests and improve the test performance (3 weeks ago)
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
