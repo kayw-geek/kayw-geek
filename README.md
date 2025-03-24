@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[12.x] Update DateFactory method annotations for Carbon v3 compatibility](https://github.com/laravel/framework/pull/55151) on [laravel/framework](https://github.com/laravel/framework) (today)
 - [[12.x] Improve syntax highlighting for stub type files](https://github.com/laravel/framework/pull/55094) on [laravel/framework](https://github.com/laravel/framework) (4 days ago)
 - [Fix: improve type inference for `preg_match` direct comparison ](https://github.com/thecodingmachine/phpstan-safe-rule/pull/58) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (1 week ago)
 - [[12.x] Enhance PHPDoc for Manager classes with `@param-closure-this`](https://github.com/laravel/framework/pull/55002) on [laravel/framework](https://github.com/laravel/framework) (1 week ago)
@@ -50,7 +51,6 @@
 - [fix(composer): resolve the `lockFileMaintenance` not working](https://github.com/renovatebot/renovate/pull/32384) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (4 months ago)
 - [fix: improve PHPDoc for find method of QueryBuilder to support FETCH_ASSOC](https://github.com/larastan/larastan/pull/2081) on [larastan/larastan](https://github.com/larastan/larastan) (5 months ago)
 - [Support Laravel 11.x](https://github.com/saasscaleup/laravel-n-plus-one-detector/pull/3) on [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) (5 months ago)
-- [[11.x] Add generic type parameters for `Eloquent\Builder` in `@param` Tag to avoid PHPStan errors](https://github.com/laravel/framework/pull/52944) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
 
 #### ⭐ Recent Stars
 
