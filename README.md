@@ -67,11 +67,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ZWindL](https://github.com/ZWindL)
 - [iceburgcrm](https://github.com/iceburgcrm)
 - [imzyf](https://github.com/imzyf)
 - [XiaomingX](https://github.com/XiaomingX)
 - [yinheli](https://github.com/yinheli)
-- [ipqwery](https://github.com/ipqwery)
 
 
 ---
