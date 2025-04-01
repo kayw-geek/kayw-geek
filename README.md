@@ -30,12 +30,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0), today) - A tool to automatically fix PHP Coding Standards issues
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.342.17](https://github.com/aws/aws-sdk-php/releases/tag/3.342.17), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v12.4.1](https://github.com/laravel/framework/releases/tag/v12.4.1), 1 day ago) - The Laravel Framework.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.342.17](https://github.com/aws/aws-sdk-php/releases/tag/3.342.17), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v12.4.1](https://github.com/laravel/framework/releases/tag/v12.4.1), 2 days ago) - The Laravel Framework.
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.2.0](https://github.com/larastan/larastan/releases/tag/v3.2.0), 2 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.1.0](https://github.com/orchestral/testbench-core/releases/tag/v10.1.0), 3 weeks ago) - The Testing Framework for Laravel Development
-- [worksome/envy](https://github.com/worksome/envy) ([v1.4.0](https://github.com/worksome/envy/releases/tag/v1.4.0), 3 weeks ago) - Keep your .env.example file up to date
+- [worksome/envy](https://github.com/worksome/envy) ([v1.4.0](https://github.com/worksome/envy/releases/tag/v1.4.0), 4 weeks ago) - Keep your .env.example file up to date
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 5 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 10 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
 
@@ -54,9 +54,9 @@
 
 #### ⭐ Recent Stars
 
-- [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge. (5 days ago)
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. (5 days ago)
-- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! (6 days ago)
+- [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge. (6 days ago)
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. (6 days ago)
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! (1 week ago)
 - [ryangjchandler/laravel-magic-make](https://github.com/ryangjchandler/laravel-magic-make) - Artisan `make` commands for all of your custom stubs, automagically configured for you. (1 week ago)
 - [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) - A MCP Server for the RAG Web Browser Actor (1 week ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (1 week ago)
