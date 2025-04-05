@@ -70,7 +70,7 @@
 - [iceburgcrm](https://github.com/iceburgcrm)
 - [imzyf](https://github.com/imzyf)
 - [yinheli](https://github.com/yinheli)
-- [ipqwery](https://github.com/ipqwery)
+- [Xusually](https://github.com/Xusually)
 
 
 ---
