@@ -30,10 +30,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.342.21](https://github.com/aws/aws-sdk-php/releases/tag/3.342.21), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.3.1](https://github.com/larastan/larastan/releases/tag/v3.3.1), 2 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.7.2](https://github.com/laravel/framework/releases/tag/v12.7.2), 2 days ago) - The Laravel Framework.
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0), 5 days ago) - A tool to automatically fix PHP Coding Standards issues
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.342.21](https://github.com/aws/aws-sdk-php/releases/tag/3.342.21), 2 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.3.1](https://github.com/larastan/larastan/releases/tag/v3.3.1), 3 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.7.2](https://github.com/laravel/framework/releases/tag/v12.7.2), 3 days ago) - The Laravel Framework.
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0), 6 days ago) - A tool to automatically fix PHP Coding Standards issues
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.1.0](https://github.com/orchestral/testbench-core/releases/tag/v10.1.0), 1 month ago) - The Testing Framework for Laravel Development
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 5 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 10 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
@@ -47,7 +47,7 @@
 - [[12.x] Enhance PHPDoc for Manager classes with `@param-closure-this`](https://github.com/laravel/framework/pull/55001) on [laravel/framework](https://github.com/laravel/framework) (3 weeks ago)
 - [[symfony-mailer-bridges] Add missing `symfony/http-client-contracts` dependency](https://github.com/symfony/symfony/pull/59516) on [symfony/symfony](https://github.com/symfony/symfony) (2 months ago)
 - [[11.x] Introduce `TFetchMode` generic to support for different PDO fetch modes](https://github.com/laravel/framework/pull/53477) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
-- [fix(composer): resolve the `lockFileMaintenance` not working](https://github.com/renovatebot/renovate/pull/32384) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (4 months ago)
+- [fix(composer): resolve the `lockFileMaintenance` not working](https://github.com/renovatebot/renovate/pull/32384) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (5 months ago)
 - [fix: improve PHPDoc for find method of QueryBuilder to support FETCH_ASSOC](https://github.com/larastan/larastan/pull/2081) on [larastan/larastan](https://github.com/larastan/larastan) (5 months ago)
 - [Support Laravel 11.x](https://github.com/saasscaleup/laravel-n-plus-one-detector/pull/3) on [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) (5 months ago)
 
