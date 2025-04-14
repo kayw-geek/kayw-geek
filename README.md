@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - Awesome curated collection of GPT-4o images &amp; prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI&#39;s latest model.  (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (6 days ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) -  (6 days ago)
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge. (2 weeks ago)
@@ -62,7 +63,6 @@
 - [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) - A MCP Server for the RAG Web Browser Actor (3 weeks ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (3 weeks ago)
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools &amp; Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. (3 weeks ago)
-- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) -  (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
