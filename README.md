@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [EdmondDantes/php-true-async-rfc](https://github.com/EdmondDantes/php-true-async-rfc) - PHP TRUE ASYNC RFC (today)
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) -  (4 days ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (5 days ago)
 - [jasonmccreary/laravel-test-assertions](https://github.com/jasonmccreary/laravel-test-assertions) - A set of helpful assertions when testing Laravel applications. (1 week ago)
@@ -62,7 +63,6 @@
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge. (3 weeks ago)
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. (3 weeks ago)
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! (3 weeks ago)
-- [ryangjchandler/laravel-magic-make](https://github.com/ryangjchandler/laravel-magic-make) - Artisan `make` commands for all of your custom stubs, automagically configured for you. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
