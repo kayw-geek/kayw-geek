@@ -30,10 +30,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.4.0](https://github.com/larastan/larastan/releases/tag/v3.4.0), today) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.342.31](https://github.com/aws/aws-sdk-php/releases/tag/3.342.31), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [laravel/framework](https://github.com/laravel/framework) ([v12.9.2](https://github.com/laravel/framework/releases/tag/v12.9.2), 6 days ago) - The Laravel Framework.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.2.1](https://github.com/orchestral/testbench-core/releases/tag/v10.2.1), 1 week ago) - The Testing Framework for Laravel Development
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.3.1](https://github.com/larastan/larastan/releases/tag/v3.3.1), 2 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0), 3 weeks ago) - A tool to automatically fix PHP Coding Standards issues
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 6 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 11 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
