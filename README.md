@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio (today)
 - [slack-php/slack-php-block-kit](https://github.com/slack-php/slack-php-block-kit) - OOP interface for composing Slack Block Kit messages and modals in PHP (3 days ago)
 - [EdmondDantes/php-true-async-rfc](https://github.com/EdmondDantes/php-true-async-rfc) - PHP TRUE ASYNC RFC (1 week ago)
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) -  (1 week ago)
@@ -62,7 +63,6 @@
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (2 weeks ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) -  (2 weeks ago)
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge. (1 month ago)
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
