@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.342.36](https://github.com/aws/aws-sdk-php/releases/tag/3.342.36), today) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.2.2](https://github.com/orchestral/testbench-core/releases/tag/v10.2.2), 1 day ago) - The Testing Framework for Laravel Development
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.342.35](https://github.com/aws/aws-sdk-php/releases/tag/3.342.35), 3 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [laravel/framework](https://github.com/laravel/framework) ([v11.44.7](https://github.com/laravel/framework/releases/tag/v11.44.7), 3 days ago) - The Laravel Framework.
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.4.0](https://github.com/larastan/larastan/releases/tag/v3.4.0), 6 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0), 4 weeks ago) - A tool to automatically fix PHP Coding Standards issues
