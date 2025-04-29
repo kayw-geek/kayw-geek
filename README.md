@@ -26,14 +26,14 @@
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (5 months ago)
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (6 months ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (8 months ago)
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) - The Testing Framework for Laravel Development (8 months ago)
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) - The Testing Framework for Laravel Development (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.342.36](https://github.com/aws/aws-sdk-php/releases/tag/3.342.36), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.2.2](https://github.com/orchestral/testbench-core/releases/tag/v10.2.2), 1 day ago) - The Testing Framework for Laravel Development
-- [laravel/framework](https://github.com/laravel/framework) ([v11.44.7](https://github.com/laravel/framework/releases/tag/v11.44.7), 3 days ago) - The Laravel Framework.
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.4.0](https://github.com/larastan/larastan/releases/tag/v3.4.0), 6 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.342.36](https://github.com/aws/aws-sdk-php/releases/tag/3.342.36), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.2.2](https://github.com/orchestral/testbench-core/releases/tag/v10.2.2), 2 days ago) - The Testing Framework for Laravel Development
+- [laravel/framework](https://github.com/laravel/framework) ([v11.44.7](https://github.com/laravel/framework/releases/tag/v11.44.7), 4 days ago) - The Laravel Framework.
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.4.0](https://github.com/larastan/larastan/releases/tag/v3.4.0), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0), 4 weeks ago) - A tool to automatically fix PHP Coding Standards issues
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 6 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 - [kayw-geek/quality-hook-installer](https://github.com/kayw-geek/quality-hook-installer) ([1.0.24](https://github.com/kayw-geek/quality-hook-installer/releases/tag/1.0.24), 11 months ago) - Install an execute script of specify quality tools to your git pre-commit hook, and it executes only for changed files
@@ -53,15 +53,15 @@
 
 #### ⭐ Recent Stars
 
-- [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio (today)
-- [slack-php/slack-php-block-kit](https://github.com/slack-php/slack-php-block-kit) - OOP interface for composing Slack Block Kit messages and modals in PHP (3 days ago)
+- [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio (1 day ago)
+- [slack-php/slack-php-block-kit](https://github.com/slack-php/slack-php-block-kit) - OOP interface for composing Slack Block Kit messages and modals in PHP (4 days ago)
 - [EdmondDantes/php-true-async-rfc](https://github.com/EdmondDantes/php-true-async-rfc) - PHP TRUE ASYNC RFC (1 week ago)
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) -  (1 week ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (1 week ago)
 - [jasonmccreary/laravel-test-assertions](https://github.com/jasonmccreary/laravel-test-assertions) - A set of helpful assertions when testing Laravel applications. (2 weeks ago)
 - [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - Awesome curated collection of GPT-4o images &amp; prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI&#39;s latest model.  (2 weeks ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (2 weeks ago)
-- [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) -  (2 weeks ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (3 weeks ago)
+- [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) -  (3 weeks ago)
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge. (1 month ago)
 
 #### 👯 Check out some of my recent followers
