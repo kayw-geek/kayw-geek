@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.343.3](https://github.com/aws/aws-sdk-php/releases/tag/3.343.3), 2 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v12.12.0](https://github.com/laravel/framework/releases/tag/v12.12.0), 3 days ago) - The Laravel Framework.
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.343.3](https://github.com/aws/aws-sdk-php/releases/tag/3.343.3), 3 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v12.12.0](https://github.com/laravel/framework/releases/tag/v12.12.0), 4 days ago) - The Laravel Framework.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.2.2](https://github.com/orchestral/testbench-core/releases/tag/v10.2.2), 1 week ago) - The Testing Framework for Laravel Development
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.4.0](https://github.com/larastan/larastan/releases/tag/v3.4.0), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
@@ -53,13 +53,13 @@
 
 #### ⭐ Recent Stars
 
-- [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio (6 days ago)
+- [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio (1 week ago)
 - [slack-php/slack-php-block-kit](https://github.com/slack-php/slack-php-block-kit) - OOP interface for composing Slack Block Kit messages and modals in PHP (1 week ago)
-- [EdmondDantes/php-true-async-rfc](https://github.com/EdmondDantes/php-true-async-rfc) - PHP TRUE ASYNC RFC (1 week ago)
+- [EdmondDantes/php-true-async-rfc](https://github.com/EdmondDantes/php-true-async-rfc) - PHP TRUE ASYNC RFC (2 weeks ago)
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) -  (2 weeks ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (2 weeks ago)
-- [jasonmccreary/laravel-test-assertions](https://github.com/jasonmccreary/laravel-test-assertions) - A set of helpful assertions when testing Laravel applications. (2 weeks ago)
-- [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - Awesome curated collection of GPT-4o images &amp; prompts. Explore the limitless possibilities of OpenAI&#39;s GPT-4o image generation. GPT-4o生成图像与提示词精选集，探索OpenAI GPT-4o图像生成的无限可能性。 (2 weeks ago)
+- [jasonmccreary/laravel-test-assertions](https://github.com/jasonmccreary/laravel-test-assertions) - A set of helpful assertions when testing Laravel applications. (3 weeks ago)
+- [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - Awesome curated collection of GPT-4o images &amp; prompts. Explore the limitless possibilities of OpenAI&#39;s GPT-4o image generation. GPT-4o生成图像与提示词精选集，探索OpenAI GPT-4o图像生成的无限可能性。 (3 weeks ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (3 weeks ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) -  (3 weeks ago)
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge. (1 month ago)
