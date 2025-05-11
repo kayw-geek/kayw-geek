@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.343.8](https://github.com/aws/aws-sdk-php/releases/tag/3.343.8), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v12.13.0](https://github.com/laravel/framework/releases/tag/v12.13.0), 3 days ago) - The Laravel Framework.
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.2.3](https://github.com/orchestral/testbench-core/releases/tag/v10.2.3), 4 days ago) - The Testing Framework for Laravel Development
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.343.8](https://github.com/aws/aws-sdk-php/releases/tag/3.343.8), 2 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v12.13.0](https://github.com/laravel/framework/releases/tag/v12.13.0), 4 days ago) - The Laravel Framework.
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.2.3](https://github.com/orchestral/testbench-core/releases/tag/v10.2.3), 5 days ago) - The Testing Framework for Laravel Development
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.4.0](https://github.com/larastan/larastan/releases/tag/v3.4.0), 2 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 6 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
@@ -46,7 +46,7 @@
 - [[12.x] Enhance PHPDoc for Manager classes with `@param-closure-this`](https://github.com/laravel/framework/pull/55002) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
 - [[12.x] Enhance PHPDoc for Manager classes with `@param-closure-this`](https://github.com/laravel/framework/pull/55001) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
 - [[symfony-mailer-bridges] Add missing `symfony/http-client-contracts` dependency](https://github.com/symfony/symfony/pull/59516) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
-- [[11.x] Introduce `TFetchMode` generic to support for different PDO fetch modes](https://github.com/laravel/framework/pull/53477) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
+- [[11.x] Introduce `TFetchMode` generic to support for different PDO fetch modes](https://github.com/laravel/framework/pull/53477) on [laravel/framework](https://github.com/laravel/framework) (6 months ago)
 - [fix(composer): resolve the `lockFileMaintenance` not working](https://github.com/renovatebot/renovate/pull/32384) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (6 months ago)
 - [fix: improve PHPDoc for find method of QueryBuilder to support FETCH_ASSOC](https://github.com/larastan/larastan/pull/2081) on [larastan/larastan](https://github.com/larastan/larastan) (6 months ago)
 - [Support Laravel 11.x](https://github.com/saasscaleup/laravel-n-plus-one-detector/pull/3) on [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) (7 months ago)
