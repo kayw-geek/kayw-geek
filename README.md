@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.343.12](https://github.com/aws/aws-sdk-php/releases/tag/3.343.12), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v12.14.1](https://github.com/laravel/framework/releases/tag/v12.14.1), 2 days ago) - The Laravel Framework.
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.3.0](https://github.com/orchestral/testbench-core/releases/tag/v10.3.0), 3 days ago) - The Testing Framework for Laravel Development
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.343.12](https://github.com/aws/aws-sdk-php/releases/tag/3.343.12), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v12.14.1](https://github.com/laravel/framework/releases/tag/v12.14.1), 3 days ago) - The Laravel Framework.
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.3.0](https://github.com/orchestral/testbench-core/releases/tag/v10.3.0), 4 days ago) - The Testing Framework for Laravel Development
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.4.0](https://github.com/larastan/larastan/releases/tag/v3.4.0), 3 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0), 1 month ago) - A tool to automatically fix PHP Coding Standards issues
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 7 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
@@ -45,7 +45,7 @@
 - [Fix: improve type inference for `preg_match` direct comparison ](https://github.com/thecodingmachine/phpstan-safe-rule/pull/58) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (2 months ago)
 - [[12.x] Enhance PHPDoc for Manager classes with `@param-closure-this`](https://github.com/laravel/framework/pull/55002) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
 - [[12.x] Enhance PHPDoc for Manager classes with `@param-closure-this`](https://github.com/laravel/framework/pull/55001) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
-- [[symfony-mailer-bridges] Add missing `symfony/http-client-contracts` dependency](https://github.com/symfony/symfony/pull/59516) on [symfony/symfony](https://github.com/symfony/symfony) (3 months ago)
+- [[symfony-mailer-bridges] Add missing `symfony/http-client-contracts` dependency](https://github.com/symfony/symfony/pull/59516) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 - [[11.x] Introduce `TFetchMode` generic to support for different PDO fetch modes](https://github.com/laravel/framework/pull/53477) on [laravel/framework](https://github.com/laravel/framework) (6 months ago)
 - [fix(composer): resolve the `lockFileMaintenance` not working](https://github.com/renovatebot/renovate/pull/32384) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (6 months ago)
 - [fix: improve PHPDoc for find method of QueryBuilder to support FETCH_ASSOC](https://github.com/larastan/larastan/pull/2081) on [larastan/larastan](https://github.com/larastan/larastan) (6 months ago)
@@ -53,13 +53,13 @@
 
 #### ⭐ Recent Stars
 
-- [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions. (1 day ago)
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。 (1 day ago)
+- [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions. (2 days ago)
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。 (2 days ago)
 - [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio (2 weeks ago)
-- [slack-php/slack-php-block-kit](https://github.com/slack-php/slack-php-block-kit) - OOP interface for composing Slack Block Kit messages and modals in PHP (2 weeks ago)
+- [slack-php/slack-php-block-kit](https://github.com/slack-php/slack-php-block-kit) - OOP interface for composing Slack Block Kit messages and modals in PHP (3 weeks ago)
 - [EdmondDantes/php-true-async-rfc](https://github.com/EdmondDantes/php-true-async-rfc) - PHP TRUE ASYNC RFC (3 weeks ago)
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) -  (4 weeks ago)
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (4 weeks ago)
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (1 month ago)
 - [jasonmccreary/laravel-test-assertions](https://github.com/jasonmccreary/laravel-test-assertions) - A set of helpful assertions when testing Laravel applications. (1 month ago)
 - [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabilities. (1 month ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 month ago)
