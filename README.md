@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [Belco90/octochangelog](https://github.com/Belco90/octochangelog) - Compare GitHub changelogs across multiple releases in a single view. (today)
 - [php-mcp/server](https://github.com/php-mcp/server) - Core PHP implementation for the Model Context Protocol (MCP) server (1 day ago)
 - [imliam/cpx](https://github.com/imliam/cpx) - Run any command from any composer package, even if it&#39;s not installed in your project. (1 day ago)
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml? (1 day ago)
@@ -62,7 +63,6 @@
 - [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio (3 weeks ago)
 - [slack-php/slack-php-block-kit](https://github.com/slack-php/slack-php-block-kit) - OOP interface for composing Slack Block Kit messages and modals in PHP (3 weeks ago)
 - [EdmondDantes/php-true-async-rfc](https://github.com/EdmondDantes/php-true-async-rfc) - PHP TRUE ASYNC RFC (1 month ago)
-- [droidrun/droidrun](https://github.com/droidrun/droidrun) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
