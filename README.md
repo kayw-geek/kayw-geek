@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [GeoSn0w/iDevice-Toolkit](https://github.com/GeoSn0w/iDevice-Toolkit) - The official repo for iDevice Toolkit, my iOS tweaking / customization tool for iOS 16.0 - 18.3.2 (today)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (1 day ago)
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) - Compare GitHub changelogs across multiple releases in a single view. (1 day ago)
 - [php-mcp/server](https://github.com/php-mcp/server) - Core PHP implementation for the Model Context Protocol (MCP) server (2 days ago)
@@ -62,7 +63,6 @@
 - [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions. (1 week ago)
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。 (1 week ago)
 - [JetBrains/mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio (3 weeks ago)
-- [slack-php/slack-php-block-kit](https://github.com/slack-php/slack-php-block-kit) - OOP interface for composing Slack Block Kit messages and modals in PHP (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
