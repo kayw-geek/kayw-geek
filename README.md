@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. (today)
 - [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - Open source framework to create full featured AI Agents in PHP - powered by Inspector.dev (today)
 - [GeoSn0w/iDevice-Toolkit](https://github.com/GeoSn0w/iDevice-Toolkit) - The official repo for iDevice Toolkit, my iOS tweaking / customization tool for iOS 16.0 - 18.5 (4 days ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (5 days ago)
@@ -61,7 +62,6 @@
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml? (6 days ago)
 - [Relaticle/relaticle](https://github.com/Relaticle/relaticle) - The Next-Generation Open-Source CRM Platform written with Laravel and Filament (1 week ago)
 - [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions. (1 week ago)
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。 (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
