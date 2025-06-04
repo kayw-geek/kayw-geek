@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.343.24](https://github.com/aws/aws-sdk-php/releases/tag/3.343.24), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v12.17.0](https://github.com/laravel/framework/releases/tag/v12.17.0), today) - The Laravel Framework.
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.343.24](https://github.com/aws/aws-sdk-php/releases/tag/3.343.24), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v12.17.0](https://github.com/laravel/framework/releases/tag/v12.17.0), 1 day ago) - The Laravel Framework.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.3.0](https://github.com/orchestral/testbench-core/releases/tag/v10.3.0), 3 weeks ago) - The Testing Framework for Laravel Development
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.4.0](https://github.com/larastan/larastan/releases/tag/v3.4.0), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0), 2 months ago) - A tool to automatically fix PHP Coding Standards issues
@@ -52,16 +52,16 @@
 
 #### ⭐ Recent Stars
 
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller. (4 days ago)
-- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (6 days ago)
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller. (5 days ago)
+- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (1 week ago)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake. (1 week ago)
 - [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - The PHP Agent Development Kit - powered by Inspector.dev (1 week ago)
 - [GeoSn0w/iDevice-Toolkit](https://github.com/GeoSn0w/iDevice-Toolkit) - The official repo for iDevice Toolkit, my iOS tweaking / customization tool for iOS 16.0 - 18.5 (1 week ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (1 week ago)
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) - Compare GitHub changelogs across multiple releases in a single view. (1 week ago)
-- [php-mcp/server](https://github.com/php-mcp/server) - Core PHP implementation for the Model Context Protocol (MCP) server (1 week ago)
-- [imliam/cpx](https://github.com/imliam/cpx) - Run any command from any composer package, even if it&#39;s not installed in your project. (1 week ago)
-- [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml? (1 week ago)
+- [php-mcp/server](https://github.com/php-mcp/server) - Core PHP implementation for the Model Context Protocol (MCP) server (2 weeks ago)
+- [imliam/cpx](https://github.com/imliam/cpx) - Run any command from any composer package, even if it&#39;s not installed in your project. (2 weeks ago)
+- [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml? (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
