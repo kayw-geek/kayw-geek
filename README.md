@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.344.0](https://github.com/aws/aws-sdk-php/releases/tag/3.344.0), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [laravel/framework](https://github.com/laravel/framework) ([v12.17.0](https://github.com/laravel/framework/releases/tag/v12.17.0), 1 day ago) - The Laravel Framework.
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.344.0](https://github.com/aws/aws-sdk-php/releases/tag/3.344.0), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [laravel/framework](https://github.com/laravel/framework) ([v12.17.0](https://github.com/laravel/framework/releases/tag/v12.17.0), 2 days ago) - The Laravel Framework.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.3.0](https://github.com/orchestral/testbench-core/releases/tag/v10.3.0), 3 weeks ago) - The Testing Framework for Laravel Development
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.4.0](https://github.com/larastan/larastan/releases/tag/v3.4.0), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0), 2 months ago) - A tool to automatically fix PHP Coding Standards issues
@@ -46,22 +46,22 @@
 - [[12.x] Enhance PHPDoc for Manager classes with `@param-closure-this`](https://github.com/laravel/framework/pull/55001) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
 - [[symfony-mailer-bridges] Add missing `symfony/http-client-contracts` dependency](https://github.com/symfony/symfony/pull/59516) on [symfony/symfony](https://github.com/symfony/symfony) (4 months ago)
 - [[11.x] Introduce `TFetchMode` generic to support for different PDO fetch modes](https://github.com/laravel/framework/pull/53477) on [laravel/framework](https://github.com/laravel/framework) (6 months ago)
-- [fix(composer): resolve the `lockFileMaintenance` not working](https://github.com/renovatebot/renovate/pull/32384) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (6 months ago)
+- [fix(composer): resolve the `lockFileMaintenance` not working](https://github.com/renovatebot/renovate/pull/32384) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (7 months ago)
 - [fix: improve PHPDoc for find method of QueryBuilder to support FETCH_ASSOC](https://github.com/larastan/larastan/pull/2081) on [larastan/larastan](https://github.com/larastan/larastan) (7 months ago)
 - [Support Laravel 11.x](https://github.com/saasscaleup/laravel-n-plus-one-detector/pull/3) on [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) (7 months ago)
 
 #### ⭐ Recent Stars
 
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller. (5 days ago)
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI (today)
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller. (6 days ago)
 - [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (1 week ago)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake. (1 week ago)
 - [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - The PHP Agent Development Kit - powered by Inspector.dev (1 week ago)
 - [GeoSn0w/iDevice-Toolkit](https://github.com/GeoSn0w/iDevice-Toolkit) - The official repo for iDevice Toolkit, my iOS tweaking / customization tool for iOS 16.0 - 18.5 (1 week ago)
-- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (1 week ago)
-- [Belco90/octochangelog](https://github.com/Belco90/octochangelog) - Compare GitHub changelogs across multiple releases in a single view. (1 week ago)
+- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (2 weeks ago)
+- [Belco90/octochangelog](https://github.com/Belco90/octochangelog) - Compare GitHub changelogs across multiple releases in a single view. (2 weeks ago)
 - [php-mcp/server](https://github.com/php-mcp/server) - Core PHP implementation for the Model Context Protocol (MCP) server (2 weeks ago)
 - [imliam/cpx](https://github.com/imliam/cpx) - Run any command from any composer package, even if it&#39;s not installed in your project. (2 weeks ago)
-- [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml? (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
