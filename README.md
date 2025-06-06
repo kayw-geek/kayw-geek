@@ -65,11 +65,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [ZWindL](https://github.com/ZWindL)
 - [iceburgcrm](https://github.com/iceburgcrm)
 - [imzyf](https://github.com/imzyf)
 - [yinheli](https://github.com/yinheli)
-- [Xusually](https://github.com/Xusually)
 
 
 ---
