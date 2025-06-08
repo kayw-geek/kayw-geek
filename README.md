@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v9.15.0](https://github.com/orchestral/testbench-core/releases/tag/v9.15.0), today) - The Testing Framework for Laravel Development
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.344.2](https://github.com/aws/aws-sdk-php/releases/tag/3.344.2), 2 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [laravel/framework](https://github.com/laravel/framework) ([v12.17.0](https://github.com/laravel/framework/releases/tag/v12.17.0), 5 days ago) - The Laravel Framework.
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.3.0](https://github.com/orchestral/testbench-core/releases/tag/v10.3.0), 3 weeks ago) - The Testing Framework for Laravel Development
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.4.0](https://github.com/larastan/larastan/releases/tag/v3.4.0), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0), 2 months ago) - A tool to automatically fix PHP Coding Standards issues
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 7 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
