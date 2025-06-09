@@ -22,17 +22,18 @@
 
 #### 🪅 Recent contributed Repos
 
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI  (4 days ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (2 months ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (7 months ago)
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (8 months ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (9 months ago)
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) - The Testing Framework for Laravel Development (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.4.0](https://github.com/orchestral/testbench-core/releases/tag/v10.4.0), 1 day ago) - The Testing Framework for Laravel Development
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.344.2](https://github.com/aws/aws-sdk-php/releases/tag/3.344.2), 3 days ago) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [laravel/framework](https://github.com/laravel/framework) ([v12.17.0](https://github.com/laravel/framework/releases/tag/v12.17.0), 6 days ago) - The Laravel Framework.
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([42.5.0](https://github.com/jdalrymple/gitbeaker/releases/tag/42.5.0), 1 month ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.4.0](https://github.com/larastan/larastan/releases/tag/v3.4.0), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0), 2 months ago) - A tool to automatically fix PHP Coding Standards issues
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 7 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
