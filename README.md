@@ -22,7 +22,7 @@
 
 #### 🪅 Recent contributed Repos
 
-- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI  (6 days ago)
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI  (1 week ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (2 months ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (7 months ago)
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (8 months ago)
@@ -30,17 +30,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.344.5](https://github.com/aws/aws-sdk-php/releases/tag/3.344.5), today) - Official repository of the AWS SDK for PHP (@awsforphp)
-- [larastan/larastan](https://github.com/larastan/larastan) ([v2.11.2](https://github.com/larastan/larastan/releases/tag/v2.11.2), 1 day ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.18.0](https://github.com/laravel/framework/releases/tag/v12.18.0), 1 day ago) - The Laravel Framework.
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.4.0](https://github.com/orchestral/testbench-core/releases/tag/v10.4.0), 3 days ago) - The Testing Framework for Laravel Development
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.344.5](https://github.com/aws/aws-sdk-php/releases/tag/3.344.5), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [larastan/larastan](https://github.com/larastan/larastan) ([v2.11.2](https://github.com/larastan/larastan/releases/tag/v2.11.2), 2 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.18.0](https://github.com/laravel/framework/releases/tag/v12.18.0), 2 days ago) - The Laravel Framework.
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.4.0](https://github.com/orchestral/testbench-core/releases/tag/v10.4.0), 4 days ago) - The Testing Framework for Laravel Development
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([42.5.0](https://github.com/jdalrymple/gitbeaker/releases/tag/42.5.0), 1 month ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.75.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0), 2 months ago) - A tool to automatically fix PHP Coding Standards issues
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 8 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 
 #### 🔨 My recent Pull Requests
 
-- [Add missing `detailed_status` field to WebhookPipelineEventSchema](https://github.com/jdalrymple/gitbeaker/pull/3729) on [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) (6 days ago)
+- [Add missing `detailed_status` field to WebhookPipelineEventSchema](https://github.com/jdalrymple/gitbeaker/pull/3729) on [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) (1 week ago)
 - [[12.x] Update DateFactory method annotations for Carbon v3 compatibility](https://github.com/laravel/framework/pull/55151) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
 - [[12.x] Improve syntax highlighting for stub type files](https://github.com/laravel/framework/pull/55094) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
 - [Fix: improve type inference for `preg_match` direct comparison ](https://github.com/thecodingmachine/phpstan-safe-rule/pull/58) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (3 months ago)
@@ -53,16 +53,16 @@
 
 #### ⭐ Recent Stars
 
-- [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages. (1 day ago)
-- [nunomaduro/essentials](https://github.com/nunomaduro/essentials) - Just better defaults for your Laravel projects. (5 days ago)
-- [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly. (6 days ago)
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI (6 days ago)
+- [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages. (2 days ago)
+- [nunomaduro/essentials](https://github.com/nunomaduro/essentials) - Just better defaults for your Laravel projects. (6 days ago)
+- [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly. (1 week ago)
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI (1 week ago)
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller. (1 week ago)
 - [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (2 weeks ago)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake. (2 weeks ago)
 - [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - The PHP Agent Development Kit - powered by Inspector.dev (2 weeks ago)
 - [GeoSn0w/iDevice-Toolkit](https://github.com/GeoSn0w/iDevice-Toolkit) - The official repo for iDevice Toolkit, my iOS tweaking / customization tool for iOS 16.0 - 18.5 (2 weeks ago)
-- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (2 weeks ago)
+- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
