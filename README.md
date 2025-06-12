@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.344.5](https://github.com/aws/aws-sdk-php/releases/tag/3.344.5), 1 day ago) - Official repository of the AWS SDK for PHP (@awsforphp)
+- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) ([3.344.6](https://github.com/aws/aws-sdk-php/releases/tag/3.344.6), today) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [larastan/larastan](https://github.com/larastan/larastan) ([v2.11.2](https://github.com/larastan/larastan/releases/tag/v2.11.2), 2 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [laravel/framework](https://github.com/laravel/framework) ([v12.18.0](https://github.com/laravel/framework/releases/tag/v12.18.0), 2 days ago) - The Laravel Framework.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.4.0](https://github.com/orchestral/testbench-core/releases/tag/v10.4.0), 4 days ago) - The Testing Framework for Laravel Development
