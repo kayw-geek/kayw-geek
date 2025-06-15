@@ -60,7 +60,7 @@
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller. (2 weeks ago)
 - [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (2 weeks ago)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake. (2 weeks ago)
-- [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - The PHP Agent Development Kit - powered by Inspector.dev (2 weeks ago)
+- [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - The PHP Agent Development Kit to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it&#39;s best suited for building RAG, question answering, semantic search or conversational agent chatbots. (2 weeks ago)
 - [GeoSn0w/iDevice-Toolkit](https://github.com/GeoSn0w/iDevice-Toolkit) - The official repo for iDevice Toolkit, my iOS tweaking / customization tool for iOS 16.0 - 18.5 (3 weeks ago)
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library (3 weeks ago)
 
