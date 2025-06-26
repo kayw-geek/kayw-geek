@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx. (today)
 - [boson-php/boson](https://github.com/boson-php/boson) - ⚡ Boson Kernel (3 days ago)
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system. (1 week ago)
 - [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer (1 week ago)
@@ -61,7 +62,6 @@
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly. (3 weeks ago)
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI (3 weeks ago)
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller. (3 weeks ago)
-- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
