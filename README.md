@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.5.0](https://github.com/larastan/larastan/releases/tag/v3.5.0), 6 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.5.0](https://github.com/larastan/larastan/releases/tag/v3.5.0), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [laravel/framework](https://github.com/laravel/framework) ([v12.19.3](https://github.com/laravel/framework/releases/tag/v12.19.3), 1 week ago) - The Laravel Framework.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.4.0](https://github.com/orchestral/testbench-core/releases/tag/v10.4.0), 2 weeks ago) - The Testing Framework for Laravel Development
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([42.5.0](https://github.com/jdalrymple/gitbeaker/releases/tag/42.5.0), 2 months ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
@@ -39,7 +39,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve access properties check](https://github.com/phpstan/phpstan/pull/13191) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
+- [Improve property access checking with property tag support](https://github.com/phpstan/phpstan-src/pull/4075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (today)
+- [Improve access properties check](https://github.com/phpstan/phpstan/pull/13191) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 day ago)
 - [[3.x] Fix incorrect return type for DateExtension in Laravel versions above 12](https://github.com/larastan/larastan/pull/2299) on [larastan/larastan](https://github.com/larastan/larastan) (1 week ago)
 - [[12.0] Support merge request dependency endpoint](https://github.com/GitLabPHP/Client/pull/835) on [GitLabPHP/Client](https://github.com/GitLabPHP/Client) (1 week ago)
 - [Add missing `detailed_status` field to WebhookPipelineEventSchema](https://github.com/jdalrymple/gitbeaker/pull/3729) on [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) (3 weeks ago)
@@ -48,20 +49,19 @@
 - [Fix: improve type inference for `preg_match` direct comparison ](https://github.com/thecodingmachine/phpstan-safe-rule/pull/58) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (3 months ago)
 - [[12.x] Enhance PHPDoc for Manager classes with `@param-closure-this`](https://github.com/laravel/framework/pull/55002) on [laravel/framework](https://github.com/laravel/framework) (3 months ago)
 - [[12.x] Enhance PHPDoc for Manager classes with `@param-closure-this`](https://github.com/laravel/framework/pull/55001) on [laravel/framework](https://github.com/laravel/framework) (3 months ago)
-- [[symfony-mailer-bridges] Add missing `symfony/http-client-contracts` dependency](https://github.com/symfony/symfony/pull/59516) on [symfony/symfony](https://github.com/symfony/symfony) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx. (today)
-- [boson-php/boson](https://github.com/boson-php/boson) - ⚡ Boson Kernel (3 days ago)
+- [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx. (1 day ago)
+- [boson-php/boson](https://github.com/boson-php/boson) - ⚡ Boson Kernel (4 days ago)
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system. (1 week ago)
 - [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer (1 week ago)
 - [Blarc/gitlab-template-lint-plugin](https://github.com/Blarc/gitlab-template-lint-plugin) - Intellij plugin for linting Gitlab CI/CD yaml templates. (1 week ago)
 - [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages. (2 weeks ago)
-- [nunomaduro/essentials](https://github.com/nunomaduro/essentials) - Just better defaults for your Laravel projects. (2 weeks ago)
+- [nunomaduro/essentials](https://github.com/nunomaduro/essentials) - Just better defaults for your Laravel projects. (3 weeks ago)
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly. (3 weeks ago)
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI (3 weeks ago)
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller. (3 weeks ago)
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
