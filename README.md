@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.76.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.76.0), today) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.76.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.76.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.5.0](https://github.com/larastan/larastan/releases/tag/v3.5.0), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [laravel/framework](https://github.com/laravel/framework) ([v12.19.3](https://github.com/laravel/framework/releases/tag/v12.19.3), 1 week ago) - The Laravel Framework.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.4.0](https://github.com/orchestral/testbench-core/releases/tag/v10.4.0), 3 weeks ago) - The Testing Framework for Laravel Development
@@ -39,10 +39,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve property access when type hinting declared with @property](https://github.com/phpstan/phpstan-src/pull/4075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 days ago)
-- [Improve access properties check](https://github.com/phpstan/phpstan/pull/13191) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 days ago)
+- [Improve property access when type hinting declared with @property](https://github.com/phpstan/phpstan-src/pull/4075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [Improve access properties check](https://github.com/phpstan/phpstan/pull/13191) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 days ago)
 - [[3.x] Fix incorrect return type for DateExtension in Laravel versions above 12](https://github.com/larastan/larastan/pull/2299) on [larastan/larastan](https://github.com/larastan/larastan) (1 week ago)
-- [[12.0] Support merge request dependency endpoint](https://github.com/GitLabPHP/Client/pull/835) on [GitLabPHP/Client](https://github.com/GitLabPHP/Client) (1 week ago)
+- [[12.0] Support merge request dependency endpoint](https://github.com/GitLabPHP/Client/pull/835) on [GitLabPHP/Client](https://github.com/GitLabPHP/Client) (2 weeks ago)
 - [Add missing `detailed_status` field to WebhookPipelineEventSchema](https://github.com/jdalrymple/gitbeaker/pull/3729) on [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) (3 weeks ago)
 - [[12.x] Update DateFactory method annotations for Carbon v3 compatibility](https://github.com/laravel/framework/pull/55151) on [laravel/framework](https://github.com/laravel/framework) (3 months ago)
 - [[12.x] Improve syntax highlighting for stub type files](https://github.com/laravel/framework/pull/55094) on [laravel/framework](https://github.com/laravel/framework) (3 months ago)
@@ -52,13 +52,13 @@
 
 #### ⭐ Recent Stars
 
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (3 days ago)
-- [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx. (4 days ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (4 days ago)
+- [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx. (5 days ago)
 - [boson-php/boson](https://github.com/boson-php/boson) - ⚡ Boson Kernel (1 week ago)
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system. (1 week ago)
-- [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer (1 week ago)
-- [Blarc/gitlab-template-lint-plugin](https://github.com/Blarc/gitlab-template-lint-plugin) - Intellij plugin for linting Gitlab CI/CD yaml templates. (1 week ago)
-- [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages. (2 weeks ago)
+- [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer (2 weeks ago)
+- [Blarc/gitlab-template-lint-plugin](https://github.com/Blarc/gitlab-template-lint-plugin) - Intellij plugin for linting Gitlab CI/CD yaml templates. (2 weeks ago)
+- [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages. (3 weeks ago)
 - [nunomaduro/essentials](https://github.com/nunomaduro/essentials) - Just better defaults for your Laravel projects. (3 weeks ago)
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly. (3 weeks ago)
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI (3 weeks ago)
