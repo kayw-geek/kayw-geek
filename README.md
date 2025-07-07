@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.80.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.80.0), today) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) ([v3.80.0](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.80.0), 1 day ago) - A tool to automatically fix PHP Coding Standards issues
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.5.0](https://github.com/larastan/larastan/releases/tag/v3.5.0), 2 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [laravel/framework](https://github.com/laravel/framework) ([v12.19.3](https://github.com/laravel/framework/releases/tag/v12.19.3), 2 weeks ago) - The Laravel Framework.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.4.0](https://github.com/orchestral/testbench-core/releases/tag/v10.4.0), 4 weeks ago) - The Testing Framework for Laravel Development
@@ -52,10 +52,10 @@
 
 #### ⭐ Recent Stars
 
-- [DanielHemmati/json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) - 🔍 A fully custom JSON parser written in PHP from scratch — built to understand how parsing works under the hood without relying on json_decode() (5 days ago)
+- [DanielHemmati/json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) - 🔍 A fully custom JSON parser written in PHP from scratch — built to understand how parsing works under the hood without relying on json_decode() (6 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (1 week ago)
 - [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx. (1 week ago)
-- [boson-php/boson](https://github.com/boson-php/boson) - ⚡ Boson Kernel (1 week ago)
+- [boson-php/boson](https://github.com/boson-php/boson) - ⚡ Boson Kernel (2 weeks ago)
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system. (2 weeks ago)
 - [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer (2 weeks ago)
 - [Blarc/gitlab-template-lint-plugin](https://github.com/Blarc/gitlab-template-lint-plugin) - Intellij plugin for linting Gitlab CI/CD yaml templates. (2 weeks ago)
