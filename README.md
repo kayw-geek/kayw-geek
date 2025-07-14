@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.0.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.0.0), today) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.20.0](https://github.com/laravel/framework/releases/tag/v12.20.0), 5 days ago) - The Laravel Framework.
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.0.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.0.0), 1 day ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
+- [laravel/framework](https://github.com/laravel/framework) ([v12.20.0](https://github.com/laravel/framework/releases/tag/v12.20.0), 6 days ago) - The Laravel Framework.
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.5.0](https://github.com/larastan/larastan/releases/tag/v3.5.0), 3 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.4.0](https://github.com/orchestral/testbench-core/releases/tag/v10.4.0), 1 month ago) - The Testing Framework for Laravel Development
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 9 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
@@ -54,7 +54,7 @@
 - [DanielHemmati/json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) - 🔍 A fully custom JSON parser written in PHP from scratch — built to understand how parsing works under the hood without relying on json_decode() (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (2 weeks ago)
 - [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx. (2 weeks ago)
-- [boson-php/boson](https://github.com/boson-php/boson) - ⚡ Boson Kernel (2 weeks ago)
+- [boson-php/boson](https://github.com/boson-php/boson) - ⚡ Boson Kernel (3 weeks ago)
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system. (3 weeks ago)
 - [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer (3 weeks ago)
 - [Blarc/gitlab-template-lint-plugin](https://github.com/Blarc/gitlab-template-lint-plugin) - Intellij plugin for linting Gitlab CI/CD yaml templates. (3 weeks ago)
