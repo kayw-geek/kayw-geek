@@ -51,6 +51,9 @@
 
 #### ⭐ Recent Stars
 
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (today)
+- [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up. (today)
+- [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50&#43; LLM Providers, VectorDBs, Agent Frameworks and GPUs. (today)
 - [DanielHemmati/json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) - 🔍 A fully custom JSON parser written in PHP from scratch — built to understand how parsing works under the hood without relying on json_decode() (2 weeks ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (2 weeks ago)
 - [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx. (2 weeks ago)
@@ -58,9 +61,6 @@
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system. (3 weeks ago)
 - [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer (4 weeks ago)
 - [Blarc/gitlab-template-lint-plugin](https://github.com/Blarc/gitlab-template-lint-plugin) - Intellij plugin for linting Gitlab CI/CD yaml templates. (4 weeks ago)
-- [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages. (1 month ago)
-- [nunomaduro/essentials](https://github.com/nunomaduro/essentials) - Just better defaults for your Laravel projects. (1 month ago)
-- [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
