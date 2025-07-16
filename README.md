@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [kozhinhikkodan-dev/artisan-playground](https://github.com/kozhinhikkodan-dev/artisan-playground) - Laravel Artisan commands with role-based access control, theme support, and comprehensive command management. (today)
 - [micoli/intellij-php-companion](https://github.com/micoli/intellij-php-companion) -  (1 day ago)
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (1 day ago)
 - [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up. (1 day ago)
@@ -60,7 +61,6 @@
 - [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx. (2 weeks ago)
 - [boson-php/boson](https://github.com/boson-php/boson) - ⚡ Boson Kernel (3 weeks ago)
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system. (4 weeks ago)
-- [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
