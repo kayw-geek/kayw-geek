@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.2.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.2.0), today) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.3.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.3.0), today) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.6.0](https://github.com/larastan/larastan/releases/tag/v3.6.0), 1 day ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [laravel/framework](https://github.com/laravel/framework) ([v12.20.0](https://github.com/laravel/framework/releases/tag/v12.20.0), 1 week ago) - The Laravel Framework.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.4.0](https://github.com/orchestral/testbench-core/releases/tag/v10.4.0), 1 month ago) - The Testing Framework for Laravel Development
