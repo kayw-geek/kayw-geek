@@ -51,6 +51,9 @@
 
 #### ⭐ Recent Stars
 
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework (today)
+- [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents (today)
+- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: Tests for Continuous Validation of ML Models &amp; Data. Deepchecks is a holistic open-source solution for all of your AI &amp; ML validation needs, enabling to thoroughly test your data and models from research to production. (today)
 - [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu (today)
 - [kozhinhikkodan-dev/artisan-playground](https://github.com/kozhinhikkodan-dev/artisan-playground) - Laravel Artisan commands with role-based access control, theme support, and comprehensive command management. (6 days ago)
 - [micoli/intellij-php-companion](https://github.com/micoli/intellij-php-companion) -  (1 week ago)
@@ -58,9 +61,6 @@
 - [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up. (1 week ago)
 - [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50&#43; LLM Providers, VectorDBs, Agent Frameworks and GPUs. (1 week ago)
 - [DanielHemmati/json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) - 🔍 A fully custom JSON parser written in PHP from scratch — built to understand how parsing works under the hood without relying on json_decode() (3 weeks ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (3 weeks ago)
-- [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx. (3 weeks ago)
-- [boson-php/boson](https://github.com/boson-php/boson) - ⚡ Boson Kernel (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
