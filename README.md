@@ -24,15 +24,15 @@
 
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (1 month ago)
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI  (1 month ago)
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (3 months ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (4 months ago)
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️ (9 months ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.3.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.3.0), 2 days ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.6.0](https://github.com/larastan/larastan/releases/tag/v3.6.0), 3 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.20.0](https://github.com/laravel/framework/releases/tag/v12.20.0), 1 week ago) - The Laravel Framework.
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.3.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.3.0), 3 days ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.6.0](https://github.com/larastan/larastan/releases/tag/v3.6.0), 4 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.20.0](https://github.com/laravel/framework/releases/tag/v12.20.0), 2 weeks ago) - The Laravel Framework.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.4.0](https://github.com/orchestral/testbench-core/releases/tag/v10.4.0), 1 month ago) - The Testing Framework for Laravel Development
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 9 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 
@@ -43,7 +43,7 @@
 - [[3.x] Fix incorrect return type for DateExtension in Laravel versions above 12](https://github.com/larastan/larastan/pull/2299) on [larastan/larastan](https://github.com/larastan/larastan) (1 month ago)
 - [[12.0] Support merge request dependency endpoint](https://github.com/GitLabPHP/Client/pull/835) on [GitLabPHP/Client](https://github.com/GitLabPHP/Client) (1 month ago)
 - [Add missing `detailed_status` field to WebhookPipelineEventSchema](https://github.com/jdalrymple/gitbeaker/pull/3729) on [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) (1 month ago)
-- [[12.x] Update DateFactory method annotations for Carbon v3 compatibility](https://github.com/laravel/framework/pull/55151) on [laravel/framework](https://github.com/laravel/framework) (3 months ago)
+- [[12.x] Update DateFactory method annotations for Carbon v3 compatibility](https://github.com/laravel/framework/pull/55151) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
 - [[12.x] Improve syntax highlighting for stub type files](https://github.com/laravel/framework/pull/55094) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
 - [Fix: improve type inference for `preg_match` direct comparison ](https://github.com/thecodingmachine/phpstan-safe-rule/pull/58) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (4 months ago)
 - [[12.x] Enhance PHPDoc for Manager classes with `@param-closure-this`](https://github.com/laravel/framework/pull/55002) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
@@ -51,16 +51,16 @@
 
 #### ⭐ Recent Stars
 
-- [kozhinhikkodan-dev/artisan-playground](https://github.com/kozhinhikkodan-dev/artisan-playground) - Laravel Artisan commands with role-based access control, theme support, and comprehensive command management. (5 days ago)
-- [micoli/intellij-php-companion](https://github.com/micoli/intellij-php-companion) -  (6 days ago)
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (6 days ago)
-- [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up. (6 days ago)
-- [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50&#43; LLM Providers, VectorDBs, Agent Frameworks and GPUs. (6 days ago)
-- [DanielHemmati/json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) - 🔍 A fully custom JSON parser written in PHP from scratch — built to understand how parsing works under the hood without relying on json_decode() (2 weeks ago)
+- [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu (today)
+- [kozhinhikkodan-dev/artisan-playground](https://github.com/kozhinhikkodan-dev/artisan-playground) - Laravel Artisan commands with role-based access control, theme support, and comprehensive command management. (6 days ago)
+- [micoli/intellij-php-companion](https://github.com/micoli/intellij-php-companion) -  (1 week ago)
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (1 week ago)
+- [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up. (1 week ago)
+- [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50&#43; LLM Providers, VectorDBs, Agent Frameworks and GPUs. (1 week ago)
+- [DanielHemmati/json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) - 🔍 A fully custom JSON parser written in PHP from scratch — built to understand how parsing works under the hood without relying on json_decode() (3 weeks ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (3 weeks ago)
 - [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx. (3 weeks ago)
 - [boson-php/boson](https://github.com/boson-php/boson) - ⚡ Boson Kernel (4 weeks ago)
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
