@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale (today)
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework (2 days ago)
 - [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents (2 days ago)
 - [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: Tests for Continuous Validation of ML Models &amp; Data. Deepchecks is a holistic open-source solution for all of your AI &amp; ML validation needs, enabling to thoroughly test your data and models from research to production. (2 days ago)
@@ -60,7 +61,6 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (1 week ago)
 - [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up. (1 week ago)
 - [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50&#43; LLM Providers, VectorDBs, Agent Frameworks and GPUs. (1 week ago)
-- [DanielHemmati/json-parser-in-php](https://github.com/DanielHemmati/json-parser-in-php) - 🔍 A fully custom JSON parser written in PHP from scratch — built to understand how parsing works under the hood without relying on json_decode() (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
