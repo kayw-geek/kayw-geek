@@ -30,15 +30,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.21.0](https://github.com/laravel/framework/releases/tag/v12.21.0), 2 days ago) - The Laravel Framework.
-- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.3.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.3.0), 5 days ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.6.0](https://github.com/larastan/larastan/releases/tag/v3.6.0), 6 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.21.0](https://github.com/laravel/framework/releases/tag/v12.21.0), 3 days ago) - The Laravel Framework.
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.3.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.3.0), 6 days ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.6.0](https://github.com/larastan/larastan/releases/tag/v3.6.0), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v10.4.0](https://github.com/orchestral/testbench-core/releases/tag/v10.4.0), 1 month ago) - The Testing Framework for Laravel Development
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 9 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 
 #### 🔨 My recent Pull Requests
 
-- [Improve property access when type hinting declared with @property](https://github.com/phpstan/phpstan-src/pull/4075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
+- [Improve property access when type hinting declared with @property](https://github.com/phpstan/phpstan-src/pull/4075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 weeks ago)
 - [Improve access properties check](https://github.com/phpstan/phpstan/pull/13191) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 weeks ago)
 - [[3.x] Fix incorrect return type for DateExtension in Laravel versions above 12](https://github.com/larastan/larastan/pull/2299) on [larastan/larastan](https://github.com/larastan/larastan) (1 month ago)
 - [[12.0] Support merge request dependency endpoint](https://github.com/GitLabPHP/Client/pull/835) on [GitLabPHP/Client](https://github.com/GitLabPHP/Client) (1 month ago)
@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
-- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale (today)
-- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework (2 days ago)
-- [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents (2 days ago)
-- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: Tests for Continuous Validation of ML Models &amp; Data. Deepchecks is a holistic open-source solution for all of your AI &amp; ML validation needs, enabling to thoroughly test your data and models from research to production. (2 days ago)
-- [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu (2 days ago)
+- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale (1 day ago)
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework (3 days ago)
+- [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents (3 days ago)
+- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: Tests for Continuous Validation of ML Models &amp; Data. Deepchecks is a holistic open-source solution for all of your AI &amp; ML validation needs, enabling to thoroughly test your data and models from research to production. (3 days ago)
+- [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu (3 days ago)
 - [kozhinhikkodan-dev/artisan-playground](https://github.com/kozhinhikkodan-dev/artisan-playground) - Laravel Artisan commands with role-based access control, theme support, and comprehensive command management. (1 week ago)
 - [micoli/intellij-php-companion](https://github.com/micoli/intellij-php-companion) -  (1 week ago)
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (1 week ago)
