@@ -51,14 +51,14 @@
 
 #### ⭐ Recent Stars
 
-- [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel (1 day ago)
-- [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站 (1 day ago)
-- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale (5 days ago)
+- [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel (2 days ago)
+- [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站 (2 days ago)
+- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale (6 days ago)
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework (1 week ago)
 - [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents (1 week ago)
 - [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: Tests for Continuous Validation of ML Models &amp; Data. Deepchecks is a holistic open-source solution for all of your AI &amp; ML validation needs, enabling to thoroughly test your data and models from research to production. (1 week ago)
 - [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu (1 week ago)
-- [kozhinhikkodan-dev/artisan-playground](https://github.com/kozhinhikkodan-dev/artisan-playground) - Laravel Artisan commands with role-based access control, theme support, and comprehensive command management. (1 week ago)
+- [kozhinhikkodan-dev/artisan-playground](https://github.com/kozhinhikkodan-dev/artisan-playground) - Laravel Artisan commands with role-based access control, theme support, and comprehensive command management. (2 weeks ago)
 - [micoli/intellij-php-companion](https://github.com/micoli/intellij-php-companion) -  (2 weeks ago)
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (2 weeks ago)
 
@@ -66,9 +66,9 @@
 
 - [owangyi](https://github.com/owangyi)
 - [coda-coda-23](https://github.com/coda-coda-23)
-- [helallao](https://github.com/helallao)
 - [ZWindL](https://github.com/ZWindL)
 - [iceburgcrm](https://github.com/iceburgcrm)
+- [imzyf](https://github.com/imzyf)
 
 
 ---
