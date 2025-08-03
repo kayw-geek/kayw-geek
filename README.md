@@ -50,9 +50,9 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
-- [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel (5 days ago)
-- [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站。交流群：https://t.me/&#43;K8GaaVx-xrc0YmVk (5 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 days ago)
+- [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel (6 days ago)
+- [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站。交流群：https://t.me/&#43;K8GaaVx-xrc0YmVk (6 days ago)
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale (1 week ago)
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework (1 week ago)
 - [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents (1 week ago)
