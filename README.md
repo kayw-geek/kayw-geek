@@ -50,6 +50,7 @@
 
 #### ⭐ Recent Stars
 
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents. (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (3 days ago)
 - [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel (1 week ago)
 - [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站。交流群：https://t.me/&#43;K8GaaVx-xrc0YmVk (1 week ago)
@@ -59,7 +60,6 @@
 - [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: Tests for Continuous Validation of ML Models &amp; Data. Deepchecks is a holistic open-source solution for all of your AI &amp; ML validation needs, enabling to thoroughly test your data and models from research to production. (1 week ago)
 - [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu (1 week ago)
 - [kozhinhikkodan-dev/artisan-playground](https://github.com/kozhinhikkodan-dev/artisan-playground) - Laravel Artisan commands with role-based access control, theme support, and comprehensive command management. (2 weeks ago)
-- [micoli/intellij-php-companion](https://github.com/micoli/intellij-php-companion) -  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
