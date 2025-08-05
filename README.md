@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.21.0](https://github.com/laravel/framework/releases/tag/v12.21.0), 1 week ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.21.0](https://github.com/laravel/framework/releases/tag/v12.21.0), 2 weeks ago) - The Laravel Framework.
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.3.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.3.0), 2 weeks ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.6.0](https://github.com/larastan/larastan/releases/tag/v3.6.0), 2 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 9 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
@@ -50,16 +50,16 @@
 
 #### ⭐ Recent Stars
 
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents. (today)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (3 days ago)
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! (today)
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents. (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (4 days ago)
 - [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel (1 week ago)
 - [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站 (1 week ago)
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale (1 week ago)
-- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework (1 week ago)
-- [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents (1 week ago)
-- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: Tests for Continuous Validation of ML Models &amp; Data. Deepchecks is a holistic open-source solution for all of your AI &amp; ML validation needs, enabling to thoroughly test your data and models from research to production. (1 week ago)
-- [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu (1 week ago)
-- [kozhinhikkodan-dev/artisan-playground](https://github.com/kozhinhikkodan-dev/artisan-playground) - Laravel Artisan commands with role-based access control, theme support, and comprehensive command management. (2 weeks ago)
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework (2 weeks ago)
+- [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents (2 weeks ago)
+- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: Tests for Continuous Validation of ML Models &amp; Data. Deepchecks is a holistic open-source solution for all of your AI &amp; ML validation needs, enabling to thoroughly test your data and models from research to production. (2 weeks ago)
+- [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
