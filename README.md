@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[12.x] Improve Collection type inference for keys() and all() methods](https://github.com/laravel/framework/pull/56546) on [laravel/framework](https://github.com/laravel/framework) (today)
 - [Introduce Rector to fix implicitly nullable parameter warnings](https://github.com/uploadcare/uploadcare-php/pull/218) on [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) (today)
 - [Improve property access when type hinting declared with @property](https://github.com/phpstan/phpstan-src/pull/4075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [Improve access properties check](https://github.com/phpstan/phpstan/pull/13191) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
@@ -46,7 +47,6 @@
 - [[12.x] Update DateFactory method annotations for Carbon v3 compatibility](https://github.com/laravel/framework/pull/55151) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
 - [[12.x] Improve syntax highlighting for stub type files](https://github.com/laravel/framework/pull/55094) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
 - [Fix: improve type inference for `preg_match` direct comparison ](https://github.com/thecodingmachine/phpstan-safe-rule/pull/58) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (4 months ago)
-- [[12.x] Enhance PHPDoc for Manager classes with `@param-closure-this`](https://github.com/laravel/framework/pull/55002) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
 
 #### ⭐ Recent Stars
 
