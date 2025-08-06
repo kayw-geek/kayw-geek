@@ -37,8 +37,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[12.x] Improve Collection type inference for keys() and all() methods](https://github.com/laravel/framework/pull/56546) on [laravel/framework](https://github.com/laravel/framework) (today)
-- [Introduce Rector to fix implicitly nullable parameter warnings](https://github.com/uploadcare/uploadcare-php/pull/218) on [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) (today)
+- [[12.x] Improve Collection type inference for keys() and all() methods](https://github.com/laravel/framework/pull/56546) on [laravel/framework](https://github.com/laravel/framework) (1 day ago)
+- [Introduce Rector to fix implicitly nullable parameter warnings](https://github.com/uploadcare/uploadcare-php/pull/218) on [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) (1 day ago)
 - [Improve property access when type hinting declared with @property](https://github.com/phpstan/phpstan-src/pull/4075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [Improve access properties check](https://github.com/phpstan/phpstan/pull/13191) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
 - [[3.x] Fix incorrect return type for DateExtension in Laravel versions above 12](https://github.com/larastan/larastan/pull/2299) on [larastan/larastan](https://github.com/larastan/larastan) (1 month ago)
@@ -50,9 +50,9 @@
 
 #### ⭐ Recent Stars
 
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! (today)
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents. (1 day ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (4 days ago)
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! (1 day ago)
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents. (2 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (5 days ago)
 - [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel (1 week ago)
 - [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站 (1 week ago)
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale (1 week ago)
