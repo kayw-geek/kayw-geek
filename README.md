@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.22.0](https://github.com/laravel/framework/releases/tag/v12.22.0), 1 day ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.22.1](https://github.com/laravel/framework/releases/tag/v12.22.1), today) - The Laravel Framework.
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.4.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.4.0), 1 day ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.6.0](https://github.com/larastan/larastan/releases/tag/v3.6.0), 3 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 9 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
