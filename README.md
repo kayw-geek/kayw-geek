@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v12.24.0](https://github.com/laravel/framework/releases/tag/v12.24.0), today) - The Laravel Framework.
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), today) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.23.1](https://github.com/laravel/framework/releases/tag/v12.23.1), 1 day ago) - The Laravel Framework.
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.4.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.4.0), 6 days ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.6.0](https://github.com/larastan/larastan/releases/tag/v3.6.0), 3 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 10 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
