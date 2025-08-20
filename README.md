@@ -22,7 +22,7 @@
 
 #### 🪅 Recent contributed Repos
 
-- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (5 days ago)
+- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (6 days ago)
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs. (2 weeks ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (2 months ago)
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI  (2 months ago)
@@ -30,17 +30,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.25.0](https://github.com/laravel/framework/releases/tag/v12.25.0), 1 day ago) - The Laravel Framework.
-- [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 6 days ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.25.0](https://github.com/laravel/framework/releases/tag/v12.25.0), 2 days ago) - The Laravel Framework.
+- [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 1 week ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.4.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.4.0), 1 week ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.6.0](https://github.com/larastan/larastan/releases/tag/v3.6.0), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 10 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 
 #### 🔨 My recent Pull Requests
 
-- [Fix misleading configuration option name in error message](https://github.com/composer/composer/pull/12498) on [composer/composer](https://github.com/composer/composer) (5 days ago)
-- [Replace vendor patch with custom PhpFileLoader implementation](https://github.com/symplify/monorepo-builder/pull/85) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (6 days ago)
-- [Remove the downgrade setp from CI](https://github.com/symplify/monorepo-builder/pull/81) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 week ago)
+- [Fix misleading configuration option name in error message](https://github.com/composer/composer/pull/12498) on [composer/composer](https://github.com/composer/composer) (6 days ago)
+- [Replace vendor patch with custom PhpFileLoader implementation](https://github.com/symplify/monorepo-builder/pull/85) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 week ago)
+- [Remove the downgrade setp from CI](https://github.com/symplify/monorepo-builder/pull/81) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 weeks ago)
 - [[12.x] Improve Collection type inference for keys() and all() methods](https://github.com/laravel/framework/pull/56546) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
 - [Introduce Rector to fix implicitly nullable parameter warnings](https://github.com/uploadcare/uploadcare-php/pull/218) on [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) (2 weeks ago)
 - [Improve property access when type hinting declared with @property](https://github.com/phpstan/phpstan-src/pull/4075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) - Claude Code Subagents &amp; Commands Collection &#43; CLI Tool (4 days ago)
+- [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) - Claude Code Subagents &amp; Commands Collection &#43; CLI Tool (5 days ago)
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers (1 week ago)
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (1 week ago)
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! (2 weeks ago)
