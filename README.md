@@ -66,9 +66,9 @@
 
 - [NitinSemwal2605](https://github.com/NitinSemwal2605)
 - [XiaomingX](https://github.com/XiaomingX)
-- [BEPb](https://github.com/BEPb)
 - [NoirJ0e](https://github.com/NoirJ0e)
 - [yihong0618](https://github.com/yihong0618)
+- [tangye1234](https://github.com/tangye1234)
 
 
 ---
