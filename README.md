@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [leo108/todo-reminder](https://github.com/leo108/todo-reminder) - A command-line tool that scans codebases for TODO comments, tracking deadlines and formatting issues. (today)
 - [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) - Claude Code Subagents &amp; Commands Collection &#43; CLI Tool (1 week ago)
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers (2 weeks ago)
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (2 weeks ago)
@@ -60,7 +61,6 @@
 - [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel (4 weeks ago)
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale (1 month ago)
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework (1 month ago)
-- [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
