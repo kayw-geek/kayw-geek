@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [tnylea/php-ext](https://github.com/tnylea/php-ext) - A chrome extension to show PHP (Laravel) devtools console (today)
 - [anthropics/anthropic-sdk-php](https://github.com/anthropics/anthropic-sdk-php) - Access to Anthropic&#39;s safety-first language model APIs in PHP (5 days ago)
 - [leo108/todo-reminder](https://github.com/leo108/todo-reminder) - A command-line tool that scans codebases for TODO comments, tracking deadlines and formatting issues. (1 week ago)
 - [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) - Claude Code Subagents &amp; Commands Collection &#43; CLI Tool (2 weeks ago)
@@ -60,7 +61,6 @@
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents. (4 weeks ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 month ago)
 - [prism-php/prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel (1 month ago)
-- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
