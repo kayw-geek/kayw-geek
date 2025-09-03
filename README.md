@@ -25,41 +25,41 @@
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 weeks ago)
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs. (4 weeks ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (2 months ago)
-- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI  (2 months ago)
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI  (3 months ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.27.0](https://github.com/laravel/framework/releases/tag/v12.27.0), today) - The Laravel Framework.
-- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.5.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.5.0), today) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
+- [laravel/framework](https://github.com/laravel/framework) ([v12.27.1](https://github.com/laravel/framework/releases/tag/v12.27.1), today) - The Laravel Framework.
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.5.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.5.0), 1 day ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.6.1](https://github.com/larastan/larastan/releases/tag/v3.6.1), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 2 weeks ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
+- [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 3 weeks ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 10 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 
 #### 🔨 My recent Pull Requests
 
 - [Fix misleading configuration option name in error message](https://github.com/composer/composer/pull/12498) on [composer/composer](https://github.com/composer/composer) (2 weeks ago)
-- [Replace vendor patch with custom PhpFileLoader implementation](https://github.com/symplify/monorepo-builder/pull/85) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 weeks ago)
-- [Remove the downgrade setp from CI](https://github.com/symplify/monorepo-builder/pull/81) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 weeks ago)
+- [Replace vendor patch with custom PhpFileLoader implementation](https://github.com/symplify/monorepo-builder/pull/85) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 weeks ago)
+- [Remove the downgrade setp from CI](https://github.com/symplify/monorepo-builder/pull/81) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (4 weeks ago)
 - [[12.x] Improve Collection type inference for keys() and all() methods](https://github.com/laravel/framework/pull/56546) on [laravel/framework](https://github.com/laravel/framework) (4 weeks ago)
 - [Introduce Rector to fix implicitly nullable parameter warnings](https://github.com/uploadcare/uploadcare-php/pull/218) on [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) (4 weeks ago)
 - [Improve property access when type hinting declared with @property](https://github.com/phpstan/phpstan-src/pull/4075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
 - [Improve access properties check](https://github.com/phpstan/phpstan/pull/13191) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 months ago)
 - [[3.x] Fix incorrect return type for DateExtension in Laravel versions above 12](https://github.com/larastan/larastan/pull/2299) on [larastan/larastan](https://github.com/larastan/larastan) (2 months ago)
 - [[12.0] Support merge request dependency endpoint](https://github.com/GitLabPHP/Client/pull/835) on [GitLabPHP/Client](https://github.com/GitLabPHP/Client) (2 months ago)
-- [Add missing `detailed_status` field to WebhookPipelineEventSchema](https://github.com/jdalrymple/gitbeaker/pull/3729) on [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) (2 months ago)
+- [Add missing `detailed_status` field to WebhookPipelineEventSchema](https://github.com/jdalrymple/gitbeaker/pull/3729) on [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [phpstreamserver/phpstreamserver](https://github.com/phpstreamserver/phpstreamserver) - PHPStreamServer is a high-performance PHP application server and process manager written in PHP. (today)
-- [tnylea/php-ext](https://github.com/tnylea/php-ext) - A chrome extension to show PHP (Laravel) devtools console (today)
-- [anthropics/anthropic-sdk-php](https://github.com/anthropics/anthropic-sdk-php) - Access to Anthropic&#39;s safety-first language model APIs in PHP (5 days ago)
+- [phpstreamserver/phpstreamserver](https://github.com/phpstreamserver/phpstreamserver) - PHPStreamServer is a high-performance PHP application server and process manager written in PHP. (1 day ago)
+- [tnylea/php-ext](https://github.com/tnylea/php-ext) - A chrome extension to show PHP (Laravel) devtools console (1 day ago)
+- [anthropics/anthropic-sdk-php](https://github.com/anthropics/anthropic-sdk-php) - Access to Anthropic&#39;s safety-first language model APIs in PHP (6 days ago)
 - [leo108/todo-reminder](https://github.com/leo108/todo-reminder) - A command-line tool that scans codebases for TODO comments, tracking deadlines and formatting issues. (1 week ago)
 - [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) - Claude Code Subagents &amp; Commands Collection &#43; CLI Tool (2 weeks ago)
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers (3 weeks ago)
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (3 weeks ago)
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! (4 weeks ago)
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents. (4 weeks ago)
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents. (1 month ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 month ago)
 
 #### 👯 Check out some of my recent followers
