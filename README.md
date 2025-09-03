@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.27.1](https://github.com/laravel/framework/releases/tag/v12.27.1), today) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.28.0](https://github.com/laravel/framework/releases/tag/v12.28.0), today) - The Laravel Framework.
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.5.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.5.0), 1 day ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.6.1](https://github.com/larastan/larastan/releases/tag/v3.6.1), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 3 weeks ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
