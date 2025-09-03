@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - The AI-ready formatter that helps you write and generate code faster. (today)
 - [phpstreamserver/phpstreamserver](https://github.com/phpstreamserver/phpstreamserver) - PHPStreamServer is a high-performance PHP application server and process manager written in PHP. (1 day ago)
 - [tnylea/php-ext](https://github.com/tnylea/php-ext) - A chrome extension to show PHP (Laravel) devtools console (1 day ago)
 - [anthropics/anthropic-sdk-php](https://github.com/anthropics/anthropic-sdk-php) - Access to Anthropic&#39;s safety-first language model APIs in PHP (6 days ago)
@@ -60,7 +61,6 @@
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (3 weeks ago)
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! (4 weeks ago)
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents. (1 month ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
