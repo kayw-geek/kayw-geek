@@ -30,18 +30,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.28.1](https://github.com/laravel/framework/releases/tag/v12.28.1), today) - The Laravel Framework.
-- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.5.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.5.0), 2 days ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
+- [laravel/framework](https://github.com/laravel/framework) ([v12.28.1](https://github.com/laravel/framework/releases/tag/v12.28.1), 1 day ago) - The Laravel Framework.
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.5.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.5.0), 3 days ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.6.1](https://github.com/larastan/larastan/releases/tag/v3.6.1), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 3 weeks ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
 - [saasscaleup/laravel-n-plus-one-detector](https://github.com/saasscaleup/laravel-n-plus-one-detector) ([v1.0.6](https://github.com/saasscaleup/laravel-n-plus-one-detector/releases/tag/v1.0.6), 10 months ago) - 🚀 Boost Your Laravel Performance with Real-Time N&#43;1 Query Detection and Resolution! 🛠️
 
 #### 🔨 My recent Pull Requests
 
-- [Add Cache-Control headers when `--no-cache` is used](https://github.com/composer/composer/pull/12527) on [composer/composer](https://github.com/composer/composer) (1 day ago)
+- [Add Cache-Control headers when `--no-cache` is used](https://github.com/composer/composer/pull/12527) on [composer/composer](https://github.com/composer/composer) (2 days ago)
 - [Fix misleading configuration option name in error message](https://github.com/composer/composer/pull/12498) on [composer/composer](https://github.com/composer/composer) (3 weeks ago)
 - [Replace vendor patch with custom PhpFileLoader implementation](https://github.com/symplify/monorepo-builder/pull/85) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 weeks ago)
-- [Remove the downgrade setp from CI](https://github.com/symplify/monorepo-builder/pull/81) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (4 weeks ago)
+- [Remove the downgrade setp from CI](https://github.com/symplify/monorepo-builder/pull/81) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [[12.x] Improve Collection type inference for keys() and all() methods](https://github.com/laravel/framework/pull/56546) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
 - [Introduce Rector to fix implicitly nullable parameter warnings](https://github.com/uploadcare/uploadcare-php/pull/218) on [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) (1 month ago)
 - [Improve property access when type hinting declared with @property](https://github.com/phpstan/phpstan-src/pull/4075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
@@ -51,12 +51,12 @@
 
 #### ⭐ Recent Stars
 
-- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - The AI-ready formatter that helps you write and generate code faster. (1 day ago)
-- [phpstreamserver/phpstreamserver](https://github.com/phpstreamserver/phpstreamserver) - PHPStreamServer is a high-performance PHP application server and process manager written in PHP. (2 days ago)
-- [tnylea/php-ext](https://github.com/tnylea/php-ext) - A chrome extension to show PHP (Laravel) devtools console (2 days ago)
+- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - The AI-ready formatter that helps you write and generate code faster. (2 days ago)
+- [phpstreamserver/phpstreamserver](https://github.com/phpstreamserver/phpstreamserver) - PHPStreamServer is a high-performance PHP application server and process manager written in PHP. (3 days ago)
+- [tnylea/php-ext](https://github.com/tnylea/php-ext) - A chrome extension to show PHP (Laravel) devtools console (3 days ago)
 - [anthropics/anthropic-sdk-php](https://github.com/anthropics/anthropic-sdk-php) - Access to Anthropic&#39;s safety-first language model APIs in PHP (1 week ago)
 - [leo108/todo-reminder](https://github.com/leo108/todo-reminder) - A command-line tool that scans codebases for TODO comments, tracking deadlines and formatting issues. (1 week ago)
-- [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) - Claude Code Subagents &amp; Commands Collection &#43; CLI Tool (2 weeks ago)
+- [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) - Claude Code Subagents &amp; Commands Collection &#43; CLI Tool (3 weeks ago)
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers (3 weeks ago)
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. (3 weeks ago)
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! (1 month ago)
