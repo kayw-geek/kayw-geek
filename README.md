@@ -22,7 +22,7 @@
 
 #### 🪅 Recent contributed Repos
 
-- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (3 weeks ago)
+- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (today)
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs. (1 month ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (2 months ago)
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI  (3 months ago)
@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: update README with accurate information](https://github.com/symplify/monorepo-builder/pull/89) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (today)
 - [Add Cache-Control headers when `--no-cache` is used](https://github.com/composer/composer/pull/12527) on [composer/composer](https://github.com/composer/composer) (5 days ago)
 - [Fix misleading configuration option name in error message](https://github.com/composer/composer/pull/12498) on [composer/composer](https://github.com/composer/composer) (3 weeks ago)
 - [Replace vendor patch with custom PhpFileLoader implementation](https://github.com/symplify/monorepo-builder/pull/85) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 weeks ago)
@@ -47,7 +48,6 @@
 - [Improve property access when type hinting declared with @property](https://github.com/phpstan/phpstan-src/pull/4075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
 - [Improve access properties check](https://github.com/phpstan/phpstan/pull/13191) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 months ago)
 - [[3.x] Fix incorrect return type for DateExtension in Laravel versions above 12](https://github.com/larastan/larastan/pull/2299) on [larastan/larastan](https://github.com/larastan/larastan) (2 months ago)
-- [[12.0] Support merge request dependency endpoint](https://github.com/GitLabPHP/Client/pull/835) on [GitLabPHP/Client](https://github.com/GitLabPHP/Client) (2 months ago)
 
 #### ⭐ Recent Stars
 
