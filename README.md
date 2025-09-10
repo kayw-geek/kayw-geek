@@ -52,7 +52,7 @@
 #### ⭐ Recent Stars
 
 - [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Retrieval and Retrieval-augmented LLMs (today)
-- [BeaconBay/ck](https://github.com/BeaconBay/ck) - Semantic grep tool for use by AI and humans! (today)
+- [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!  (today)
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - The AI-ready formatter that helps you write and generate code faster. (1 week ago)
 - [phpstreamserver/phpstreamserver](https://github.com/phpstreamserver/phpstreamserver) - PHPStreamServer is a high-performance PHP application server and process manager written in PHP. (1 week ago)
 - [tnylea/php-ext](https://github.com/tnylea/php-ext) - A chrome extension to show PHP (Laravel) devtools console (1 week ago)
