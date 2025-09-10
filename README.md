@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix `--global` flag path resolution for bin-dir config](https://github.com/composer/composer/pull/12537) on [composer/composer](https://github.com/composer/composer) (today)
 - [docs: update README with accurate information](https://github.com/symplify/monorepo-builder/pull/89) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 days ago)
 - [Add Cache-Control headers when `--no-cache` is used](https://github.com/composer/composer/pull/12527) on [composer/composer](https://github.com/composer/composer) (1 week ago)
 - [Fix misleading configuration option name in error message](https://github.com/composer/composer/pull/12498) on [composer/composer](https://github.com/composer/composer) (3 weeks ago)
@@ -47,7 +48,6 @@
 - [Introduce Rector to fix implicitly nullable parameter warnings](https://github.com/uploadcare/uploadcare-php/pull/218) on [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) (1 month ago)
 - [Improve property access when type hinting declared with @property](https://github.com/phpstan/phpstan-src/pull/4075) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
 - [Improve access properties check](https://github.com/phpstan/phpstan/pull/13191) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (2 months ago)
-- [[3.x] Fix incorrect return type for DateExtension in Laravel versions above 12](https://github.com/larastan/larastan/pull/2299) on [larastan/larastan](https://github.com/larastan/larastan) (2 months ago)
 
 #### ⭐ Recent Stars
 
