@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [composer/packagist](https://github.com/composer/packagist) - Package Repository Website - try https://packagist.com if you need your own - (today)
 - [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls) - 自动抓取合并互联网上的公开节点。 (2 days ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (5 days ago)
 - [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Retrieval and Retrieval-augmented LLMs (6 days ago)
@@ -60,7 +61,6 @@
 - [tnylea/php-ext](https://github.com/tnylea/php-ext) - A chrome extension to show PHP (Laravel) devtools console (2 weeks ago)
 - [anthropics/anthropic-sdk-php](https://github.com/anthropics/anthropic-sdk-php) - Access to Anthropic&#39;s safety-first language model APIs in PHP (2 weeks ago)
 - [leo108/todo-reminder](https://github.com/leo108/todo-reminder) - A command-line tool that scans codebases for TODO comments, tracking deadlines and formatting issues. (3 weeks ago)
-- [davepoon/claude-code-subagents-collection](https://github.com/davepoon/claude-code-subagents-collection) - Claude Code Subagents &amp; Commands Collection &#43; CLI Tool (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
