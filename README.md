@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [php-repos/phpkg](https://github.com/php-repos/phpkg) - phpkg source code (today)
 - [shivammathur/homebrew-extensions](https://github.com/shivammathur/homebrew-extensions) - Homebrew tap for PHP extensions :beers: (2 days ago)
 - [composer/packagist](https://github.com/composer/packagist) - Package Repository Website - try https://packagist.com if you need your own - (4 days ago)
 - [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls) - 自动抓取合并互联网上的公开节点。 (6 days ago)
@@ -61,7 +62,6 @@
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - The AI-ready formatter that helps you write and generate code faster. (2 weeks ago)
 - [phpstreamserver/phpstreamserver](https://github.com/phpstreamserver/phpstreamserver) - PHPStreamServer is a high-performance PHP application server and process manager written in PHP. (2 weeks ago)
 - [tnylea/php-ext](https://github.com/tnylea/php-ext) - A chrome extension to show PHP (Laravel) devtools console (2 weeks ago)
-- [anthropics/anthropic-sdk-php](https://github.com/anthropics/anthropic-sdk-php) - Access to Anthropic&#39;s safety-first language model APIs in PHP (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
