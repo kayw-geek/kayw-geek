@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [godruoyi/gblog](https://github.com/godruoyi/gblog) - 🎈gblog is an open-source, simple, and beautiful blog built with Astro (today)
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code. (3 days ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API. (3 days ago)
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models (5 days ago)
@@ -61,7 +62,6 @@
 - [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls) - 自动抓取合并互联网上的公开节点。 (2 weeks ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (2 weeks ago)
 - [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Retrieval and Retrieval-augmented LLMs (2 weeks ago)
-- [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
