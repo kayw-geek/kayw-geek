@@ -66,10 +66,10 @@
 #### 👯 Check out some of my recent followers
 
 - [PinkChampagne17](https://github.com/PinkChampagne17)
-- [helallao](https://github.com/helallao)
 - [XiaomingX](https://github.com/XiaomingX)
 - [NoirJ0e](https://github.com/NoirJ0e)
 - [yihong0618](https://github.com/yihong0618)
+- [tangye1234](https://github.com/tangye1234)
 
 
 ---
