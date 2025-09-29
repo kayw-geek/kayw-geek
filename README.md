@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [yasintqvi/laravel-postman](https://github.com/yasintqvi/laravel-postman) - A powerful package to automatically generate Postman collections from your Laravel routes with intelligent organization and rich documentation capabilities. (today)
 - [krakjoe/em](https://github.com/krakjoe/em) - Single Page PHP Development Stack (today)
 - [godruoyi/gblog](https://github.com/godruoyi/gblog) - 🎈gblog is an open-source, simple, and beautiful blog built with Astro (1 day ago)
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code. (4 days ago)
@@ -61,7 +62,6 @@
 - [shivammathur/homebrew-extensions](https://github.com/shivammathur/homebrew-extensions) - Homebrew tap for PHP extensions :beers: (1 week ago)
 - [composer/packagist](https://github.com/composer/packagist) - Package Repository Website - try https://packagist.com if you need your own - (1 week ago)
 - [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls) - 自动抓取合并互联网上的公开节点。 (2 weeks ago)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
