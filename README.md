@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.32.5](https://github.com/laravel/framework/releases/tag/v12.32.5), 6 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.32.5](https://github.com/laravel/framework/releases/tag/v12.32.5), 1 week ago) - The Laravel Framework.
 - [composer/composer](https://github.com/composer/composer) ([2.8.12](https://github.com/composer/composer/releases/tag/2.8.12), 2 weeks ago) - Dependency Manager for PHP
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.7.2](https://github.com/larastan/larastan/releases/tag/v3.7.2), 2 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.5.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.5.0), 1 month ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
@@ -57,10 +57,10 @@
 - [godruoyi/gblog](https://github.com/godruoyi/gblog) - 🎈gblog is an open-source, simple, and beautiful blog built with Astro (1 week ago)
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code. (1 week ago)
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API. (1 week ago)
-- [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models (1 week ago)
+- [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models (2 weeks ago)
 - [php-repos/phpkg](https://github.com/php-repos/phpkg) - phpkg source code (2 weeks ago)
 - [shivammathur/homebrew-extensions](https://github.com/shivammathur/homebrew-extensions) - Homebrew tap for PHP extensions :beers: (2 weeks ago)
-- [composer/packagist](https://github.com/composer/packagist) - Package Repository Website - try https://packagist.com if you need your own - (2 weeks ago)
+- [composer/packagist](https://github.com/composer/packagist) - Package Repository Website - try https://packagist.com if you need your own - (3 weeks ago)
 - [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls) - 自动抓取合并互联网上的公开节点。 (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
