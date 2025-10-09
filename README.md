@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [nook-browser/Nook](https://github.com/nook-browser/Nook) - A new browser, not owned by Atlassian. (today)
 - [yasintqvi/laravel-postman](https://github.com/yasintqvi/laravel-postman) - A powerful package to automatically generate Postman collections from your Laravel routes with intelligent organization and rich documentation capabilities. (1 week ago)
 - [krakjoe/em](https://github.com/krakjoe/em) - Single Page PHP Development Stack (1 week ago)
 - [godruoyi/gblog](https://github.com/godruoyi/gblog) - 🎈gblog is an open-source, simple, and beautiful blog built with Astro (1 week ago)
@@ -61,7 +62,6 @@
 - [php-repos/phpkg](https://github.com/php-repos/phpkg) - phpkg source code (2 weeks ago)
 - [shivammathur/homebrew-extensions](https://github.com/shivammathur/homebrew-extensions) - Homebrew tap for PHP extensions :beers: (3 weeks ago)
 - [composer/packagist](https://github.com/composer/packagist) - Package Repository Website - try https://packagist.com if you need your own - (3 weeks ago)
-- [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls) - 自动抓取合并互联网上的公开节点。 (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
