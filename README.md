@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用 (today)
 - [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - Enforce code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only! (3 days ago)
 - [nook-browser/Nook](https://github.com/nook-browser/Nook) - A new browser, not owned by Atlassian. (4 days ago)
 - [yasintqvi/laravel-postman](https://github.com/yasintqvi/laravel-postman) - A powerful package to automatically generate Postman collections from your Laravel routes with intelligent organization and rich documentation capabilities. (2 weeks ago)
@@ -60,7 +61,6 @@
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API. (2 weeks ago)
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models (2 weeks ago)
 - [php-repos/phpkg](https://github.com/php-repos/phpkg) - phpkg source code (3 weeks ago)
-- [shivammathur/homebrew-extensions](https://github.com/shivammathur/homebrew-extensions) - Homebrew tap for PHP extensions :beers: (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
