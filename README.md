@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.34.0](https://github.com/laravel/framework/releases/tag/v12.34.0), today) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.34.0](https://github.com/laravel/framework/releases/tag/v12.34.0), 1 day ago) - The Laravel Framework.
 - [composer/composer](https://github.com/composer/composer) ([2.8.12](https://github.com/composer/composer/releases/tag/2.8.12), 3 weeks ago) - Dependency Manager for PHP
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.7.2](https://github.com/larastan/larastan/releases/tag/v3.7.2), 3 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.5.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.5.0), 1 month ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
@@ -51,12 +51,12 @@
 
 #### ⭐ Recent Stars
 
-- [codexu/cmechina-chrome-plugin](https://github.com/codexu/cmechina-chrome-plugin) - 好医生，CME 继续医学教育视频秒学，自动考试，Chrome浏览器插件。 (today)
-- [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal) (1 day ago)
-- [luiscarlospando/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix](https://github.com/luiscarlospando/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix) - This shader is what I use on the Ghostty terminal. It adds chromatic aberration, glow, scanlines and dot matrix for an authentic CRT look. (1 day ago)
-- [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用 (1 day ago)
-- [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - Enforce code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only! (4 days ago)
-- [nook-browser/Nook](https://github.com/nook-browser/Nook) - A new browser, not owned by Atlassian. (5 days ago)
+- [codexu/cmechina-chrome-plugin](https://github.com/codexu/cmechina-chrome-plugin) - 好医生，CME 继续医学教育视频秒学，自动考试，Chrome浏览器插件。 (1 day ago)
+- [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal) (2 days ago)
+- [luiscarlospando/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix](https://github.com/luiscarlospando/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix) - This shader is what I use on the Ghostty terminal. It adds chromatic aberration, glow, scanlines and dot matrix for an authentic CRT look. (2 days ago)
+- [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用 (2 days ago)
+- [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - Enforce code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only! (5 days ago)
+- [nook-browser/Nook](https://github.com/nook-browser/Nook) - A new browser, not owned by Atlassian. (6 days ago)
 - [yasintqvi/laravel-postman](https://github.com/yasintqvi/laravel-postman) - A powerful package to automatically generate Postman collections from your Laravel routes with intelligent organization and rich documentation capabilities. (2 weeks ago)
 - [krakjoe/em](https://github.com/krakjoe/em) - Single Page PHP Development Stack (2 weeks ago)
 - [godruoyi/gblog](https://github.com/godruoyi/gblog) - 🎈gblog is an open-source, simple, and beautiful blog built with Astro (2 weeks ago)
