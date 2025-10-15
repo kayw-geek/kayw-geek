@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (today)
 - [codexu/cmechina-chrome-plugin](https://github.com/codexu/cmechina-chrome-plugin) - 好医生，CME 继续医学教育视频秒学，自动考试，Chrome浏览器插件。 (1 day ago)
 - [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal) (2 days ago)
 - [luiscarlospando/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix](https://github.com/luiscarlospando/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix) - This shader is what I use on the Ghostty terminal. It adds chromatic aberration, glow, scanlines and dot matrix for an authentic CRT look. (2 days ago)
@@ -60,7 +61,6 @@
 - [yasintqvi/laravel-postman](https://github.com/yasintqvi/laravel-postman) - A powerful package to automatically generate Postman collections from your Laravel routes with intelligent organization and rich documentation capabilities. (2 weeks ago)
 - [krakjoe/em](https://github.com/krakjoe/em) - Single Page PHP Development Stack (2 weeks ago)
 - [godruoyi/gblog](https://github.com/godruoyi/gblog) - 🎈gblog is an open-source, simple, and beautiful blog built with Astro (2 weeks ago)
-- [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
