@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (today)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (today)
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (1 day ago)
 - [codexu/cmechina-chrome-plugin](https://github.com/codexu/cmechina-chrome-plugin) - 好医生，CME 继续医学教育视频秒学，自动考试，Chrome浏览器插件。 (2 days ago)
@@ -60,7 +61,6 @@
 - [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - Enforce code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only! (6 days ago)
 - [nook-browser/Nook](https://github.com/nook-browser/Nook) - A new browser, not owned by Atlassian. (1 week ago)
 - [yasintqvi/laravel-postman](https://github.com/yasintqvi/laravel-postman) - A powerful package to automatically generate Postman collections from your Laravel routes with intelligent organization and rich documentation capabilities. (2 weeks ago)
-- [krakjoe/em](https://github.com/krakjoe/em) - Single Page PHP Development Stack (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
