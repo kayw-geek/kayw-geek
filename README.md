@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.34.0](https://github.com/laravel/framework/releases/tag/v12.34.0), 4 days ago) - The Laravel Framework.
-- [composer/composer](https://github.com/composer/composer) ([2.8.12](https://github.com/composer/composer/releases/tag/2.8.12), 4 weeks ago) - Dependency Manager for PHP
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.7.2](https://github.com/larastan/larastan/releases/tag/v3.7.2), 4 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.34.0](https://github.com/laravel/framework/releases/tag/v12.34.0), 5 days ago) - The Laravel Framework.
+- [composer/composer](https://github.com/composer/composer) ([2.8.12](https://github.com/composer/composer/releases/tag/2.8.12), 1 month ago) - Dependency Manager for PHP
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.7.2](https://github.com/larastan/larastan/releases/tag/v3.7.2), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.5.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.5.0), 1 month ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 2 months ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
 
@@ -51,13 +51,13 @@
 
 #### ⭐ Recent Stars
 
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (2 days ago)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 days ago)
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (3 days ago)
-- [codexu/cmechina-chrome-plugin](https://github.com/codexu/cmechina-chrome-plugin) - 好医生，CME 继续医学教育视频秒学，自动考试，Chrome浏览器插件。 (4 days ago)
-- [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal) (5 days ago)
-- [luiscarlospando/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix](https://github.com/luiscarlospando/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix) - This shader is what I use on the Ghostty terminal. It adds chromatic aberration, glow, scanlines and dot matrix for an authentic CRT look. (5 days ago)
-- [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用 (5 days ago)
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (3 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (3 days ago)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (4 days ago)
+- [codexu/cmechina-chrome-plugin](https://github.com/codexu/cmechina-chrome-plugin) - 好医生，CME 继续医学教育视频秒学，自动考试，Chrome浏览器插件。 (5 days ago)
+- [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal) (6 days ago)
+- [luiscarlospando/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix](https://github.com/luiscarlospando/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix) - This shader is what I use on the Ghostty terminal. It adds chromatic aberration, glow, scanlines and dot matrix for an authentic CRT look. (6 days ago)
+- [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用 (6 days ago)
 - [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - Enforce code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only! (1 week ago)
 - [nook-browser/Nook](https://github.com/nook-browser/Nook) - A new browser, not owned by Atlassian. (1 week ago)
 - [yasintqvi/laravel-postman](https://github.com/yasintqvi/laravel-postman) - A powerful package to automatically generate Postman collections from your Laravel routes with intelligent organization and rich documentation capabilities. (2 weeks ago)
