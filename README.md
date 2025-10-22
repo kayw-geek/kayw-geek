@@ -51,6 +51,7 @@
 
 #### ⭐ Recent Stars
 
+- [nunomaduro/pokio](https://github.com/nunomaduro/pokio) - Pokio is a dead simple Asynchronous API for PHP that just works. (today)
 - [aviwad/LyricFever](https://github.com/aviwad/LyricFever) - Best Spotify &amp; Apple Music Lyrics experience for macOS (spiritual successor to LyricsX) (today)
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (1 day ago)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (6 days ago)
@@ -60,7 +61,6 @@
 - [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal) (1 week ago)
 - [luiscarlospando/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix](https://github.com/luiscarlospando/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix) - This shader is what I use on the Ghostty terminal. It adds chromatic aberration, glow, scanlines and dot matrix for an authentic CRT look. (1 week ago)
 - [joyce677/TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用 (1 week ago)
-- [shipmonk-rnd/coverage-guard](https://github.com/shipmonk-rnd/coverage-guard) - Enforce code coverage in your CI. Not by percentage, but target core methods! Allows you to start enforcing coverage for new code only! (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
