@@ -64,11 +64,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
 - [emilycodestar](https://github.com/emilycodestar)
 - [hosseinhezami](https://github.com/hosseinhezami)
-- [PinkChampagne17](https://github.com/PinkChampagne17)
 
 
 ---
