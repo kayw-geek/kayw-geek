@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.36.0](https://github.com/laravel/framework/releases/tag/v12.36.0), today) - The Laravel Framework.
-- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.7.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.7.0), 2 days ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
+- [laravel/framework](https://github.com/laravel/framework) ([v12.36.0](https://github.com/laravel/framework/releases/tag/v12.36.0), 1 day ago) - The Laravel Framework.
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.7.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.7.0), 3 days ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [composer/composer](https://github.com/composer/composer) ([2.8.12](https://github.com/composer/composer/releases/tag/2.8.12), 1 month ago) - Dependency Manager for PHP
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.7.2](https://github.com/larastan/larastan/releases/tag/v3.7.2), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 2 months ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
@@ -51,13 +51,13 @@
 
 #### ⭐ Recent Stars
 
-- [luzhenhua/NCE-Flow](https://github.com/luzhenhua/NCE-Flow) - 新概念英语在线点读，点句即读、连续播放，支持 EN / EN&#43;CN / CN。 (1 day ago)
-- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&amp;Invisible Watermark ，图片盲水印，提取水印无须原图！ (4 days ago)
-- [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure. (5 days ago)
-- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (5 days ago)
-- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) - Fast, portable, non-Turing complete expression evaluation (PHP)  (5 days ago)
-- [nunomaduro/pokio](https://github.com/nunomaduro/pokio) - Pokio is a dead simple Asynchronous API for PHP that just works. (6 days ago)
-- [aviwad/LyricFever](https://github.com/aviwad/LyricFever) - Best Spotify &amp; Apple Music Lyrics experience for macOS (spiritual successor to LyricsX) (6 days ago)
+- [luzhenhua/NCE-Flow](https://github.com/luzhenhua/NCE-Flow) - 新概念英语在线点读，点句即读、连续播放，支持 EN / EN&#43;CN / CN。 (2 days ago)
+- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&amp;Invisible Watermark ，图片盲水印，提取水印无须原图！ (5 days ago)
+- [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure. (6 days ago)
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (6 days ago)
+- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) - Fast, portable, non-Turing complete expression evaluation (PHP)  (6 days ago)
+- [nunomaduro/pokio](https://github.com/nunomaduro/pokio) - Pokio is a dead simple Asynchronous API for PHP that just works. (1 week ago)
+- [aviwad/LyricFever](https://github.com/aviwad/LyricFever) - Best Spotify &amp; Apple Music Lyrics experience for macOS (spiritual successor to LyricsX) (1 week ago)
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. (1 week ago)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (1 week ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 week ago)
