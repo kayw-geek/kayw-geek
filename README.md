@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.37.0](https://github.com/laravel/framework/releases/tag/v12.37.0), today) - The Laravel Framework.
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.8.0](https://github.com/larastan/larastan/releases/tag/v3.8.0), 1 day ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 3 days ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
+- [laravel/framework](https://github.com/laravel/framework) ([v12.37.0](https://github.com/laravel/framework/releases/tag/v12.37.0), 1 day ago) - The Laravel Framework.
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.8.0](https://github.com/larastan/larastan/releases/tag/v3.8.0), 2 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 4 days ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [composer/composer](https://github.com/composer/composer) ([2.8.12](https://github.com/composer/composer/releases/tag/2.8.12), 1 month ago) - Dependency Manager for PHP
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 2 months ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
 
@@ -51,16 +51,16 @@
 
 #### ⭐ Recent Stars
 
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (today)
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks &amp; TypeScript implementation. (4 days ago)
-- [HelgeSverre/toon-php](https://github.com/HelgeSverre/toon-php) - Token-Oriented Object Notation - A compact data format for reducing token consumption when sending structured data to LLMs (PHP implementation) (4 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (1 day ago)
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks &amp; TypeScript implementation. (5 days ago)
+- [HelgeSverre/toon-php](https://github.com/HelgeSverre/toon-php) - Token-Oriented Object Notation - A compact data format for reducing token consumption when sending structured data to LLMs (PHP implementation) (5 days ago)
 - [luzhenhua/NCE-Flow](https://github.com/luzhenhua/NCE-Flow) - 新概念英语在线点读，点句即读、连续播放，支持 EN / EN&#43;CN / CN。 (1 week ago)
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&amp;Invisible Watermark ，图片盲水印，提取水印无须原图！ (1 week ago)
 - [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure. (1 week ago)
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (1 week ago)
 - [carthage-software/cel-php](https://github.com/carthage-software/cel-php) - Fast, portable, non-Turing complete expression evaluation (PHP)  (1 week ago)
-- [nunomaduro/pokio](https://github.com/nunomaduro/pokio) - Pokio is a dead simple Asynchronous API for PHP that just works. (1 week ago)
-- [aviwad/LyricFever](https://github.com/aviwad/LyricFever) - Best Spotify &amp; Apple Music Lyrics experience for macOS (spiritual successor to LyricsX) (1 week ago)
+- [nunomaduro/pokio](https://github.com/nunomaduro/pokio) - Pokio is a dead simple Asynchronous API for PHP that just works. (2 weeks ago)
+- [aviwad/LyricFever](https://github.com/aviwad/LyricFever) - Best Spotify &amp; Apple Music Lyrics experience for macOS (spiritual successor to LyricsX) (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
