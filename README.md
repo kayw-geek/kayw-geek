@@ -24,15 +24,15 @@
 
 - [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) -  (1 month ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 month ago)
-- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (1 month ago)
+- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 months ago)
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs. (3 months ago)
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality. (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.37.0](https://github.com/laravel/framework/releases/tag/v12.37.0), 2 days ago) - The Laravel Framework.
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.8.0](https://github.com/larastan/larastan/releases/tag/v3.8.0), 3 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 5 days ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
+- [laravel/framework](https://github.com/laravel/framework) ([v12.37.0](https://github.com/laravel/framework/releases/tag/v12.37.0), 3 days ago) - The Laravel Framework.
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.8.0](https://github.com/larastan/larastan/releases/tag/v3.8.0), 4 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 6 days ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [composer/composer](https://github.com/composer/composer) ([2.8.12](https://github.com/composer/composer/releases/tag/2.8.12), 1 month ago) - Dependency Manager for PHP
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 2 months ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
 
@@ -40,7 +40,7 @@
 
 - [feat: remove `maintainLockFilesWeekly` preset to avoid non-office hours notifications](https://github.com/RightCapitalHQ/renovate-config/pull/219) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (1 month ago)
 - [Fix `--global` flag path resolution for bin-dir config](https://github.com/composer/composer/pull/12537) on [composer/composer](https://github.com/composer/composer) (1 month ago)
-- [docs: update README with accurate information](https://github.com/symplify/monorepo-builder/pull/89) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
+- [docs: update README with accurate information](https://github.com/symplify/monorepo-builder/pull/89) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
 - [Add Cache-Control headers when `--no-cache` is used](https://github.com/composer/composer/pull/12527) on [composer/composer](https://github.com/composer/composer) (2 months ago)
 - [Fix misleading configuration option name in error message](https://github.com/composer/composer/pull/12498) on [composer/composer](https://github.com/composer/composer) (2 months ago)
 - [Replace vendor patch with custom PhpFileLoader implementation](https://github.com/symplify/monorepo-builder/pull/85) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (2 days ago)
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks &amp; TypeScript implementation. (6 days ago)
-- [HelgeSverre/toon-php](https://github.com/HelgeSverre/toon-php) - Token-Oriented Object Notation - A compact data format for reducing token consumption when sending structured data to LLMs (PHP implementation) (6 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (3 days ago)
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks &amp; TypeScript implementation. (1 week ago)
+- [HelgeSverre/toon-php](https://github.com/HelgeSverre/toon-php) - Token-Oriented Object Notation - A compact data format for reducing token consumption when sending structured data to LLMs (PHP implementation) (1 week ago)
 - [luzhenhua/NCE-Flow](https://github.com/luzhenhua/NCE-Flow) - 新概念英语在线点读，点句即读、连续播放，支持 EN / EN&#43;CN / CN。 (1 week ago)
-- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&amp;Invisible Watermark ，图片盲水印，提取水印无须原图！ (1 week ago)
+- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&amp;Invisible Watermark ，图片盲水印，提取水印无须原图！ (2 weeks ago)
 - [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure. (2 weeks ago)
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (2 weeks ago)
 - [carthage-software/cel-php](https://github.com/carthage-software/cel-php) - Fast, portable, non-Turing complete expression evaluation (PHP)  (2 weeks ago)
