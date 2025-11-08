@@ -30,10 +30,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.9.0-RC1](https://github.com/composer/composer/releases/tag/2.9.0-RC1), today) - Dependency Manager for PHP
-- [laravel/framework](https://github.com/laravel/framework) ([v12.37.0](https://github.com/laravel/framework/releases/tag/v12.37.0), 3 days ago) - The Laravel Framework.
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.8.0](https://github.com/larastan/larastan/releases/tag/v3.8.0), 4 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 6 days ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
+- [composer/composer](https://github.com/composer/composer) ([2.9.0-RC1](https://github.com/composer/composer/releases/tag/2.9.0-RC1), 1 day ago) - Dependency Manager for PHP
+- [laravel/framework](https://github.com/laravel/framework) ([v12.37.0](https://github.com/laravel/framework/releases/tag/v12.37.0), 4 days ago) - The Laravel Framework.
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.8.0](https://github.com/larastan/larastan/releases/tag/v3.8.0), 5 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 1 week ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 2 months ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
 
 #### 🔨 My recent Pull Requests
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (3 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (4 days ago)
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK. (1 week ago)
 - [HelgeSverre/toon-php](https://github.com/HelgeSverre/toon-php) - Token-Oriented Object Notation - A compact data format for reducing token consumption when sending structured data to LLMs (PHP implementation) (1 week ago)
 - [luzhenhua/NCE-Flow](https://github.com/luzhenhua/NCE-Flow) - 新概念英语在线点读，点句即读、连续播放，支持 EN / EN&#43;CN / CN。 (1 week ago)
