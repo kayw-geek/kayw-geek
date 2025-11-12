@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.9.0-RC1](https://github.com/composer/composer/releases/tag/2.9.0-RC1), 4 days ago) - Dependency Manager for PHP
+- [composer/composer](https://github.com/composer/composer) ([2.9.0-RC1](https://github.com/composer/composer/releases/tag/2.9.0-RC1), 5 days ago) - Dependency Manager for PHP
 - [laravel/framework](https://github.com/laravel/framework) ([v12.37.0](https://github.com/laravel/framework/releases/tag/v12.37.0), 1 week ago) - The Laravel Framework.
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.8.0](https://github.com/larastan/larastan/releases/tag/v3.8.0), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 1 week ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
@@ -42,7 +42,7 @@
 - [Fix `--global` flag path resolution for bin-dir config](https://github.com/composer/composer/pull/12537) on [composer/composer](https://github.com/composer/composer) (2 months ago)
 - [docs: update README with accurate information](https://github.com/symplify/monorepo-builder/pull/89) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
 - [Add Cache-Control headers when `--no-cache` is used](https://github.com/composer/composer/pull/12527) on [composer/composer](https://github.com/composer/composer) (2 months ago)
-- [Fix misleading configuration option name in error message](https://github.com/composer/composer/pull/12498) on [composer/composer](https://github.com/composer/composer) (2 months ago)
+- [Fix misleading configuration option name in error message](https://github.com/composer/composer/pull/12498) on [composer/composer](https://github.com/composer/composer) (3 months ago)
 - [Replace vendor patch with custom PhpFileLoader implementation](https://github.com/symplify/monorepo-builder/pull/85) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 months ago)
 - [Remove the downgrade setp from CI](https://github.com/symplify/monorepo-builder/pull/81) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 months ago)
 - [[12.x] Improve Collection type inference for keys() and all() methods](https://github.com/laravel/framework/pull/56546) on [laravel/framework](https://github.com/laravel/framework) (3 months ago)
@@ -59,8 +59,8 @@
 - [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure. (2 weeks ago)
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (2 weeks ago)
 - [carthage-software/cel-php](https://github.com/carthage-software/cel-php) - Fast, portable, non-Turing complete expression evaluation (PHP)  (2 weeks ago)
-- [nunomaduro/pokio](https://github.com/nunomaduro/pokio) - Pokio is a dead simple Asynchronous API for PHP that just works. (2 weeks ago)
-- [aviwad/LyricFever](https://github.com/aviwad/LyricFever) - Best Spotify &amp; Apple Music Lyrics experience for macOS (spiritual successor to LyricsX) (2 weeks ago)
+- [nunomaduro/pokio](https://github.com/nunomaduro/pokio) - Pokio is a dead simple Asynchronous API for PHP that just works. (3 weeks ago)
+- [aviwad/LyricFever](https://github.com/aviwad/LyricFever) - Best Spotify &amp; Apple Music Lyrics experience for macOS (spiritual successor to LyricsX) (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
