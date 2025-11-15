@@ -22,7 +22,7 @@
 
 #### 🪅 Recent contributed Repos
 
-- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (today)
+- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (1 day ago)
 - [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) -  (2 months ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (2 months ago)
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs. (3 months ago)
@@ -30,16 +30,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.9.1](https://github.com/composer/composer/releases/tag/2.9.1), 1 day ago) - Dependency Manager for PHP
-- [laravel/framework](https://github.com/laravel/framework) ([v12.38.1](https://github.com/laravel/framework/releases/tag/v12.38.1), 1 day ago) - The Laravel Framework.
+- [composer/composer](https://github.com/composer/composer) ([2.9.1](https://github.com/composer/composer/releases/tag/2.9.1), 2 days ago) - Dependency Manager for PHP
+- [laravel/framework](https://github.com/laravel/framework) ([v12.38.1](https://github.com/laravel/framework/releases/tag/v12.38.1), 2 days ago) - The Laravel Framework.
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.8.0](https://github.com/larastan/larastan/releases/tag/v3.8.0), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 1 week ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
+- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 2 weeks ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 3 months ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix configuration file load order issues](https://github.com/symplify/monorepo-builder/pull/93) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (today)
-- [feat: add branch-aware tag validation for LTS releases](https://github.com/symplify/monorepo-builder/pull/92) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 day ago)
+- [Fix configuration file load order issues](https://github.com/symplify/monorepo-builder/pull/93) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 day ago)
+- [feat: add branch-aware tag validation for LTS releases](https://github.com/symplify/monorepo-builder/pull/92) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 days ago)
 - [feat: remove `maintainLockFilesWeekly` preset to avoid non-office hours notifications](https://github.com/RightCapitalHQ/renovate-config/pull/219) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (2 months ago)
 - [Fix `--global` flag path resolution for bin-dir config](https://github.com/composer/composer/pull/12537) on [composer/composer](https://github.com/composer/composer) (2 months ago)
 - [docs: update README with accurate information](https://github.com/symplify/monorepo-builder/pull/89) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
