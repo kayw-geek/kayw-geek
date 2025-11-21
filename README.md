@@ -23,13 +23,14 @@
 #### 🪅 Recent contributed Repos
 
 - [kayw-geek/reproduct-phpstan-extension-issue](https://github.com/kayw-geek/reproduct-phpstan-extension-issue) -  (today)
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - A PHPStan rule to be used with the thecodingmachine/safe package (today)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (1 day ago)
 - [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) -  (2 months ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (2 months ago)
-- [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs. (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), today) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [composer/composer](https://github.com/composer/composer) ([2.9.2](https://github.com/composer/composer/releases/tag/2.9.2), 2 days ago) - Dependency Manager for PHP
 - [laravel/framework](https://github.com/laravel/framework) ([v12.39.0](https://github.com/laravel/framework/releases/tag/v12.39.0), 3 days ago) - The Laravel Framework.
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.8.0](https://github.com/larastan/larastan/releases/tag/v3.8.0), 2 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
