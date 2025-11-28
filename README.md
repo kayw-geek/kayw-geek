@@ -67,9 +67,9 @@
 
 - [mbelalhossain718-cpu](https://github.com/mbelalhossain718-cpu)
 - [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
-- [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
 - [emilycodestar](https://github.com/emilycodestar)
+- [hosseinhezami](https://github.com/hosseinhezami)
 
 
 ---
