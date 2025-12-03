@@ -30,10 +30,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.47.0](https://github.com/laravel/framework/releases/tag/v11.47.0), 4 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.41.1](https://github.com/laravel/framework/releases/tag/v12.41.1), today) - The Laravel Framework.
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 1 week ago) - A PHPStan rule to be used with the thecodingmachine/safe package
-- [composer/composer](https://github.com/composer/composer) ([2.9.2](https://github.com/composer/composer/releases/tag/2.9.2), 1 week ago) - Dependency Manager for PHP
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.8.0](https://github.com/larastan/larastan/releases/tag/v3.8.0), 4 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [composer/composer](https://github.com/composer/composer) ([2.9.2](https://github.com/composer/composer/releases/tag/2.9.2), 2 weeks ago) - Dependency Manager for PHP
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.8.0](https://github.com/larastan/larastan/releases/tag/v3.8.0), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 1 month ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 3 months ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
 
@@ -52,7 +52,7 @@
 
 #### ⭐ Recent Stars
 
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (6 days ago)
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (4 weeks ago)
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK. (1 month ago)
 - [HelgeSverre/toon-php](https://github.com/HelgeSverre/toon-php) - Token-Oriented Object Notation - A compact data format for reducing token consumption when sending structured data to LLMs (PHP implementation) (1 month ago)
