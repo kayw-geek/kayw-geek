@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach. (today)
 - [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture &#43; DDD &#43; CQRS in PHP using Symfony 7 (today)
 - [Moli-X/Resources](https://github.com/Moli-X/Resources) - 基于QuantumultX，Loon，Surge的配置重写，脚本，插件 (today)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (1 week ago)
@@ -61,7 +62,6 @@
 - [luzhenhua/NCE-Flow](https://github.com/luzhenhua/NCE-Flow) - 新概念英语在线点读，点句即读、连续播放，支持 EN / EN&#43;CN / CN。 (1 month ago)
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&amp;Invisible Watermark ，图片盲水印，提取水印无须原图！ (1 month ago)
 - [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure. (1 month ago)
-- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
