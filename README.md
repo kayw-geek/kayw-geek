@@ -22,16 +22,16 @@
 
 #### 🪅 Recent contributed Repos
 
-- [kayw-geek/reproduct-phpstan-extension-issue](https://github.com/kayw-geek/reproduct-phpstan-extension-issue) -  (1 week ago)
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - A PHPStan rule to be used with the thecodingmachine/safe package (1 week ago)
+- [kayw-geek/reproduct-phpstan-extension-issue](https://github.com/kayw-geek/reproduct-phpstan-extension-issue) -  (2 weeks ago)
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - A PHPStan rule to be used with the thecodingmachine/safe package (2 weeks ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 weeks ago)
 - [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) -  (2 months ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.41.1](https://github.com/laravel/framework/releases/tag/v12.41.1), 1 day ago) - The Laravel Framework.
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 1 week ago) - A PHPStan rule to be used with the thecodingmachine/safe package
+- [laravel/framework](https://github.com/laravel/framework) ([v12.41.1](https://github.com/laravel/framework/releases/tag/v12.41.1), 2 days ago) - The Laravel Framework.
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 2 weeks ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [composer/composer](https://github.com/composer/composer) ([2.9.2](https://github.com/composer/composer/releases/tag/2.9.2), 2 weeks ago) - Dependency Manager for PHP
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.8.0](https://github.com/larastan/larastan/releases/tag/v3.8.0), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 1 month ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
@@ -39,9 +39,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix bootstrapFiles not loaded due to early constructor reflection](https://github.com/thecodingmachine/phpstan-safe-rule/pull/63) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (1 week ago)
+- [Fix bootstrapFiles not loaded due to early constructor reflection](https://github.com/thecodingmachine/phpstan-safe-rule/pull/63) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (2 weeks ago)
 - [Fix parameter merge priority to allow user configs to override defaults and invalid disable default workers config](https://github.com/symplify/monorepo-builder/pull/96) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 weeks ago)
-- [Fix configuration file load order issues](https://github.com/symplify/monorepo-builder/pull/93) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 weeks ago)
+- [Fix configuration file load order issues](https://github.com/symplify/monorepo-builder/pull/93) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 weeks ago)
 - [feat: add branch-aware tag validation for LTS releases](https://github.com/symplify/monorepo-builder/pull/92) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 weeks ago)
 - [feat: remove `maintainLockFilesWeekly` preset to avoid non-office hours notifications](https://github.com/RightCapitalHQ/renovate-config/pull/219) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (2 months ago)
 - [Fix `--global` flag path resolution for bin-dir config](https://github.com/composer/composer/pull/12537) on [composer/composer](https://github.com/composer/composer) (2 months ago)
