@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.41.1](https://github.com/laravel/framework/releases/tag/v12.41.1), 4 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.41.1](https://github.com/laravel/framework/releases/tag/v12.41.1), 5 days ago) - The Laravel Framework.
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 2 weeks ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [composer/composer](https://github.com/composer/composer) ([2.9.2](https://github.com/composer/composer/releases/tag/2.9.2), 2 weeks ago) - Dependency Manager for PHP
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.8.0](https://github.com/larastan/larastan/releases/tag/v3.8.0), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
@@ -52,9 +52,9 @@
 
 #### ⭐ Recent Stars
 
-- [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach. (2 days ago)
-- [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture &#43; DDD &#43; CQRS in PHP using Symfony 7 (2 days ago)
-- [Moli-X/Resources](https://github.com/Moli-X/Resources) - 基于QuantumultX，Loon，Surge的配置重写，脚本，插件 (2 days ago)
+- [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach. (3 days ago)
+- [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture &#43; DDD &#43; CQRS in PHP using Symfony 7 (3 days ago)
+- [Moli-X/Resources](https://github.com/Moli-X/Resources) - 基于QuantumultX，Loon，Surge的配置重写，脚本，插件 (3 days ago)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (1 month ago)
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK. (1 month ago)
