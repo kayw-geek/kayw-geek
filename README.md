@@ -39,6 +39,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix a missing naming change](https://github.com/symplify/monorepo-builder/pull/101) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (today)
+- [Rename monorepo phar file name](https://github.com/symplify/monorepo-builder/pull/100) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (today)
 - [Add Box config and CI workflow for PHAR build on release](https://github.com/symplify/monorepo-builder/pull/99) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (today)
 - [Add Box config and CI workflow for PHAR build on release](https://github.com/symplify/monorepo-builder/pull/98) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (today)
 - [Fix bootstrapFiles not loaded due to early constructor reflection](https://github.com/thecodingmachine/phpstan-safe-rule/pull/63) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (2 weeks ago)
@@ -47,8 +49,6 @@
 - [feat: add branch-aware tag validation for LTS releases](https://github.com/symplify/monorepo-builder/pull/92) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (4 weeks ago)
 - [feat: remove `maintainLockFilesWeekly` preset to avoid non-office hours notifications](https://github.com/RightCapitalHQ/renovate-config/pull/219) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (3 months ago)
 - [Fix `--global` flag path resolution for bin-dir config](https://github.com/composer/composer/pull/12537) on [composer/composer](https://github.com/composer/composer) (3 months ago)
-- [docs: update README with accurate information](https://github.com/symplify/monorepo-builder/pull/89) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 months ago)
-- [Add Cache-Control headers when `--no-cache` is used](https://github.com/composer/composer/pull/12527) on [composer/composer](https://github.com/composer/composer) (3 months ago)
 
 #### ⭐ Recent Stars
 
