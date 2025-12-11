@@ -22,11 +22,11 @@
 
 #### 🪅 Recent contributed Repos
 
+- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (today)
+- [monorepo-php/monorepo](https://github.com/monorepo-php/monorepo) - A monorepo-builder without any dependence (today)
 - [kayw-geek/reproduct-phpstan-extension-issue](https://github.com/kayw-geek/reproduct-phpstan-extension-issue) -  (2 weeks ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - A PHPStan rule to be used with the thecodingmachine/safe package (2 weeks ago)
-- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (3 weeks ago)
 - [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) -  (3 months ago)
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -39,6 +39,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add Box config and CI workflow for PHAR build on release](https://github.com/symplify/monorepo-builder/pull/99) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (today)
+- [Add Box config and CI workflow for PHAR build on release](https://github.com/symplify/monorepo-builder/pull/98) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (today)
 - [Fix bootstrapFiles not loaded due to early constructor reflection](https://github.com/thecodingmachine/phpstan-safe-rule/pull/63) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (2 weeks ago)
 - [Fix parameter merge priority to allow user configs to override defaults and invalid disable default workers config](https://github.com/symplify/monorepo-builder/pull/96) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 weeks ago)
 - [Fix configuration file load order issues](https://github.com/symplify/monorepo-builder/pull/93) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 weeks ago)
@@ -47,8 +49,6 @@
 - [Fix `--global` flag path resolution for bin-dir config](https://github.com/composer/composer/pull/12537) on [composer/composer](https://github.com/composer/composer) (3 months ago)
 - [docs: update README with accurate information](https://github.com/symplify/monorepo-builder/pull/89) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 months ago)
 - [Add Cache-Control headers when `--no-cache` is used](https://github.com/composer/composer/pull/12527) on [composer/composer](https://github.com/composer/composer) (3 months ago)
-- [Fix misleading configuration option name in error message](https://github.com/composer/composer/pull/12498) on [composer/composer](https://github.com/composer/composer) (3 months ago)
-- [Replace vendor patch with custom PhpFileLoader implementation](https://github.com/symplify/monorepo-builder/pull/85) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (4 months ago)
 
 #### ⭐ Recent Stars
 
