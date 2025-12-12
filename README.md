@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (today)
 - [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -  (today)
 - [newideas99/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image](https://github.com/newideas99/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image) - 6B parameter image gen that actually runs fast on your Mac. 14 seconds. No cloud. No GPU rental. (today)
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach. (1 week ago)
@@ -61,7 +62,6 @@
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (1 month ago)
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK. (1 month ago)
 - [HelgeSverre/toon-php](https://github.com/HelgeSverre/toon-php) - Token-Oriented Object Notation - A compact data format for reducing token consumption when sending structured data to LLMs (PHP implementation) (1 month ago)
-- [luzhenhua/NCE-Flow](https://github.com/luzhenhua/NCE-Flow) - 新概念英语在线点读，点句即读、连续播放，支持 EN / EN&#43;CN / CN。 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
