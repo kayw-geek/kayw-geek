@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. (today)
 - [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users (2 days ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (5 days ago)
 - [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -  (5 days ago)
@@ -61,7 +62,6 @@
 - [Moli-X/Resources](https://github.com/Moli-X/Resources) - 基于QuantumultX，Loon，Surge的配置重写，脚本，插件 (1 week ago)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (3 weeks ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) - PHP library that helps to map any input into a strongly-typed value object structure. (1 month ago)
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
