@@ -22,15 +22,15 @@
 
 #### 🪅 Recent contributed Repos
 
-- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (1 week ago)
-- [monorepo-php/monorepo](https://github.com/monorepo-php/monorepo) - A monorepo-builder without any dependence (1 week ago)
+- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 weeks ago)
+- [monorepo-php/monorepo](https://github.com/monorepo-php/monorepo) - A monorepo-builder without any dependence (2 weeks ago)
 - [kayw-geek/reproduct-phpstan-extension-issue](https://github.com/kayw-geek/reproduct-phpstan-extension-issue) -  (1 month ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - A PHPStan rule to be used with the thecodingmachine/safe package (1 month ago)
 - [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.44.0](https://github.com/laravel/framework/releases/tag/v12.44.0), 1 day ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.44.0](https://github.com/laravel/framework/releases/tag/v12.44.0), 2 days ago) - The Laravel Framework.
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.8.1](https://github.com/larastan/larastan/releases/tag/v3.8.1), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 1 month ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [composer/composer](https://github.com/composer/composer) ([2.9.2](https://github.com/composer/composer/releases/tag/2.9.2), 1 month ago) - Dependency Manager for PHP
@@ -39,11 +39,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: ensure all internal packages bypass minimumReleaseAge requirement](https://github.com/RightCapitalHQ/renovate-config/pull/253) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (5 days ago)
-- [Fix a missing naming change](https://github.com/symplify/monorepo-builder/pull/101) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 week ago)
-- [Rename monorepo phar file name](https://github.com/symplify/monorepo-builder/pull/100) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 week ago)
-- [Add Box config and CI workflow for PHAR build on release](https://github.com/symplify/monorepo-builder/pull/99) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 week ago)
-- [Add Box config and CI workflow for PHAR build on release](https://github.com/symplify/monorepo-builder/pull/98) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 week ago)
+- [fix: ensure all internal packages bypass minimumReleaseAge requirement](https://github.com/RightCapitalHQ/renovate-config/pull/253) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (6 days ago)
+- [Fix a missing naming change](https://github.com/symplify/monorepo-builder/pull/101) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 weeks ago)
+- [Rename monorepo phar file name](https://github.com/symplify/monorepo-builder/pull/100) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 weeks ago)
+- [Add Box config and CI workflow for PHAR build on release](https://github.com/symplify/monorepo-builder/pull/99) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 weeks ago)
+- [Add Box config and CI workflow for PHAR build on release](https://github.com/symplify/monorepo-builder/pull/98) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 weeks ago)
 - [Fix bootstrapFiles not loaded due to early constructor reflection](https://github.com/thecodingmachine/phpstan-safe-rule/pull/63) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (1 month ago)
 - [Fix parameter merge priority to allow user configs to override defaults and invalid disable default workers config](https://github.com/symplify/monorepo-builder/pull/96) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [Fix configuration file load order issues](https://github.com/symplify/monorepo-builder/pull/93) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
@@ -52,10 +52,10 @@
 
 #### ⭐ Recent Stars
 
-- [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover (today)
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models (5 days ago)
-- [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - The missing macOS LLM server. Run local or cloud models with OpenAI &amp; Anthropic compatible APIs. MCP server for Cursor &amp; Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon. (5 days ago)
-- [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices. (6 days ago)
+- [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover (1 day ago)
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models (6 days ago)
+- [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - The missing macOS LLM server. Run local or cloud models with OpenAI &amp; Anthropic compatible APIs. MCP server for Cursor &amp; Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon. (6 days ago)
+- [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices. (1 week ago)
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. (1 week ago)
 - [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users (1 week ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (1 week ago)
