@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (today)
 - [lesnolie/movecar](https://github.com/lesnolie/movecar) - 🚗 智能挪车通知系统 - 基于 Cloudflare Workers，支持实时位置共享和多推送服务 (today)
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover (6 days ago)
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models (1 week ago)
@@ -61,7 +62,6 @@
 - [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users (2 weeks ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (2 weeks ago)
 - [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -  (2 weeks ago)
-- [newideas99/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image](https://github.com/newideas99/Ultra-Fast-Image-Generation-Mac-Silicon-Z-Image) - 6B parameter image gen that actually runs fast on your Mac. 14 seconds. No cloud. No GPU rental. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
