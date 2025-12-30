@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add `source-fallback` config option to disable/enable fallback on download failure](https://github.com/composer/composer/pull/12698) on [composer/composer](https://github.com/composer/composer) (today)
 - [fix: ensure all internal packages bypass minimumReleaseAge requirement](https://github.com/RightCapitalHQ/renovate-config/pull/253) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (1 week ago)
 - [Fix a missing naming change](https://github.com/symplify/monorepo-builder/pull/101) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 weeks ago)
 - [Rename monorepo phar file name](https://github.com/symplify/monorepo-builder/pull/100) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 weeks ago)
@@ -48,7 +49,6 @@
 - [Fix parameter merge priority to allow user configs to override defaults and invalid disable default workers config](https://github.com/symplify/monorepo-builder/pull/96) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [Fix configuration file load order issues](https://github.com/symplify/monorepo-builder/pull/93) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [feat: add branch-aware tag validation for LTS releases](https://github.com/symplify/monorepo-builder/pull/92) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
-- [feat: remove `maintainLockFilesWeekly` preset to avoid non-office hours notifications](https://github.com/RightCapitalHQ/renovate-config/pull/219) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (3 months ago)
 
 #### ⭐ Recent Stars
 
