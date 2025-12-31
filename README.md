@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [locoloader/chrome-extension](https://github.com/locoloader/chrome-extension) - Add extra features to locoloader.com and download even more. (today)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 day ago)
 - [lesnolie/movecar](https://github.com/lesnolie/movecar) - 🚗 智能挪车通知系统 - 基于 Cloudflare Workers，支持实时位置共享和多推送服务 (1 day ago)
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover (1 week ago)
@@ -61,7 +62,6 @@
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. (2 weeks ago)
 - [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users (2 weeks ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (2 weeks ago)
-- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
