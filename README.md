@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release. (today)
 - [locoloader/chrome-extension](https://github.com/locoloader/chrome-extension) - Add extra features to locoloader.com and download even more. (today)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 day ago)
 - [lesnolie/movecar](https://github.com/lesnolie/movecar) - 🚗 智能挪车通知系统 - 基于 Cloudflare Workers，支持实时位置共享和多推送服务 (1 day ago)
@@ -61,7 +62,6 @@
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices. (1 week ago)
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. (2 weeks ago)
 - [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users (2 weeks ago)
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
