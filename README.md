@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [teslamotors/custom-wraps](https://github.com/teslamotors/custom-wraps) -  (today)
 - [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) -  收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。 (today)
 - [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple&#39;s Private Accessibility APIs. (today)
 - [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release. (5 days ago)
@@ -61,7 +62,6 @@
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover (1 week ago)
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models (2 weeks ago)
 - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - The missing macOS LLM server. Run local or cloud models with OpenAI &amp; Anthropic compatible APIs. MCP server for Cursor &amp; Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon. (2 weeks ago)
-- [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
