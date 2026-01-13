@@ -22,7 +22,7 @@
 
 #### 🪅 Recent contributed Repos
 
-- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (today)
+- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (1 day ago)
 - [monorepo-php/monorepo](https://github.com/monorepo-php/monorepo) - A monorepo-builder without any dependence (1 month ago)
 - [kayw-geek/reproduct-phpstan-extension-issue](https://github.com/kayw-geek/reproduct-phpstan-extension-issue) -  (1 month ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - A PHPStan rule to be used with the thecodingmachine/safe package (1 month ago)
@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.46.0](https://github.com/laravel/framework/releases/tag/v12.46.0), 5 days ago) - The Laravel Framework.
-- [composer/composer](https://github.com/composer/composer) ([2.9.3](https://github.com/composer/composer/releases/tag/2.9.3), 1 week ago) - Dependency Manager for PHP
+- [laravel/framework](https://github.com/laravel/framework) ([v12.46.0](https://github.com/laravel/framework/releases/tag/v12.46.0), 6 days ago) - The Laravel Framework.
+- [composer/composer](https://github.com/composer/composer) ([2.9.3](https://github.com/composer/composer/releases/tag/2.9.3), 2 weeks ago) - Dependency Manager for PHP
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.8.1](https://github.com/larastan/larastan/releases/tag/v3.8.1), 4 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 1 month ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 2 months ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
@@ -39,8 +39,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix disableDefaultWorkers() edge case ](https://github.com/symplify/monorepo-builder/pull/102) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (today)
-- [Add `source-fallback` config option to disable/enable fallback on download failure](https://github.com/composer/composer/pull/12698) on [composer/composer](https://github.com/composer/composer) (1 week ago)
+- [Fix disableDefaultWorkers() edge case ](https://github.com/symplify/monorepo-builder/pull/102) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 day ago)
+- [Add `source-fallback` config option to disable/enable fallback on download failure](https://github.com/composer/composer/pull/12698) on [composer/composer](https://github.com/composer/composer) (2 weeks ago)
 - [fix: ensure all internal packages bypass minimumReleaseAge requirement](https://github.com/RightCapitalHQ/renovate-config/pull/253) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (3 weeks ago)
 - [Fix a missing naming change](https://github.com/symplify/monorepo-builder/pull/101) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [Rename monorepo phar file name](https://github.com/symplify/monorepo-builder/pull/100) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
@@ -48,19 +48,19 @@
 - [Add Box config and CI workflow for PHAR build on release](https://github.com/symplify/monorepo-builder/pull/98) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [Fix bootstrapFiles not loaded due to early constructor reflection](https://github.com/thecodingmachine/phpstan-safe-rule/pull/63) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (1 month ago)
 - [Fix parameter merge priority to allow user configs to override defaults and invalid disable default workers config](https://github.com/symplify/monorepo-builder/pull/96) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
-- [Fix configuration file load order issues](https://github.com/symplify/monorepo-builder/pull/93) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
+- [Fix configuration file load order issues](https://github.com/symplify/monorepo-builder/pull/93) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (3 days ago)
-- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup. (6 days ago)
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (4 days ago)
+- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup. (1 week ago)
 - [teslamotors/custom-wraps](https://github.com/teslamotors/custom-wraps) -  (1 week ago)
 - [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) -  收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。 (1 week ago)
 - [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple&#39;s Private Accessibility APIs. (1 week ago)
 - [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release. (1 week ago)
 - [locoloader/chrome-extension](https://github.com/locoloader/chrome-extension) - Add extra features to locoloader.com and download even more. (1 week ago)
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 week ago)
-- [lesnolie/movecar](https://github.com/lesnolie/movecar) - 🚗 智能挪车通知系统 - 基于 Cloudflare Workers，支持实时位置共享和多推送服务 (1 week ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 weeks ago)
+- [lesnolie/movecar](https://github.com/lesnolie/movecar) - 🚗 智能挪车通知系统 - 基于 Cloudflare Workers，支持实时位置共享和多推送服务 (2 weeks ago)
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
