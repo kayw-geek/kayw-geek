@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [miantiao-me/hacker-podcast](https://github.com/miantiao-me/hacker-podcast) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。 (today)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (4 days ago)
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup. (1 week ago)
 - [teslamotors/custom-wraps](https://github.com/teslamotors/custom-wraps) -  (1 week ago)
@@ -61,7 +62,6 @@
 - [locoloader/chrome-extension](https://github.com/locoloader/chrome-extension) - Add extra features to locoloader.com and download even more. (1 week ago)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 weeks ago)
 - [lesnolie/movecar](https://github.com/lesnolie/movecar) - 🚗 智能挪车通知系统 - 基于 Cloudflare Workers，支持实时位置共享和多推送服务 (2 weeks ago)
-- [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
