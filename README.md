@@ -67,9 +67,9 @@
 
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [helallao](https://github.com/helallao)
-- [seckinyasar](https://github.com/seckinyasar)
 - [onlytiancai](https://github.com/onlytiancai)
 - [mbelalhossain718-cpu](https://github.com/mbelalhossain718-cpu)
+- [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
 
 
 ---
