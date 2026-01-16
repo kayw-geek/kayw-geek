@@ -22,7 +22,7 @@
 
 #### 🪅 Recent contributed Repos
 
-- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (3 days ago)
+- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (4 days ago)
 - [monorepo-php/monorepo](https://github.com/monorepo-php/monorepo) - A monorepo-builder without any dependence (1 month ago)
 - [kayw-geek/reproduct-phpstan-extension-issue](https://github.com/kayw-geek/reproduct-phpstan-extension-issue) -  (1 month ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - A PHPStan rule to be used with the thecodingmachine/safe package (1 month ago)
@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.47.0](https://github.com/laravel/framework/releases/tag/v12.47.0), 2 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.47.0](https://github.com/laravel/framework/releases/tag/v12.47.0), 3 days ago) - The Laravel Framework.
 - [composer/composer](https://github.com/composer/composer) ([2.9.3](https://github.com/composer/composer/releases/tag/2.9.3), 2 weeks ago) - Dependency Manager for PHP
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.8.1](https://github.com/larastan/larastan/releases/tag/v3.8.1), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 1 month ago) - A PHPStan rule to be used with the thecodingmachine/safe package
@@ -39,9 +39,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix disableDefaultWorkers() edge case ](https://github.com/symplify/monorepo-builder/pull/102) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 days ago)
+- [Fix disableDefaultWorkers() edge case ](https://github.com/symplify/monorepo-builder/pull/102) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (4 days ago)
 - [Add `source-fallback` config option to disable/enable fallback on download failure](https://github.com/composer/composer/pull/12698) on [composer/composer](https://github.com/composer/composer) (2 weeks ago)
-- [fix: ensure all internal packages bypass minimumReleaseAge requirement](https://github.com/RightCapitalHQ/renovate-config/pull/253) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (3 weeks ago)
+- [fix: ensure all internal packages bypass minimumReleaseAge requirement](https://github.com/RightCapitalHQ/renovate-config/pull/253) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (4 weeks ago)
 - [Fix a missing naming change](https://github.com/symplify/monorepo-builder/pull/101) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [Rename monorepo phar file name](https://github.com/symplify/monorepo-builder/pull/100) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [Add Box config and CI workflow for PHAR build on release](https://github.com/symplify/monorepo-builder/pull/99) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
@@ -52,8 +52,8 @@
 
 #### ⭐ Recent Stars
 
-- [miantiao-me/hacker-podcast](https://github.com/miantiao-me/hacker-podcast) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。 (2 days ago)
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (6 days ago)
+- [miantiao-me/hacker-podcast](https://github.com/miantiao-me/hacker-podcast) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。 (3 days ago)
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (1 week ago)
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup. (1 week ago)
 - [teslamotors/custom-wraps](https://github.com/teslamotors/custom-wraps) -  (1 week ago)
 - [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) -  收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。 (1 week ago)
