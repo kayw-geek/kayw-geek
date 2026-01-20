@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.48.0](https://github.com/laravel/framework/releases/tag/v12.48.0), today) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.48.1](https://github.com/laravel/framework/releases/tag/v12.48.1), today) - Laravel is a web application framework with expressive, elegant syntax.
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.0](https://github.com/larastan/larastan/releases/tag/v3.9.0), 2 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [composer/composer](https://github.com/composer/composer) ([2.9.3](https://github.com/composer/composer/releases/tag/2.9.3), 3 weeks ago) - Dependency Manager for PHP
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 2 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
