@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.1](https://github.com/larastan/larastan/releases/tag/v3.9.1), today) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.48.1](https://github.com/laravel/framework/releases/tag/v12.48.1), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.1](https://github.com/larastan/larastan/releases/tag/v3.9.1), 1 day ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.48.1](https://github.com/laravel/framework/releases/tag/v12.48.1), 2 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [composer/composer](https://github.com/composer/composer) ([2.9.3](https://github.com/composer/composer/releases/tag/2.9.3), 3 weeks ago) - Dependency Manager for PHP
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 2 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 2 months ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
@@ -52,11 +52,11 @@
 
 #### ⭐ Recent Stars
 
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - ⚡️ Lightweight, native development environment for Windows, macOS &amp; Linux. Run local server, PHP, Node.js, Python &amp; Databases without Docker. The faster, modular alternative to XAMPP (1 day ago)
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (1 day ago)
-- [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️ (1 day ago)
-- [cloudflare/sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) - Run sandboxed code environments on Cloudflare&#39;s edge network (1 day ago)
-- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SVG framework, React, Vue and Svelte components! (2 days ago)
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - ⚡️ Lightweight, native development environment for Windows, macOS &amp; Linux. Run local server, PHP, Node.js, Python &amp; Databases without Docker. The faster, modular alternative to XAMPP (2 days ago)
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 days ago)
+- [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️ (2 days ago)
+- [cloudflare/sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) - Run sandboxed code environments on Cloudflare&#39;s edge network (2 days ago)
+- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SVG framework, React, Vue and Svelte components! (3 days ago)
 - [miantiao-me/hacker-podcast](https://github.com/miantiao-me/hacker-podcast) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。 (1 week ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (1 week ago)
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup. (2 weeks ago)
