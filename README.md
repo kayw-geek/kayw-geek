@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) ([2.9.4](https://github.com/composer/composer/releases/tag/2.9.4), today) - Dependency Manager for PHP
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.1](https://github.com/larastan/larastan/releases/tag/v3.9.1), 1 day ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [laravel/framework](https://github.com/laravel/framework) ([v12.48.1](https://github.com/laravel/framework/releases/tag/v12.48.1), 2 days ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [composer/composer](https://github.com/composer/composer) ([2.9.3](https://github.com/composer/composer/releases/tag/2.9.3), 3 weeks ago) - Dependency Manager for PHP
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 2 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 2 months ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 5 months ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
@@ -53,7 +53,7 @@
 #### ⭐ Recent Stars
 
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI (today)
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - ⚡️ Lightweight, native development environment for Windows, macOS &amp; Linux. Run local server, PHP, Node.js, Python &amp; Databases without Docker. The faster, modular alternative to XAMPP (2 days ago)
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - ⚡️ Lightweight Native Full-Stack Environment Management Tool for Windows, macOS &amp; Linux. Run local server, PHP, Node.js, Python &amp; Databases without Docker. The faster, modular alternative to XAMPP (2 days ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 days ago)
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️ (2 days ago)
 - [cloudflare/sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) - Run sandboxed code environments on Cloudflare&#39;s edge network (2 days ago)
