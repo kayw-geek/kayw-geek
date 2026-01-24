@@ -66,10 +66,10 @@
 #### 👯 Check out some of my recent followers
 
 - [rodrigogalura](https://github.com/rodrigogalura)
-- [helallao](https://github.com/helallao)
 - [onlytiancai](https://github.com/onlytiancai)
 - [mbelalhossain718-cpu](https://github.com/mbelalhossain718-cpu)
 - [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
+- [hosseinhezami](https://github.com/hosseinhezami)
 
 
 ---
