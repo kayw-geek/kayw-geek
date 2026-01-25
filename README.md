@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.9.4](https://github.com/composer/composer/releases/tag/2.9.4), 2 days ago) - Dependency Manager for PHP
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.1](https://github.com/larastan/larastan/releases/tag/v3.9.1), 3 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.48.1](https://github.com/laravel/framework/releases/tag/v12.48.1), 4 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [composer/composer](https://github.com/composer/composer) ([2.9.4](https://github.com/composer/composer/releases/tag/2.9.4), 3 days ago) - Dependency Manager for PHP
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.1](https://github.com/larastan/larastan/releases/tag/v3.9.1), 4 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.48.1](https://github.com/laravel/framework/releases/tag/v12.48.1), 5 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 2 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 2 months ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 5 months ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
@@ -52,12 +52,12 @@
 
 #### ⭐ Recent Stars
 
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI (2 days ago)
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - ⚡️ Lightweight Native Full-Stack Environment Management Tool for Windows, macOS &amp; Linux. Run local server, PHP, Node.js, Python &amp; Databases without Docker. The faster, modular alternative to XAMPP (4 days ago)
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (4 days ago)
-- [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️ (4 days ago)
-- [cloudflare/sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) - Run sandboxed code environments on Cloudflare&#39;s edge network (4 days ago)
-- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SVG framework, React, Vue and Svelte components! (5 days ago)
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI (3 days ago)
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - ⚡️ Lightweight Native Full-Stack Environment Management Tool for Windows, macOS &amp; Linux. Run local server, PHP, Node.js, Python &amp; Databases without Docker. The faster, modular alternative to XAMPP (5 days ago)
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (5 days ago)
+- [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️ (5 days ago)
+- [cloudflare/sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) - Run sandboxed code environments on Cloudflare&#39;s edge network (5 days ago)
+- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SVG framework, React, Vue and Svelte components! (6 days ago)
 - [miantiao-me/hacker-podcast](https://github.com/miantiao-me/hacker-podcast) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。 (1 week ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (2 weeks ago)
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup. (2 weeks ago)
