@@ -53,7 +53,7 @@
 #### ⭐ Recent Stars
 
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI (4 days ago)
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - ⚡️ Lightweight Native Full-Stack Environment Management Tool for Windows, macOS &amp; Linux. Run local server, PHP, Node.js, Python &amp; Databases without Docker. The faster, modular alternative to XAMPP (6 days ago)
+- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Full-Stack Environment Management GUI Tool for Windows, macOS &amp; Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy... (6 days ago)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (6 days ago)
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️ (6 days ago)
 - [cloudflare/sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) - Run sandboxed code environments on Cloudflare&#39;s edge network (6 days ago)
