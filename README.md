@@ -52,7 +52,7 @@
 
 #### ⭐ Recent Stars
 
-- [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers (today)
+- [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers (today)
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative (1 day ago)
 - [valkey-io/valkey-glide-php](https://github.com/valkey-io/valkey-glide-php) - An open source Valkey client library that supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey and Redis OSS based applications. GLIDE is a multi language client library, written in Rust with programming language bindings (2 days ago)
 - [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding (3 days ago)
