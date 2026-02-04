@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (today)
 - [Jarred-Sumner/mactrace](https://github.com/Jarred-Sumner/mactrace) - Minimal strace for macOS - trace system calls of any process using Instruments. (today)
 - [steipete/Trimmy](https://github.com/steipete/Trimmy) - &#34;Paste once, run once.&#34; — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run. (today)
 - [jeffernn/Joyflix-Mac-Objective-C](https://github.com/jeffernn/Joyflix-Mac-Objective-C) - Joyflix观影平台 - Macos客户端  内置各大精品站，CCTV服务,各平台直播汇聚服务，提供影视站广告屏蔽功能。 (today)
@@ -61,7 +62,6 @@
 - [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding (1 week ago)
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI (1 week ago)
 - [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Full-Stack Environment Management GUI Tool for Windows, macOS &amp; Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy... (2 weeks ago)
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
