@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript (today)
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (1 day ago)
 - [Jarred-Sumner/mactrace](https://github.com/Jarred-Sumner/mactrace) - Minimal strace for macOS - trace system calls of any process using Instruments. (1 day ago)
 - [steipete/Trimmy](https://github.com/steipete/Trimmy) - &#34;Paste once, run once.&#34; — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run. (1 day ago)
@@ -61,7 +62,6 @@
 - [valkey-io/valkey-glide-php](https://github.com/valkey-io/valkey-glide-php) - An open source Valkey client library that supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey and Redis OSS based applications. GLIDE is a multi language client library, written in Rust with programming language bindings (1 week ago)
 - [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding (1 week ago)
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI (2 weeks ago)
-- [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv) - Lightweight Native Full-Stack Environment Management GUI Tool for Windows, macOS &amp; Linux. Run Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy... (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
