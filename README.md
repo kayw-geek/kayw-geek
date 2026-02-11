@@ -22,26 +22,26 @@
 
 #### 🪅 Recent contributed Repos
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (1 day ago)
-- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (4 weeks ago)
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (2 days ago)
+- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (1 month ago)
 - [monorepo-php/monorepo](https://github.com/monorepo-php/monorepo) - A monorepo-builder without any dependence (2 months ago)
 - [kayw-geek/reproduct-phpstan-extension-issue](https://github.com/kayw-geek/reproduct-phpstan-extension-issue) -  (2 months ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - A PHPStan rule to be used with the thecodingmachine/safe package (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.51.0](https://github.com/laravel/framework/releases/tag/v12.51.0), today) - Laravel is a web application framework with expressive, elegant syntax.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.51.0](https://github.com/laravel/framework/releases/tag/v12.51.0), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.2](https://github.com/larastan/larastan/releases/tag/v3.9.2), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [composer/composer](https://github.com/composer/composer) ([2.9.5](https://github.com/composer/composer/releases/tag/2.9.5), 1 week ago) - Dependency Manager for PHP
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.9.29](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.9.29), 1 week ago) - Easily install PHP extensions in Docker containers
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.9.29](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.9.29), 2 weeks ago) - Easily install PHP extensions in Docker containers
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 2 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 3 months ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 6 months ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
 
 #### 🔨 My recent Pull Requests
 
-- [Add support for grpc on PHP 8.5](https://github.com/mlocati/docker-php-extension-installer/pull/1232) on [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) (1 day ago)
-- [Fix disableDefaultWorkers() edge case ](https://github.com/symplify/monorepo-builder/pull/102) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (4 weeks ago)
+- [Add support for grpc on PHP 8.5](https://github.com/mlocati/docker-php-extension-installer/pull/1232) on [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) (2 days ago)
+- [Fix disableDefaultWorkers() edge case ](https://github.com/symplify/monorepo-builder/pull/102) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [Add `source-fallback` config option to disable/enable fallback on download failure](https://github.com/composer/composer/pull/12698) on [composer/composer](https://github.com/composer/composer) (1 month ago)
 - [fix: ensure all internal packages bypass minimumReleaseAge requirement](https://github.com/RightCapitalHQ/renovate-config/pull/253) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (1 month ago)
 - [Fix a missing naming change](https://github.com/symplify/monorepo-builder/pull/101) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
@@ -53,16 +53,16 @@
 
 #### ⭐ Recent Stars
 
-- [foru17/clash-master](https://github.com/foru17/clash-master) - A modern and elegant dashboard for visualizing and managing Clash network traffic. (4 days ago)
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (5 days ago)
-- [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript (5 days ago)
-- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (6 days ago)
-- [Jarred-Sumner/mactrace](https://github.com/Jarred-Sumner/mactrace) - Minimal strace for macOS - trace system calls of any process using Instruments. (6 days ago)
-- [steipete/Trimmy](https://github.com/steipete/Trimmy) - &#34;Paste once, run once.&#34; — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run. (6 days ago)
-- [jeffernn/Joyflix-Mac-Objective-C](https://github.com/jeffernn/Joyflix-Mac-Objective-C) - Joyflix平台 - Mac客户端  内置各大精品站，CCTV电视直播频道,各平台直播聚合，提供屏蔽站点广告特性，可免费观影。 (6 days ago)
+- [foru17/clash-master](https://github.com/foru17/clash-master) - A modern and elegant dashboard for network traffic visualization and analysis. (5 days ago)
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (6 days ago)
+- [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript (6 days ago)
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (1 week ago)
+- [Jarred-Sumner/mactrace](https://github.com/Jarred-Sumner/mactrace) - Minimal strace for macOS - trace system calls of any process using Instruments. (1 week ago)
+- [steipete/Trimmy](https://github.com/steipete/Trimmy) - &#34;Paste once, run once.&#34; — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run. (1 week ago)
+- [jeffernn/Joyflix-Mac-Objective-C](https://github.com/jeffernn/Joyflix-Mac-Objective-C) - Joyflix平台 - Mac客户端  内置各大精品站，CCTV电视直播频道,各平台直播聚合，提供屏蔽站点广告特性，可免费观影。 (1 week ago)
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers (1 week ago)
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative (1 week ago)
-- [valkey-io/valkey-glide-php](https://github.com/valkey-io/valkey-glide-php) - An open source Valkey client library that supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey and Redis OSS based applications. GLIDE is a multi language client library, written in Rust with programming language bindings (1 week ago)
+- [valkey-io/valkey-glide-php](https://github.com/valkey-io/valkey-glide-php) - An open source Valkey client library that supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey and Redis OSS based applications. GLIDE is a multi language client library, written in Rust with programming language bindings (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
