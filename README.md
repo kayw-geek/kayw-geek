@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[12.x] Fix missing InputArgument::IS_ARRAY in getArguments PHPDoc](https://github.com/laravel/framework/pull/58771) on [laravel/framework](https://github.com/laravel/framework) (today)
 - [Add support for grpc on PHP 8.5](https://github.com/mlocati/docker-php-extension-installer/pull/1232) on [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) (3 days ago)
 - [Fix disableDefaultWorkers() edge case ](https://github.com/symplify/monorepo-builder/pull/102) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [Add `source-fallback` config option to disable/enable fallback on download failure](https://github.com/composer/composer/pull/12698) on [composer/composer](https://github.com/composer/composer) (1 month ago)
@@ -49,7 +50,6 @@
 - [Add Box config and CI workflow for PHAR build on release](https://github.com/symplify/monorepo-builder/pull/99) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
 - [Add Box config and CI workflow for PHAR build on release](https://github.com/symplify/monorepo-builder/pull/98) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
 - [Fix bootstrapFiles not loaded due to early constructor reflection](https://github.com/thecodingmachine/phpstan-safe-rule/pull/63) on [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) (2 months ago)
-- [Fix parameter merge priority to allow user configs to override defaults and invalid disable default workers config](https://github.com/symplify/monorepo-builder/pull/96) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
 
 #### ⭐ Recent Stars
 
