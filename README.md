@@ -54,7 +54,7 @@
 
 #### ⭐ Recent Stars
 
-- [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding. (4 days ago)
+- [tw93/Kaku](https://github.com/tw93/Kaku) - 🆕 A fast, out-of-the-box terminal built for AI coding. (4 days ago)
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage (5 days ago)
 - [tpetry/laravel-postgresql-enhanced](https://github.com/tpetry/laravel-postgresql-enhanced) - Support for many missing PostgreSQL specific features (5 days ago)
 - [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. (5 days ago)
