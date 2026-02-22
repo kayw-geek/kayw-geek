@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.52.0](https://github.com/laravel/framework/releases/tag/v12.52.0), 4 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.52.0](https://github.com/laravel/framework/releases/tag/v12.52.0), 5 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.5.0](https://github.com/symplify/monorepo-builder/releases/tag/12.5.0), 1 week ago) - Composer tools to maintain a monorepo
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.9.30](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.9.30), 1 week ago) - Easily install PHP extensions in Docker containers
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.2](https://github.com/larastan/larastan/releases/tag/v3.9.2), 2 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
