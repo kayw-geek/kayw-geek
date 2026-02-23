@@ -23,17 +23,17 @@
 #### 🪅 Recent contributed Repos
 
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (1 week ago)
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (1 week ago)
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (2 weeks ago)
 - [monorepo-php/monorepo](https://github.com/monorepo-php/monorepo) - A monorepo-builder without any dependence (2 months ago)
 - [kayw-geek/reproduct-phpstan-extension-issue](https://github.com/kayw-geek/reproduct-phpstan-extension-issue) -  (3 months ago)
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - A PHPStan rule to be used with the thecodingmachine/safe package (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.52.0](https://github.com/laravel/framework/releases/tag/v12.52.0), 5 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.52.0](https://github.com/laravel/framework/releases/tag/v12.52.0), 6 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.5.0](https://github.com/symplify/monorepo-builder/releases/tag/12.5.0), 1 week ago) - Composer tools to maintain a monorepo
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.9.30](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.9.30), 1 week ago) - Easily install PHP extensions in Docker containers
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.2](https://github.com/larastan/larastan/releases/tag/v3.9.2), 2 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.2](https://github.com/larastan/larastan/releases/tag/v3.9.2), 3 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [composer/composer](https://github.com/composer/composer) ([2.9.5](https://github.com/composer/composer/releases/tag/2.9.5), 3 weeks ago) - Dependency Manager for PHP
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 3 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 3 months ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
@@ -44,7 +44,7 @@
 - [Remove stale composer-json-manipulator autoload entry](https://github.com/symplify/monorepo-builder/pull/109) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 week ago)
 - [Fix merge command: preserve unknown sections, fix ordering, fix dedup](https://github.com/symplify/monorepo-builder/pull/108) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 week ago)
 - [[12.x] Fix missing InputArgument::IS_ARRAY in getArguments PHPDoc](https://github.com/laravel/framework/pull/58771) on [laravel/framework](https://github.com/laravel/framework) (1 week ago)
-- [Add support for grpc on PHP 8.5](https://github.com/mlocati/docker-php-extension-installer/pull/1232) on [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) (1 week ago)
+- [Add support for grpc on PHP 8.5](https://github.com/mlocati/docker-php-extension-installer/pull/1232) on [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) (2 weeks ago)
 - [Fix disableDefaultWorkers() edge case ](https://github.com/symplify/monorepo-builder/pull/102) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [Add `source-fallback` config option to disable/enable fallback on download failure](https://github.com/composer/composer/pull/12698) on [composer/composer](https://github.com/composer/composer) (1 month ago)
 - [fix: ensure all internal packages bypass minimumReleaseAge requirement](https://github.com/RightCapitalHQ/renovate-config/pull/253) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (2 months ago)
