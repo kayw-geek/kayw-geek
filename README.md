@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.52.0](https://github.com/laravel/framework/releases/tag/v12.52.0), 6 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.52.0](https://github.com/laravel/framework/releases/tag/v12.52.0), 1 week ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.5.0](https://github.com/symplify/monorepo-builder/releases/tag/12.5.0), 1 week ago) - Composer tools to maintain a monorepo
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.9.30](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.9.30), 1 week ago) - Easily install PHP extensions in Docker containers
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.2](https://github.com/larastan/larastan/releases/tag/v3.9.2), 3 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
@@ -54,6 +54,7 @@
 
 #### ⭐ Recent Stars
 
+- [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts (today)
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding. (1 week ago)
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage (1 week ago)
 - [tpetry/laravel-postgresql-enhanced](https://github.com/tpetry/laravel-postgresql-enhanced) - Support for many missing PostgreSQL specific features (1 week ago)
@@ -63,7 +64,6 @@
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript (2 weeks ago)
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (2 weeks ago)
 - [Jarred-Sumner/mactrace](https://github.com/Jarred-Sumner/mactrace) - Minimal strace for macOS - trace system calls of any process using Instruments. (2 weeks ago)
-- [steipete/Trimmy](https://github.com/steipete/Trimmy) - &#34;Paste once, run once.&#34; — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
