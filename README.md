@@ -54,6 +54,7 @@
 
 #### ⭐ Recent Stars
 
+- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you. (today)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot. (today)
 - [spatie/php-attribute-reader](https://github.com/spatie/php-attribute-reader) - A clean API for working with PHP attributes (today)
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) -  (4 days ago)
@@ -63,7 +64,6 @@
 - [tpetry/laravel-postgresql-enhanced](https://github.com/tpetry/laravel-postgresql-enhanced) - Support for many missing PostgreSQL specific features (2 weeks ago)
 - [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. (2 weeks ago)
 - [foru17/neko-master](https://github.com/foru17/neko-master) - A modern and elegant dashboard for network traffic visualization and analysis. (3 weeks ago)
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
