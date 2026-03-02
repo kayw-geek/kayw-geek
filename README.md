@@ -22,11 +22,11 @@
 
 #### 🪅 Recent contributed Repos
 
+- [kayw-geek/shortcut-agent](https://github.com/kayw-geek/shortcut-agent) - AI Agent framework for iPhone Shortcuts, powered by Cherri and 豆包 (today)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 weeks ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (3 weeks ago)
 - [monorepo-php/monorepo](https://github.com/monorepo-php/monorepo) - A monorepo-builder without any dependence (2 months ago)
 - [kayw-geek/reproduct-phpstan-extension-issue](https://github.com/kayw-geek/reproduct-phpstan-extension-issue) -  (3 months ago)
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) - A PHPStan rule to be used with the thecodingmachine/safe package (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
