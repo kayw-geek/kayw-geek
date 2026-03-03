@@ -22,7 +22,7 @@
 
 #### 🪅 Recent contributed Repos
 
-- [kayw-geek/shortcut-agent](https://github.com/kayw-geek/shortcut-agent) - AI Agent framework for iPhone Shortcuts, powered by Cherri and 豆包 (today)
+- [kayw-geek/shortcut-agent](https://github.com/kayw-geek/shortcut-agent) - AI Agent framework for iPhone Shortcuts, powered by Cherri and 豆包 (1 day ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 weeks ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (3 weeks ago)
 - [monorepo-php/monorepo](https://github.com/monorepo-php/monorepo) - A monorepo-builder without any dependence (2 months ago)
@@ -30,9 +30,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.0](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.0), today) - Easily install PHP extensions in Docker containers
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.3](https://github.com/larastan/larastan/releases/tag/v3.9.3), 3 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.53.0](https://github.com/laravel/framework/releases/tag/v12.53.0), 6 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.0](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.0), 1 day ago) - Easily install PHP extensions in Docker containers
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.3](https://github.com/larastan/larastan/releases/tag/v3.9.3), 4 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.53.0](https://github.com/laravel/framework/releases/tag/v12.53.0), 1 week ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.5.0](https://github.com/symplify/monorepo-builder/releases/tag/12.5.0), 2 weeks ago) - Composer tools to maintain a monorepo
 - [composer/composer](https://github.com/composer/composer) ([2.9.5](https://github.com/composer/composer/releases/tag/2.9.5), 1 month ago) - Dependency Manager for PHP
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 3 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you. (2 days ago)
-- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400&#43; skills filtered and categorized from the official OpenClaw Skills Registry.🦞 (2 days ago)
-- [spatie/php-attribute-reader](https://github.com/spatie/php-attribute-reader) - A clean API for working with PHP attributes (2 days ago)
-- [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) -  (6 days ago)
-- [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts (6 days ago)
+- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you. (3 days ago)
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400&#43; skills filtered and categorized from the official OpenClaw Skills Registry.🦞 (3 days ago)
+- [spatie/php-attribute-reader](https://github.com/spatie/php-attribute-reader) - A clean API for working with PHP attributes (3 days ago)
+- [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) -  (1 week ago)
+- [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts (1 week ago)
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding. (2 weeks ago)
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage (2 weeks ago)
 - [tpetry/laravel-postgresql-enhanced](https://github.com/tpetry/laravel-postgresql-enhanced) - Support for many missing PostgreSQL specific features (2 weeks ago)
