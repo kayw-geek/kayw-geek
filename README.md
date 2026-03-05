@@ -22,7 +22,7 @@
 
 #### 🪅 Recent contributed Repos
 
-- [kayw-geek/shortcut-agent](https://github.com/kayw-geek/shortcut-agent) - AI Agent framework for iPhone Shortcuts, powered by Cherri and 豆包 (2 days ago)
+- [kayw-geek/shortcut-agent](https://github.com/kayw-geek/shortcut-agent) - AI Agent framework for iPhone Shortcuts, powered by Cherri and 豆包 (3 days ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 weeks ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (3 weeks ago)
 - [monorepo-php/monorepo](https://github.com/monorepo-php/monorepo) - A monorepo-builder without any dependence (2 months ago)
@@ -30,8 +30,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.0](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.0), 2 days ago) - Easily install PHP extensions in Docker containers
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.3](https://github.com/larastan/larastan/releases/tag/v3.9.3), 5 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.0](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.0), 3 days ago) - Easily install PHP extensions in Docker containers
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.3](https://github.com/larastan/larastan/releases/tag/v3.9.3), 6 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [laravel/framework](https://github.com/laravel/framework) ([v12.53.0](https://github.com/laravel/framework/releases/tag/v12.53.0), 1 week ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.5.0](https://github.com/symplify/monorepo-builder/releases/tag/12.5.0), 2 weeks ago) - Composer tools to maintain a monorepo
 - [composer/composer](https://github.com/composer/composer) ([2.9.5](https://github.com/composer/composer/releases/tag/2.9.5), 1 month ago) - Dependency Manager for PHP
@@ -43,7 +43,7 @@
 
 - [Remove stale composer-json-manipulator autoload entry](https://github.com/symplify/monorepo-builder/pull/109) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 weeks ago)
 - [Fix merge command: preserve unknown sections, fix ordering, fix dedup](https://github.com/symplify/monorepo-builder/pull/108) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 weeks ago)
-- [[12.x] Fix missing InputArgument::IS_ARRAY in getArguments PHPDoc](https://github.com/laravel/framework/pull/58771) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
+- [[12.x] Fix missing InputArgument::IS_ARRAY in getArguments PHPDoc](https://github.com/laravel/framework/pull/58771) on [laravel/framework](https://github.com/laravel/framework) (3 weeks ago)
 - [Add support for grpc on PHP 8.5](https://github.com/mlocati/docker-php-extension-installer/pull/1232) on [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) (3 weeks ago)
 - [Fix disableDefaultWorkers() edge case ](https://github.com/symplify/monorepo-builder/pull/102) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [Add `source-fallback` config option to disable/enable fallback on download failure](https://github.com/composer/composer/pull/12698) on [composer/composer](https://github.com/composer/composer) (2 months ago)
@@ -54,13 +54,13 @@
 
 #### ⭐ Recent Stars
 
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (1 day ago)
-- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you. (4 days ago)
-- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400&#43; skills filtered and categorized from the official OpenClaw Skills Registry.🦞 (4 days ago)
-- [spatie/php-attribute-reader](https://github.com/spatie/php-attribute-reader) - A clean API for working with PHP attributes (4 days ago)
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (2 days ago)
+- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you. (5 days ago)
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400&#43; skills filtered and categorized from the official OpenClaw Skills Registry.🦞 (5 days ago)
+- [spatie/php-attribute-reader](https://github.com/spatie/php-attribute-reader) - A clean API for working with PHP attributes (5 days ago)
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) -  (1 week ago)
 - [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts (1 week ago)
-- [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding. (2 weeks ago)
+- [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding. (3 weeks ago)
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage (3 weeks ago)
 - [tpetry/laravel-postgresql-enhanced](https://github.com/tpetry/laravel-postgresql-enhanced) - Support for many missing PostgreSQL specific features (3 weeks ago)
 - [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. (3 weeks ago)
