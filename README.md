@@ -22,15 +22,15 @@
 
 #### 🪅 Recent contributed Repos
 
-- [kayw-geek/shortcut-agent](https://github.com/kayw-geek/shortcut-agent) - AI Agent framework for iPhone Shortcuts, powered by Cherri and 豆包 (6 days ago)
+- [kayw-geek/shortcut-agent](https://github.com/kayw-geek/shortcut-agent) - AI Agent framework for iPhone Shortcuts, powered by Cherri and 豆包 (1 week ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (3 weeks ago)
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (3 weeks ago)
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (4 weeks ago)
 - [monorepo-php/monorepo](https://github.com/monorepo-php/monorepo) - A monorepo-builder without any dependence (2 months ago)
 - [kayw-geek/reproduct-phpstan-extension-issue](https://github.com/kayw-geek/reproduct-phpstan-extension-issue) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.0](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.0), 6 days ago) - Easily install PHP extensions in Docker containers
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.0](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.0), 1 week ago) - Easily install PHP extensions in Docker containers
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.3](https://github.com/larastan/larastan/releases/tag/v3.9.3), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [laravel/framework](https://github.com/laravel/framework) ([v12.53.0](https://github.com/laravel/framework/releases/tag/v12.53.0), 1 week ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.5.0](https://github.com/symplify/monorepo-builder/releases/tag/12.5.0), 3 weeks ago) - Composer tools to maintain a monorepo
@@ -44,7 +44,7 @@
 - [Remove stale composer-json-manipulator autoload entry](https://github.com/symplify/monorepo-builder/pull/109) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 weeks ago)
 - [Fix merge command: preserve unknown sections, fix ordering, fix dedup](https://github.com/symplify/monorepo-builder/pull/108) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 weeks ago)
 - [[12.x] Fix missing InputArgument::IS_ARRAY in getArguments PHPDoc](https://github.com/laravel/framework/pull/58771) on [laravel/framework](https://github.com/laravel/framework) (3 weeks ago)
-- [Add support for grpc on PHP 8.5](https://github.com/mlocati/docker-php-extension-installer/pull/1232) on [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) (3 weeks ago)
+- [Add support for grpc on PHP 8.5](https://github.com/mlocati/docker-php-extension-installer/pull/1232) on [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) (4 weeks ago)
 - [Fix disableDefaultWorkers() edge case ](https://github.com/symplify/monorepo-builder/pull/102) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [Add `source-fallback` config option to disable/enable fallback on download failure](https://github.com/composer/composer/pull/12698) on [composer/composer](https://github.com/composer/composer) (2 months ago)
 - [fix: ensure all internal packages bypass minimumReleaseAge requirement](https://github.com/RightCapitalHQ/renovate-config/pull/253) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (2 months ago)
@@ -54,11 +54,11 @@
 
 #### ⭐ Recent Stars
 
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! (2 days ago)
-- [4ier/neo](https://github.com/4ier/neo) - Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed. (3 days ago)
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (3 days ago)
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (3 days ago)
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (5 days ago)
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! (3 days ago)
+- [4ier/neo](https://github.com/4ier/neo) - Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed. (4 days ago)
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (4 days ago)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (4 days ago)
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (6 days ago)
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you. (1 week ago)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400&#43; skills filtered and categorized from the official OpenClaw Skills Registry.🦞 (1 week ago)
 - [spatie/php-attribute-reader](https://github.com/spatie/php-attribute-reader) - A clean API for working with PHP attributes (1 week ago)
