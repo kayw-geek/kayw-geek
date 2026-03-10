@@ -32,7 +32,7 @@
 
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.0](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.0), 1 week ago) - Easily install PHP extensions in Docker containers
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.3](https://github.com/larastan/larastan/releases/tag/v3.9.3), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.53.0](https://github.com/laravel/framework/releases/tag/v12.53.0), 1 week ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.53.0](https://github.com/laravel/framework/releases/tag/v12.53.0), 2 weeks ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.5.0](https://github.com/symplify/monorepo-builder/releases/tag/12.5.0), 3 weeks ago) - Composer tools to maintain a monorepo
 - [composer/composer](https://github.com/composer/composer) ([2.9.5](https://github.com/composer/composer/releases/tag/2.9.5), 1 month ago) - Dependency Manager for PHP
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 3 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
@@ -54,13 +54,13 @@
 
 #### ⭐ Recent Stars
 
-- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.6. PHP 8.6 is built nightly :beer: (today)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (today)
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! (3 days ago)
-- [4ier/neo](https://github.com/4ier/neo) - Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed. (4 days ago)
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (4 days ago)
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (4 days ago)
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (6 days ago)
+- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.6. PHP 8.6 is built nightly :beer: (1 day ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 day ago)
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! (4 days ago)
+- [4ier/neo](https://github.com/4ier/neo) - Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed. (5 days ago)
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (5 days ago)
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. (5 days ago)
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface (1 week ago)
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you. (1 week ago)
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400&#43; skills filtered and categorized from the official OpenClaw Skills Registry.🦞 (1 week ago)
 - [spatie/php-attribute-reader](https://github.com/spatie/php-attribute-reader) - A clean API for working with PHP attributes (1 week ago)
