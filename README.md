@@ -22,11 +22,11 @@
 
 #### 🪅 Recent contributed Repos
 
+- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (today)
 - [kayw-geek/shortcut-agent](https://github.com/kayw-geek/shortcut-agent) - AI Agent framework for iPhone Shortcuts, powered by Cherri and 豆包 (2 weeks ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (1 month ago)
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (1 month ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (1 month ago)
-- [monorepo-php/monorepo](https://github.com/monorepo-php/monorepo) - A monorepo-builder without any dependence (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
