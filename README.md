@@ -54,6 +54,7 @@
 
 #### ⭐ Recent Stars
 
+- [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution. (today)
 - [eze-is/web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 &#43; 浏览器 CDP &#43; 并行分治 (1 day ago)
 - [cyhhao/vibe-remote](https://github.com/cyhhao/vibe-remote) - Your AI agent army, commanded from Slack/Discord/Wechat/Lark. Stream Claude Code, OpenCode, or Codex in real-time — from anywhere. (1 day ago)
 - [mbolli/php-via](https://github.com/mbolli/php-via) - Real-time engine for building reactive web applications in PHP with Swoole. (4 days ago)
@@ -63,7 +64,6 @@
 - [JetBrains/junie](https://github.com/JetBrains/junie) - An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose (1 week ago)
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.6. PHP 8.6 is built nightly :beer: (2 weeks ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (2 weeks ago)
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
