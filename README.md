@@ -22,18 +22,18 @@
 
 #### 🪅 Recent contributed Repos
 
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (5 days ago)
+- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (today)
+- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (6 days ago)
 - [kayw-geek/shortcut-agent](https://github.com/kayw-geek/shortcut-agent) - AI Agent framework for iPhone Shortcuts, powered by Cherri and 豆包 (3 weeks ago)
-- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (1 month ago)
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (1 month ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v13.2.0](https://github.com/laravel/framework/releases/tag/v13.2.0), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.8](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.8), 2 days ago) - Easily install PHP extensions in Docker containers
+- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.5.2](https://github.com/symplify/monorepo-builder/releases/tag/12.5.2), today) - Composer tools to maintain a monorepo
+- [laravel/framework](https://github.com/laravel/framework) ([v13.2.0](https://github.com/laravel/framework/releases/tag/v13.2.0), 2 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.8](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.8), 3 days ago) - Easily install PHP extensions in Docker containers
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.3](https://github.com/larastan/larastan/releases/tag/v3.9.3), 3 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.5.0](https://github.com/symplify/monorepo-builder/releases/tag/12.5.0), 1 month ago) - Composer tools to maintain a monorepo
 - [composer/composer](https://github.com/composer/composer) ([2.9.5](https://github.com/composer/composer/releases/tag/2.9.5), 1 month ago) - Dependency Manager for PHP
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 4 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 4 months ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix workers() not respecting user-specified order](https://github.com/symplify/monorepo-builder/pull/112) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (today)
 - [Fix curl_close() deprecation in PHP 8.5](https://github.com/segmentio/analytics-php/pull/248) on [segmentio/analytics-php](https://github.com/segmentio/analytics-php) (1 week ago)
 - [Remove stale composer-json-manipulator autoload entry](https://github.com/symplify/monorepo-builder/pull/109) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [Fix merge command: preserve unknown sections, fix ordering, fix dedup](https://github.com/symplify/monorepo-builder/pull/108) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
@@ -50,15 +51,14 @@
 - [Add `source-fallback` config option to disable/enable fallback on download failure](https://github.com/composer/composer/pull/12698) on [composer/composer](https://github.com/composer/composer) (2 months ago)
 - [fix: ensure all internal packages bypass minimumReleaseAge requirement](https://github.com/RightCapitalHQ/renovate-config/pull/253) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (3 months ago)
 - [Fix a missing naming change](https://github.com/symplify/monorepo-builder/pull/101) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 months ago)
-- [Rename monorepo phar file name](https://github.com/symplify/monorepo-builder/pull/100) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy&#39;s autoresearch. Modify → Verify → Keep/Discard → Repeat forever. (today)
-- [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution. (1 day ago)
-- [eze-is/web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 &#43; 浏览器 CDP &#43; 并行分治 (2 days ago)
-- [cyhhao/vibe-remote](https://github.com/cyhhao/vibe-remote) - Your AI agent army, commanded from Slack/Discord/Wechat/Lark. Stream Claude Code, OpenCode, or Codex in real-time — from anywhere. (2 days ago)
-- [mbolli/php-via](https://github.com/mbolli/php-via) - Real-time engine for building reactive web applications in PHP with Swoole. (5 days ago)
+- [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy&#39;s autoresearch. Modify → Verify → Keep/Discard → Repeat forever. (1 day ago)
+- [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution. (2 days ago)
+- [eze-is/web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 &#43; 浏览器 CDP &#43; 并行分治 (3 days ago)
+- [cyhhao/vibe-remote](https://github.com/cyhhao/vibe-remote) - Your AI agent army, commanded from Slack/Discord/Wechat/Lark. Stream Claude Code, OpenCode, or Codex in real-time — from anywhere. (3 days ago)
+- [mbolli/php-via](https://github.com/mbolli/php-via) - Real-time engine for building reactive web applications in PHP with Swoole. (6 days ago)
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution. (1 week ago)
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native (2 weeks ago)
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - A fast, native macOS database client with built-in AI assistant. (2 weeks ago)
