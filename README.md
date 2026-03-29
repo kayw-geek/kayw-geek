@@ -61,7 +61,7 @@
 - [mbolli/php-via](https://github.com/mbolli/php-via) - Real-time engine for building reactive web applications in PHP with Swoole. (1 week ago)
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution. (1 week ago)
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native (2 weeks ago)
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - A fast, native macOS database client with built-in AI assistant. (2 weeks ago)
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Native macOS client for every database (2 weeks ago)
 - [JetBrains/junie](https://github.com/JetBrains/junie) - An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose (2 weeks ago)
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.6. PHP 8.6 is built nightly :beer: (2 weeks ago)
 
