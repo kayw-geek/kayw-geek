@@ -55,7 +55,7 @@
 #### ⭐ Recent Stars
 
 - [AJenbo/phpantom_lsp](https://github.com/AJenbo/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant. (today)
-- [shipany-ai/open-agent-sdk](https://github.com/shipany-ai/open-agent-sdk) - Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source (today)
+- [codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript) - Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source (today)
 - [akii09/pdfx](https://github.com/akii09/pdfx) - A React PDF component library with pre-built, themeable components and a CLI for seamless PDF document creation. (today)
 - [nunomaduro/pao](https://github.com/nunomaduro/pao) - PAO is agent-optimized output for PHP testing tools. (today)
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. (2 days ago)
