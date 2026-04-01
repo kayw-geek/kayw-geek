@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[12.x] Support string abstract in mock/partialMock/spy PHPDoc](https://github.com/laravel/framework/pull/59477) on [laravel/framework](https://github.com/laravel/framework) (today)
 - [Fix workers() not respecting user-specified order](https://github.com/symplify/monorepo-builder/pull/112) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (6 days ago)
 - [Fix curl_close() deprecation in PHP 8.5](https://github.com/segmentio/analytics-php/pull/248) on [segmentio/analytics-php](https://github.com/segmentio/analytics-php) (2 weeks ago)
 - [Remove stale composer-json-manipulator autoload entry](https://github.com/symplify/monorepo-builder/pull/109) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
@@ -50,10 +51,10 @@
 - [Fix disableDefaultWorkers() edge case ](https://github.com/symplify/monorepo-builder/pull/102) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
 - [Add `source-fallback` config option to disable/enable fallback on download failure](https://github.com/composer/composer/pull/12698) on [composer/composer](https://github.com/composer/composer) (3 months ago)
 - [fix: ensure all internal packages bypass minimumReleaseAge requirement](https://github.com/RightCapitalHQ/renovate-config/pull/253) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (3 months ago)
-- [Fix a missing naming change](https://github.com/symplify/monorepo-builder/pull/101) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 months ago)
 
 #### ⭐ Recent Stars
 
+- [AJenbo/phpantom_lsp](https://github.com/AJenbo/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant. (today)
 - [shipany-ai/open-agent-sdk](https://github.com/shipany-ai/open-agent-sdk) - Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source (today)
 - [akii09/pdfx](https://github.com/akii09/pdfx) - A React PDF component library with pre-built, themeable components and a CLI for seamless PDF document creation. (today)
 - [nunomaduro/pao](https://github.com/nunomaduro/pao) - PAO is agent-optimized output for PHP testing tools. (today)
@@ -63,7 +64,6 @@
 - [eze-is/web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 &#43; 浏览器 CDP &#43; 并行分治 (1 week ago)
 - [cyhhao/vibe-remote](https://github.com/cyhhao/vibe-remote) - Your AI agent army, commanded from Slack/Discord/Wechat/Lark. Stream Claude Code, OpenCode, or Codex in real-time — from anywhere. (1 week ago)
 - [mbolli/php-via](https://github.com/mbolli/php-via) - Real-time engine for building reactive web applications in PHP with Swoole. (1 week ago)
-- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
