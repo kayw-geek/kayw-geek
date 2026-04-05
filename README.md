@@ -63,7 +63,7 @@
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy&#39;s autoresearch. Modify → Verify → Keep/Discard → Repeat forever. (1 week ago)
 - [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution. (1 week ago)
 - [eze-is/web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 &#43; 浏览器 CDP &#43; 并行分治 (1 week ago)
-- [cyhhao/vibe-remote](https://github.com/cyhhao/vibe-remote) - Your AI agent army, commanded from Slack/Discord/Wechat/Lark. Stream Claude Code, OpenCode, or Codex in real-time — from anywhere. (1 week ago)
+- [cyhhao/vibe-remote](https://github.com/cyhhao/vibe-remote) - Your AI agent army, commanded from Slack/Discord/Telegram/Wechat/Lark. Stream Claude Code, OpenCode, or Codex in real-time — from anywhere. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
