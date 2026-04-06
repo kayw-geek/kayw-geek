@@ -59,11 +59,11 @@
 - [codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript) - Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source (5 days ago)
 - [akii09/pdfx](https://github.com/akii09/pdfx) - A React PDF component library with pre-built, themeable components and a CLI for seamless PDF document creation. (5 days ago)
 - [nunomaduro/pao](https://github.com/nunomaduro/pao) - PAO is agent-optimized output for PHP testing tools. (5 days ago)
-- [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone&#39;s fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBook Neo. (1 week ago)
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. (1 week ago)
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy&#39;s autoresearch. Modify → Verify → Keep/Discard → Repeat forever. (1 week ago)
 - [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution. (1 week ago)
 - [eze-is/web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 &#43; 浏览器 CDP &#43; 并行分治 (2 weeks ago)
+- [cyhhao/vibe-remote](https://github.com/cyhhao/vibe-remote) - Your AI agent army, commanded from Slack/Discord/Telegram/Wechat/Lark. Stream Claude Code, OpenCode, or Codex in real-time — from anywhere. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
