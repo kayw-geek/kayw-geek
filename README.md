@@ -30,10 +30,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.9](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.9), today) - Easily install PHP extensions in Docker containers
 - [laravel/framework](https://github.com/laravel/framework) ([v13.3.0](https://github.com/laravel/framework/releases/tag/v13.3.0), 6 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [composer/composer](https://github.com/composer/composer) ([2.10.0-RC1](https://github.com/composer/composer/releases/tag/2.10.0-RC1), 6 days ago) - Dependency Manager for PHP
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.5.2](https://github.com/symplify/monorepo-builder/releases/tag/12.5.2), 1 week ago) - Composer tools to maintain a monorepo
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.8](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.8), 2 weeks ago) - Easily install PHP extensions in Docker containers
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.3](https://github.com/larastan/larastan/releases/tag/v3.9.3), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 4 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 5 months ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
@@ -54,6 +54,7 @@
 
 #### ⭐ Recent Stars
 
+- [CLARATION/Impactor](https://github.com/CLARATION/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust. (today)
 - [34306/FilzaJailedDS](https://github.com/34306/FilzaJailedDS) - Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something) (1 day ago)
 - [nashsu/AutoCLI](https://github.com/nashsu/AutoCLI) - AutoCLI is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55&#43; sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl), now powered by AutoCLI.ai . (5 days ago)
 - [AJenbo/phpantom_lsp](https://github.com/AJenbo/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant. (6 days ago)
@@ -63,7 +64,6 @@
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. (1 week ago)
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy&#39;s autoresearch. Modify → Verify → Keep/Discard → Repeat forever. (1 week ago)
 - [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution. (2 weeks ago)
-- [eze-is/web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 &#43; 浏览器 CDP &#43; 并行分治 (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
