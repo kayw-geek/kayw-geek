@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: generate valid app group identifiers from resigned bundle ID](https://github.com/CLARATION/Impactor/pull/165) on [CLARATION/Impactor](https://github.com/CLARATION/Impactor) (today)
 - [[12.x] Support string abstract in mock/partialMock/spy PHPDoc](https://github.com/laravel/framework/pull/59477) on [laravel/framework](https://github.com/laravel/framework) (6 days ago)
 - [Fix workers() not respecting user-specified order](https://github.com/symplify/monorepo-builder/pull/112) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 week ago)
 - [Fix curl_close() deprecation in PHP 8.5](https://github.com/segmentio/analytics-php/pull/248) on [segmentio/analytics-php](https://github.com/segmentio/analytics-php) (3 weeks ago)
@@ -50,10 +51,10 @@
 - [Add support for grpc on PHP 8.5](https://github.com/mlocati/docker-php-extension-installer/pull/1232) on [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) (1 month ago)
 - [Fix disableDefaultWorkers() edge case ](https://github.com/symplify/monorepo-builder/pull/102) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
 - [Add `source-fallback` config option to disable/enable fallback on download failure](https://github.com/composer/composer/pull/12698) on [composer/composer](https://github.com/composer/composer) (3 months ago)
-- [fix: ensure all internal packages bypass minimumReleaseAge requirement](https://github.com/RightCapitalHQ/renovate-config/pull/253) on [RightCapitalHQ/renovate-config](https://github.com/RightCapitalHQ/renovate-config) (3 months ago)
 
 #### ⭐ Recent Stars
 
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them! (today)
 - [CLARATION/Impactor](https://github.com/CLARATION/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust. (today)
 - [34306/FilzaJailedDS](https://github.com/34306/FilzaJailedDS) - Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something) (1 day ago)
 - [nashsu/AutoCLI](https://github.com/nashsu/AutoCLI) - AutoCLI is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55&#43; sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl), now powered by AutoCLI.ai . (5 days ago)
@@ -63,7 +64,6 @@
 - [nunomaduro/pao](https://github.com/nunomaduro/pao) - PAO is agent-optimized output for PHP testing tools. (6 days ago)
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. (1 week ago)
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy&#39;s autoresearch. Modify → Verify → Keep/Discard → Repeat forever. (1 week ago)
-- [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
