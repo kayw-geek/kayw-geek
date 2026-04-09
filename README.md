@@ -30,7 +30,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.11](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.11), today) - Easily install PHP extensions in Docker containers
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.12](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.12), today) - Easily install PHP extensions in Docker containers
 - [laravel/framework](https://github.com/laravel/framework) ([v13.4.0](https://github.com/laravel/framework/releases/tag/v13.4.0), 2 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [composer/composer](https://github.com/composer/composer) ([2.10.0-RC1](https://github.com/composer/composer/releases/tag/2.10.0-RC1), 1 week ago) - Dependency Manager for PHP
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.5.2](https://github.com/symplify/monorepo-builder/releases/tag/12.5.2), 2 weeks ago) - Composer tools to maintain a monorepo
