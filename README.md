@@ -54,8 +54,9 @@
 
 #### ⭐ Recent Stars
 
+- [rooootdev/lara](https://github.com/rooootdev/lara) - WIP darksword kexploit implement (today)
 - [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone (today)
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI. (today)
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (today)
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) - RudderStack&#39;s PHP SDK for effective server-side event tracking. (1 day ago)
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (2 days ago)
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them! (3 days ago)
@@ -63,7 +64,6 @@
 - [34306/FilzaJailedDS](https://github.com/34306/FilzaJailedDS) - Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something) (4 days ago)
 - [nashsu/AutoCLI](https://github.com/nashsu/AutoCLI) - AutoCLI is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55&#43; sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl), now powered by AutoCLI.ai . (1 week ago)
 - [AJenbo/phpantom_lsp](https://github.com/AJenbo/phpantom_lsp) - Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant. (1 week ago)
-- [codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript) - Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
