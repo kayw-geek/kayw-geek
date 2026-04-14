@@ -22,18 +22,18 @@
 
 #### 🪅 Recent contributed Repos
 
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (today)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (3 weeks ago)
 - [kayw-geek/shortcut-agent](https://github.com/kayw-geek/shortcut-agent) - AI Agent framework for iPhone Shortcuts, powered by Cherri and 豆包 (1 month ago)
-- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (2 months ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v13.5.0](https://github.com/laravel/framework/releases/tag/v13.5.0), today) - Laravel is a web application framework with expressive, elegant syntax.
 - [composer/composer](https://github.com/composer/composer) ([2.9.7](https://github.com/composer/composer/releases/tag/2.9.7), today) - Dependency Manager for PHP
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.5](https://github.com/larastan/larastan/releases/tag/v3.9.5), 1 day ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.12](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.12), 5 days ago) - Easily install PHP extensions in Docker containers
-- [laravel/framework](https://github.com/laravel/framework) ([v13.4.0](https://github.com/laravel/framework/releases/tag/v13.4.0), 1 week ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.5.2](https://github.com/symplify/monorepo-builder/releases/tag/12.5.2), 2 weeks ago) - Composer tools to maintain a monorepo
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 4 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 5 months ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
