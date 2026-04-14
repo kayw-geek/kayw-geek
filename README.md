@@ -54,6 +54,7 @@
 
 #### ⭐ Recent Stars
 
+- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (today)
 - [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor) - pure frontend ipa signing page. (today)
 - [marcone/teslausb](https://github.com/marcone/teslausb) - A smart USB drive for Tesla Dashcam - extended storage, auto archive, web viewer (1 day ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (1 day ago)
@@ -63,7 +64,6 @@
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) - RudderStack&#39;s PHP SDK for effective server-side event tracking. (5 days ago)
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (6 days ago)
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them! (1 week ago)
-- [CLARATION/Impactor](https://github.com/CLARATION/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
