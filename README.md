@@ -22,7 +22,7 @@
 
 #### 🪅 Recent contributed Repos
 
-- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (today)
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (1 day ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (3 weeks ago)
 - [kayw-geek/shortcut-agent](https://github.com/kayw-geek/shortcut-agent) - AI Agent framework for iPhone Shortcuts, powered by Cherri and 豆包 (1 month ago)
@@ -30,10 +30,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v13.5.0](https://github.com/laravel/framework/releases/tag/v13.5.0), today) - Laravel is a web application framework with expressive, elegant syntax.
-- [composer/composer](https://github.com/composer/composer) ([2.9.7](https://github.com/composer/composer/releases/tag/2.9.7), today) - Dependency Manager for PHP
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.5](https://github.com/larastan/larastan/releases/tag/v3.9.5), 1 day ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.12](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.12), 5 days ago) - Easily install PHP extensions in Docker containers
+- [laravel/framework](https://github.com/laravel/framework) ([v13.5.0](https://github.com/laravel/framework/releases/tag/v13.5.0), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [composer/composer](https://github.com/composer/composer) ([2.9.7](https://github.com/composer/composer/releases/tag/2.9.7), 1 day ago) - Dependency Manager for PHP
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.5](https://github.com/larastan/larastan/releases/tag/v3.9.5), 2 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.12](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.12), 6 days ago) - Easily install PHP extensions in Docker containers
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.5.2](https://github.com/symplify/monorepo-builder/releases/tag/12.5.2), 2 weeks ago) - Composer tools to maintain a monorepo
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 4 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 5 months ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
@@ -41,10 +41,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[13.x] Move Scope interface @template from method-level to class-level to fix LSP violation](https://github.com/laravel/framework/pull/59675) on [laravel/framework](https://github.com/laravel/framework) (today)
-- [Skip curl_close() on PHP 8.0&#43; where it has no effect](https://github.com/rudderlabs/rudder-php-sdk/pull/125) on [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) (4 days ago)
+- [[13.x] Move Scope interface @template from method-level to class-level to fix LSP violation](https://github.com/laravel/framework/pull/59675) on [laravel/framework](https://github.com/laravel/framework) (1 day ago)
+- [Skip curl_close() on PHP 8.0&#43; where it has no effect](https://github.com/rudderlabs/rudder-php-sdk/pull/125) on [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) (5 days ago)
 - [fix: generate valid app group identifiers from resigned bundle ID](https://github.com/CLARATION/Impactor/pull/165) on [CLARATION/Impactor](https://github.com/CLARATION/Impactor) (1 week ago)
-- [[12.x] Support string abstract in mock/partialMock/spy PHPDoc](https://github.com/laravel/framework/pull/59477) on [laravel/framework](https://github.com/laravel/framework) (1 week ago)
+- [[12.x] Support string abstract in mock/partialMock/spy PHPDoc](https://github.com/laravel/framework/pull/59477) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
 - [Fix workers() not respecting user-specified order](https://github.com/symplify/monorepo-builder/pull/112) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 weeks ago)
 - [Fix curl_close() deprecation in PHP 8.5](https://github.com/segmentio/analytics-php/pull/248) on [segmentio/analytics-php](https://github.com/segmentio/analytics-php) (4 weeks ago)
 - [Remove stale composer-json-manipulator autoload entry](https://github.com/symplify/monorepo-builder/pull/109) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
@@ -54,15 +54,15 @@
 
 #### ⭐ Recent Stars
 
-- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (today)
-- [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor) - pure frontend ipa signing page. (today)
-- [marcone/teslausb](https://github.com/marcone/teslausb) - A smart USB drive for Tesla Dashcam - extended storage, auto archive, web viewer (1 day ago)
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (1 day ago)
-- [rooootdev/lara](https://github.com/rooootdev/lara) - WIP darksword kexploit implement (4 days ago)
-- [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone (4 days ago)
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (4 days ago)
-- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) - RudderStack&#39;s PHP SDK for effective server-side event tracking. (5 days ago)
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (6 days ago)
+- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (1 day ago)
+- [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor) - pure frontend ipa signing page. (1 day ago)
+- [marcone/teslausb](https://github.com/marcone/teslausb) - A smart USB drive for Tesla Dashcam - extended storage, auto archive, web viewer (2 days ago)
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (2 days ago)
+- [rooootdev/lara](https://github.com/rooootdev/lara) - WIP darksword kexploit implement (5 days ago)
+- [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone (5 days ago)
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (5 days ago)
+- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) - RudderStack&#39;s PHP SDK for effective server-side event tracking. (6 days ago)
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (1 week ago)
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them! (1 week ago)
 
 #### 👯 Check out some of my recent followers
