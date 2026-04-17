@@ -22,14 +22,15 @@
 
 #### 🪅 Recent contributed Repos
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (3 days ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (3 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (4 weeks ago)
 - [kayw-geek/shortcut-agent](https://github.com/kayw-geek/shortcut-agent) - AI Agent framework for iPhone Shortcuts, powered by Cherri and 豆包 (1 month ago)
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.6), today) - The PHP Unit Testing framework.
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.16](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.16), 1 day ago) - Easily install PHP extensions in Docker containers
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.6](https://github.com/larastan/larastan/releases/tag/v3.9.6), 1 day ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [laravel/framework](https://github.com/laravel/framework) ([v13.5.0](https://github.com/laravel/framework/releases/tag/v13.5.0), 3 days ago) - Laravel is a web application framework with expressive, elegant syntax.
@@ -41,7 +42,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Quote PHP -d INI values so regex characters survive INI parsing](https://github.com/sebastianbergmann/phpunit/pull/6592) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
+- [INI metacharacters `;` and `&#34;` are not preserved when forwarding settings to child processes](https://github.com/sebastianbergmann/phpunit/pull/6592) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [[13.x] Move Scope interface @template from method-level to class-level to fix LSP violation](https://github.com/laravel/framework/pull/59675) on [laravel/framework](https://github.com/laravel/framework) (3 days ago)
 - [Skip curl_close() on PHP 8.0&#43; where it has no effect](https://github.com/rudderlabs/rudder-php-sdk/pull/125) on [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) (1 week ago)
 - [fix: generate valid app group identifiers from resigned bundle ID](https://github.com/CLARATION/Impactor/pull/165) on [CLARATION/Impactor](https://github.com/CLARATION/Impactor) (1 week ago)
