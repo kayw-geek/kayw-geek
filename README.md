@@ -54,6 +54,7 @@
 
 #### ⭐ Recent Stars
 
+- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (today)
 - [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app&#39;s reverse engineering (1 day ago)
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web (1 day ago)
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (3 days ago)
@@ -63,7 +64,6 @@
 - [rooootdev/lara](https://github.com/rooootdev/lara) - WIP darksword kexploit implement (1 week ago)
 - [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone (1 week ago)
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (1 week ago)
-- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) - RudderStack&#39;s PHP SDK for effective server-side event tracking. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
