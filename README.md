@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Quote PHP -d INI values so regex characters survive INI parsing](https://github.com/sebastianbergmann/phpunit/pull/6592) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)
 - [[13.x] Move Scope interface @template from method-level to class-level to fix LSP violation](https://github.com/laravel/framework/pull/59675) on [laravel/framework](https://github.com/laravel/framework) (3 days ago)
 - [Skip curl_close() on PHP 8.0&#43; where it has no effect](https://github.com/rudderlabs/rudder-php-sdk/pull/125) on [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) (1 week ago)
 - [fix: generate valid app group identifiers from resigned bundle ID](https://github.com/CLARATION/Impactor/pull/165) on [CLARATION/Impactor](https://github.com/CLARATION/Impactor) (1 week ago)
@@ -50,7 +51,6 @@
 - [Remove stale composer-json-manipulator autoload entry](https://github.com/symplify/monorepo-builder/pull/109) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
 - [Fix merge command: preserve unknown sections, fix ordering, fix dedup](https://github.com/symplify/monorepo-builder/pull/108) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
 - [[12.x] Fix missing InputArgument::IS_ARRAY in getArguments PHPDoc](https://github.com/laravel/framework/pull/58771) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
-- [Add support for grpc on PHP 8.5](https://github.com/mlocati/docker-php-extension-installer/pull/1232) on [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) (2 months ago)
 
 #### ⭐ Recent Stars
 
