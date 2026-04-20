@@ -22,28 +22,28 @@
 
 #### 🪅 Recent contributed Repos
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 days ago)
-- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (5 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (3 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (6 days ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (3 weeks ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 month ago)
 - [kayw-geek/shortcut-agent](https://github.com/kayw-geek/shortcut-agent) - AI Agent framework for iPhone Shortcuts, powered by Cherri and 豆包 (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.7), 1 day ago) - The PHP Unit Testing framework.
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.16](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.16), 3 days ago) - Easily install PHP extensions in Docker containers
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.6](https://github.com/larastan/larastan/releases/tag/v3.9.6), 3 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [laravel/framework](https://github.com/laravel/framework) ([v13.5.0](https://github.com/laravel/framework/releases/tag/v13.5.0), 5 days ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [composer/composer](https://github.com/composer/composer) ([2.9.7](https://github.com/composer/composer/releases/tag/2.9.7), 5 days ago) - Dependency Manager for PHP
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.7), 2 days ago) - The PHP Unit Testing framework.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.16](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.16), 4 days ago) - Easily install PHP extensions in Docker containers
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.6](https://github.com/larastan/larastan/releases/tag/v3.9.6), 4 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.5.0](https://github.com/laravel/framework/releases/tag/v13.5.0), 6 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [composer/composer](https://github.com/composer/composer) ([2.9.7](https://github.com/composer/composer/releases/tag/2.9.7), 6 days ago) - Dependency Manager for PHP
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.5.2](https://github.com/symplify/monorepo-builder/releases/tag/12.5.2), 3 weeks ago) - Composer tools to maintain a monorepo
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 4 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 5 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 5 months ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 - [uploadcare/uploadcare-php](https://github.com/uploadcare/uploadcare-php) ([v4.2.1](https://github.com/uploadcare/uploadcare-php/releases/tag/v4.2.1), 8 months ago) - PHP API client that handles uploads and further operations with files by wrapping Uploadcare Upload and REST APIs.
 
 #### 🔨 My recent Pull Requests
 
-- [INI metacharacters `;` and `&#34;` are not preserved when forwarding settings to child processes](https://github.com/sebastianbergmann/phpunit/pull/6592) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)
-- [[13.x] Move Scope interface @template from method-level to class-level to fix LSP violation](https://github.com/laravel/framework/pull/59675) on [laravel/framework](https://github.com/laravel/framework) (5 days ago)
+- [INI metacharacters `;` and `&#34;` are not preserved when forwarding settings to child processes](https://github.com/sebastianbergmann/phpunit/pull/6592) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)
+- [[13.x] Move Scope interface @template from method-level to class-level to fix LSP violation](https://github.com/laravel/framework/pull/59675) on [laravel/framework](https://github.com/laravel/framework) (6 days ago)
 - [Skip curl_close() on PHP 8.0&#43; where it has no effect](https://github.com/rudderlabs/rudder-php-sdk/pull/125) on [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) (1 week ago)
 - [fix: generate valid app group identifiers from resigned bundle ID](https://github.com/CLARATION/Impactor/pull/165) on [CLARATION/Impactor](https://github.com/CLARATION/Impactor) (1 week ago)
 - [[12.x] Support string abstract in mock/partialMock/spy PHPDoc](https://github.com/laravel/framework/pull/59477) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
@@ -55,16 +55,16 @@
 
 #### ⭐ Recent Stars
 
-- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (2 days ago)
-- [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app&#39;s reverse engineering (3 days ago)
-- [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web (3 days ago)
-- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (5 days ago)
-- [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor) - pure frontend ipa signing page. (5 days ago)
-- [marcone/teslausb](https://github.com/marcone/teslausb) - A smart USB drive for Tesla Dashcam - extended storage, auto archive, web viewer (6 days ago)
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (6 days ago)
+- [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs) - ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It&#39;s ideal for agents, sandboxes, containers and other use-cases where startup time is critical. (today)
+- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (3 days ago)
+- [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app&#39;s reverse engineering (4 days ago)
+- [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web (4 days ago)
+- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (6 days ago)
+- [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor) - pure frontend ipa signing page. (6 days ago)
+- [marcone/teslausb](https://github.com/marcone/teslausb) - A smart USB drive for Tesla Dashcam - extended storage, auto archive, web viewer (1 week ago)
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (1 week ago)
 - [rooootdev/lara](https://github.com/rooootdev/lara) - WIP darksword kexploit implement (1 week ago)
 - [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone (1 week ago)
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
