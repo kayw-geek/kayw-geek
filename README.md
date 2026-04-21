@@ -30,10 +30,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v13.6.0](https://github.com/laravel/framework/releases/tag/v13.6.0), today) - Laravel is a web application framework with expressive, elegant syntax.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.7), 3 days ago) - The PHP Unit Testing framework.
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.16](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.16), 5 days ago) - Easily install PHP extensions in Docker containers
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.6](https://github.com/larastan/larastan/releases/tag/v3.9.6), 5 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [laravel/framework](https://github.com/laravel/framework) ([v13.5.0](https://github.com/laravel/framework/releases/tag/v13.5.0), 1 week ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [composer/composer](https://github.com/composer/composer) ([2.9.7](https://github.com/composer/composer/releases/tag/2.9.7), 1 week ago) - Dependency Manager for PHP
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.5.2](https://github.com/symplify/monorepo-builder/releases/tag/12.5.2), 3 weeks ago) - Composer tools to maintain a monorepo
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 5 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
