@@ -42,6 +42,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Honor disablePackageReplace() in RootRemoveComposerJsonDecorator](https://github.com/symplify/monorepo-builder/pull/116) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (today)
 - [Fix repositories array becoming a JSON object after path-type dedup](https://github.com/symplify/monorepo-builder/pull/115) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (today)
 - [Add disablePackageReplace() and disableAutoloadMerge() opt-outs for non-library monorepos](https://github.com/symplify/monorepo-builder/pull/114) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (today)
 - [INI metacharacters `;` and `&#34;` are not preserved when forwarding settings to child processes](https://github.com/sebastianbergmann/phpunit/pull/6592) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)
@@ -51,7 +52,6 @@
 - [[12.x] Support string abstract in mock/partialMock/spy PHPDoc](https://github.com/laravel/framework/pull/59477) on [laravel/framework](https://github.com/laravel/framework) (3 weeks ago)
 - [Fix workers() not respecting user-specified order](https://github.com/symplify/monorepo-builder/pull/112) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 weeks ago)
 - [Fix curl_close() deprecation in PHP 8.5](https://github.com/segmentio/analytics-php/pull/248) on [segmentio/analytics-php](https://github.com/segmentio/analytics-php) (1 month ago)
-- [Remove stale composer-json-manipulator autoload entry](https://github.com/symplify/monorepo-builder/pull/109) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
 
 #### ⭐ Recent Stars
 
