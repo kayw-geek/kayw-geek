@@ -1,34 +1,24 @@
-## Hi, I'm Kai 👋
+### Hi there 👋
 
-Backend engineer at [@RightCapitalHQ](https://github.com/RightCapitalHQ) (Foundation team), based in Beijing.
-I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
-
-> *No bug, no gain.*
+- 🔭 I’m currently working for RigthCapital
+- 📫 How to reach me: d2Vpa2FpaWlAc2luYS5jbg==
 
 ---
 
-### What I do in OSS
-
-- 🛠️ **Maintainer** of [`symplify/monorepo-builder`](https://github.com/symplify/monorepo-builder) — a Composer-based toolkit for managing PHP monorepos.
-- 🔐 **Reporter** of [`CVE-2026-41570`](https://github.com/sebastianbergmann/phpunit/security/advisories/GHSA-qrr6-mg7r-m243) — argument injection in PHPUnit, found while upgrading to PHPUnit 12.
-- 🧩 **90+ merged PRs** across the PHP ecosystem, including:
-  [Laravel](https://github.com/laravel/framework/pulls?q=author%3Akayw-geek+is%3Amerged) ·
-  [Symfony](https://github.com/symfony/symfony/pulls?q=author%3Akayw-geek+is%3Amerged) ·
-  [Composer](https://github.com/composer/composer/pulls?q=author%3Akayw-geek+is%3Amerged) ·
-  [PHPUnit](https://github.com/sebastianbergmann/phpunit/pulls?q=author%3Akayw-geek) ·
-  [PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pulls?q=author%3Akayw-geek+is%3Amerged) ·
-  [Rector](https://github.com/rectorphp/rector-src/pulls?q=author%3Akayw-geek) ·
-  [PHPStan / Larastan](https://github.com/larastan/larastan/pulls?q=author%3Akayw-geek+is%3Amerged) ·
-  [AWS SDK for PHP](https://github.com/aws/aws-sdk-php/pulls?q=author%3Akayw-geek+is%3Amerged) ·
-  [Sentry](https://github.com/getsentry/sentry-laravel/pulls?q=author%3Akayw-geek+is%3Amerged)
-
-
-### Reach me
-
-- 🐦 X / Twitter: [@KaiWei_capper](https://twitter.com/KaiWei_capper)
-- 📧 Email: d2Vpa2FpaWlAc2luYS5jbg==
----
-
+### 📟 My favorite tools
+![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![image](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
+![image](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
+![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![image](https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59)
+![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![image](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
+![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![image](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![image](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
 #### 🪅 Recent contributed Repos
 
@@ -57,7 +47,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [Add disablePackageReplace() and disableAutoloadMerge() opt-outs for non-library monorepos](https://github.com/symplify/monorepo-builder/pull/114) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 day ago)
 - [INI metacharacters `;` and `&#34;` are not preserved when forwarding settings to child processes](https://github.com/sebastianbergmann/phpunit/pull/6592) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)
 - [[13.x] Move Scope interface @template from method-level to class-level to fix LSP violation](https://github.com/laravel/framework/pull/59675) on [laravel/framework](https://github.com/laravel/framework) (1 week ago)
-- [Skip curl_close() on PHP 8.0&#43; where it has no effect](https://github.com/rudderlabs/rudder-php-sdk/pull/125) on [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) (1 week ago)
+- [fix: skip curl_close() on PHP 8.0&#43; where it has no effect](https://github.com/rudderlabs/rudder-php-sdk/pull/125) on [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) (1 week ago)
 - [fix: generate valid app group identifiers from resigned bundle ID](https://github.com/CLARATION/Impactor/pull/165) on [CLARATION/Impactor](https://github.com/CLARATION/Impactor) (2 weeks ago)
 - [[12.x] Support string abstract in mock/partialMock/spy PHPDoc](https://github.com/laravel/framework/pull/59477) on [laravel/framework](https://github.com/laravel/framework) (3 weeks ago)
 - [Fix workers() not respecting user-specified order](https://github.com/symplify/monorepo-builder/pull/112) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (4 weeks ago)
