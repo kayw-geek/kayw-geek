@@ -17,8 +17,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
   [Composer](https://github.com/composer/composer/pulls?q=author%3Akayw-geek+is%3Amerged) ·
   [PHPUnit](https://github.com/sebastianbergmann/phpunit/pulls?q=author%3Akayw-geek) ·
   [PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/pulls?q=author%3Akayw-geek+is%3Amerged) ·
-  [Rector](https://github.com/rectorphp/rector-src/pulls?q=author%3Akayw-geek) ·
   [PHPStan / Larastan](https://github.com/larastan/larastan/pulls?q=author%3Akayw-geek+is%3Amerged) ·
+  [Spatie](https://github.com/spatie/laravel-query-builder/pulls?q=author%3Akayw-geek+is%3Amerged) ·
   [AWS SDK for PHP](https://github.com/aws/aws-sdk-php/pulls?q=author%3Akayw-geek+is%3Amerged) ·
   [Sentry](https://github.com/getsentry/sentry-laravel/pulls?q=author%3Akayw-geek+is%3Amerged)
 
