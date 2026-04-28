@@ -37,7 +37,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.19](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.19), today) - Easily install PHP extensions in Docker containers
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.10.20](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.10.20), today) - Easily install PHP extensions in Docker containers
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.1.1](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.1.1), 1 day ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [laravel/framework](https://github.com/laravel/framework) ([v12.58.0](https://github.com/laravel/framework/releases/tag/v12.58.0), 2 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.0](https://github.com/symplify/monorepo-builder/releases/tag/12.7.0), 4 days ago) - Composer tools to maintain a monorepo
