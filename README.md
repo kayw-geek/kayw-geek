@@ -50,6 +50,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔨 My recent Pull Requests
 
+- [[13.x] Add Batch::addOrFail() and use in PendingBatch::dispatch()](https://github.com/laravel/framework/pull/59945) on [laravel/framework](https://github.com/laravel/framework) (today)
 - [Add &#34;Add to .git/info/exclude&#34; action in project_panel and git_panel](https://github.com/zed-industries/zed/pull/55140) on [zed-industries/zed](https://github.com/zed-industries/zed) (1 day ago)
 - [Add parameterized disableAutoloadMerge(sections, forTypes); deprecate zero-arg form](https://github.com/symplify/monorepo-builder/pull/117) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (6 days ago)
 - [Honor disablePackageReplace() in RootRemoveComposerJsonDecorator](https://github.com/symplify/monorepo-builder/pull/116) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 week ago)
@@ -59,10 +60,10 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [[13.x] Move Scope interface @template from method-level to class-level to fix LSP violation](https://github.com/laravel/framework/pull/59675) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
 - [fix: skip curl_close() on PHP 8.0&#43; where it has no effect](https://github.com/rudderlabs/rudder-php-sdk/pull/125) on [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) (2 weeks ago)
 - [fix: generate valid app group identifiers from resigned bundle ID](https://github.com/CLARATION/Impactor/pull/165) on [CLARATION/Impactor](https://github.com/CLARATION/Impactor) (3 weeks ago)
-- [[12.x] Support string abstract in mock/partialMock/spy PHPDoc](https://github.com/laravel/framework/pull/59477) on [laravel/framework](https://github.com/laravel/framework) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [netresearch/php-modernization-skill](https://github.com/netresearch/php-modernization-skill) - Agent Skill: PHP 8.x modernization patterns - typing, attributes, PHPStan | Claude Code compatible (today)
 - [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，请勿商用，仅供学习交流 (1 day ago)
 - [CLARATION/Feather](https://github.com/CLARATION/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program. (6 days ago)
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. (1 week ago)
@@ -72,7 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web (2 weeks ago)
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (2 weeks ago)
 - [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor) - pure frontend ipa signing page. (2 weeks ago)
-- [marcone/teslausb](https://github.com/marcone/teslausb) - A smart USB drive for Tesla Dashcam - extended storage, auto archive, web viewer (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
