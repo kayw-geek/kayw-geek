@@ -64,7 +64,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 #### ⭐ Recent Stars
 
 - [netresearch/php-modernization-skill](https://github.com/netresearch/php-modernization-skill) - Agent Skill: PHP 8.x modernization patterns - typing, attributes, PHPStan | Claude Code compatible (3 days ago)
-- [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，请勿商用，仅供学习交流 (4 days ago)
+- [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流 (4 days ago)
 - [CLARATION/Feather](https://github.com/CLARATION/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program. (1 week ago)
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. (1 week ago)
 - [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs) - ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It&#39;s ideal for agents, sandboxes, containers and other use-cases where startup time is critical. (1 week ago)
