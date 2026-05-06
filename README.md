@@ -29,11 +29,11 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🪅 Recent contributed Repos
 
+- [GitLabPHP/Client](https://github.com/GitLabPHP/Client) - GitLab API v4 client for PHP (today)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (1 week ago)
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) - RudderStack&#39;s PHP SDK for effective server-side event tracking. (1 week ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 weeks ago)
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (3 weeks ago)
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
