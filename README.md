@@ -63,6 +63,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
+- [imjuya/juya-ai-daily](https://github.com/imjuya/juya-ai-daily) - 记录人类完蛋全过程。 (today)
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website. (today)
 - [netresearch/php-modernization-skill](https://github.com/netresearch/php-modernization-skill) - Agent Skill: PHP 8.x modernization patterns - typing, attributes, PHPStan | Claude Code compatible (1 week ago)
 - [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流 (1 week ago)
@@ -72,7 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (3 weeks ago)
 - [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app&#39;s reverse engineering (3 weeks ago)
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web (3 weeks ago)
-- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
