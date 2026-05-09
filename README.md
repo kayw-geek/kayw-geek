@@ -64,7 +64,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 #### ⭐ Recent Stars
 
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform (today)
-- [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Git for AI coding agents. (today)
+- [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version-Control for AI coding agents. (today)
 - [imjuya/juya-ai-daily](https://github.com/imjuya/juya-ai-daily) - 记录人类完蛋全过程。 (1 day ago)
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website. (1 day ago)
 - [netresearch/php-modernization-skill](https://github.com/netresearch/php-modernization-skill) - Agent Skill: PHP 8.x modernization patterns - typing, attributes, PHPStan | Claude Code compatible (1 week ago)
