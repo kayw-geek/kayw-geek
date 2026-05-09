@@ -63,6 +63,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
+- [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform (today)
+- [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Git for AI coding agents. (today)
 - [imjuya/juya-ai-daily](https://github.com/imjuya/juya-ai-daily) - 记录人类完蛋全过程。 (1 day ago)
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website. (1 day ago)
 - [netresearch/php-modernization-skill](https://github.com/netresearch/php-modernization-skill) - Agent Skill: PHP 8.x modernization patterns - typing, attributes, PHPStan | Claude Code compatible (1 week ago)
@@ -71,8 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. (2 weeks ago)
 - [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs) - ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It&#39;s ideal for agents, sandboxes, containers and other use-cases where startup time is critical. (2 weeks ago)
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (3 weeks ago)
-- [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app&#39;s reverse engineering (3 weeks ago)
-- [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
