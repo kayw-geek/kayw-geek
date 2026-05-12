@@ -29,14 +29,15 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🪅 Recent contributed Repos
 
+- [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt (today)
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) - GitLab API v4 client for PHP (6 days ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 weeks ago)
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) - RudderStack&#39;s PHP SDK for effective server-side event tracking. (2 weeks ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (3 weeks ago)
-- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) ([v0.1.0](https://github.com/kayw-geek/x-spam-cast/releases/tag/v0.1.0), today) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.0](https://github.com/GitLabPHP/Client/releases/tag/12.1.0), 6 days ago) - GitLab API v4 client for PHP
 - [laravel/framework](https://github.com/laravel/framework) ([v13.8.0](https://github.com/laravel/framework/releases/tag/v13.8.0), 1 week ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.1](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.1), 1 week ago) - Easily install PHP extensions in Docker containers
@@ -46,7 +47,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.6](https://github.com/larastan/larastan/releases/tag/v3.9.6), 3 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [composer/composer](https://github.com/composer/composer) ([2.9.7](https://github.com/composer/composer/releases/tag/2.9.7), 4 weeks ago) - Dependency Manager for PHP
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 5 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
-- [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) ([43.8.0](https://github.com/jdalrymple/gitbeaker/releases/tag/43.8.0), 6 months ago) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI 
 
 #### 🔨 My recent Pull Requests
 
