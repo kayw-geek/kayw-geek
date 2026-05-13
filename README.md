@@ -37,11 +37,11 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v13.9.0](https://github.com/laravel/framework/releases/tag/v13.9.0), today) - Laravel is a web application framework with expressive, elegant syntax.
 - [composer/composer](https://github.com/composer/composer) ([1.10.28](https://github.com/composer/composer/releases/tag/1.10.28), today) - Dependency Manager for PHP
 - [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) ([v0.3.0](https://github.com/kayw-geek/x-spam-cast/releases/tag/v0.3.0), today) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.9](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.9), today) - The PHP Unit Testing framework.
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.0](https://github.com/GitLabPHP/Client/releases/tag/12.1.0), 1 week ago) - GitLab API v4 client for PHP
-- [laravel/framework](https://github.com/laravel/framework) ([v13.8.0](https://github.com/laravel/framework/releases/tag/v13.8.0), 1 week ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.1](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.1), 1 week ago) - Easily install PHP extensions in Docker containers
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.1.1](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.1.1), 2 weeks ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.0](https://github.com/symplify/monorepo-builder/releases/tag/12.7.0), 2 weeks ago) - Composer tools to maintain a monorepo
@@ -76,11 +76,11 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 👯 Check out some of my recent followers
 
+- [scabarcas17](https://github.com/scabarcas17)
 - [Indigoochoa](https://github.com/Indigoochoa)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [onlytiancai](https://github.com/onlytiancai)
 - [mbelalhossain718-cpu](https://github.com/mbelalhossain718-cpu)
-- [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
 
 
 ---
