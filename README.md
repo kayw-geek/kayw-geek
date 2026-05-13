@@ -37,8 +37,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.2.28](https://github.com/composer/composer/releases/tag/2.2.28), today) - Dependency Manager for PHP
-- [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) ([v0.2.2](https://github.com/kayw-geek/x-spam-cast/releases/tag/v0.2.2), today) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt
+- [composer/composer](https://github.com/composer/composer) ([1.10.28](https://github.com/composer/composer/releases/tag/1.10.28), today) - Dependency Manager for PHP
+- [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) ([v0.3.0](https://github.com/kayw-geek/x-spam-cast/releases/tag/v0.3.0), today) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.9](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.9), today) - The PHP Unit Testing framework.
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.0](https://github.com/GitLabPHP/Client/releases/tag/12.1.0), 1 week ago) - GitLab API v4 client for PHP
 - [laravel/framework](https://github.com/laravel/framework) ([v13.8.0](https://github.com/laravel/framework/releases/tag/v13.8.0), 1 week ago) - Laravel is a web application framework with expressive, elegant syntax.
