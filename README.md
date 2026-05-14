@@ -37,7 +37,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v13.9.0](https://github.com/laravel/framework/releases/tag/v13.9.0), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.59.0](https://github.com/laravel/framework/releases/tag/v12.59.0), today) - Laravel is a web application framework with expressive, elegant syntax.
 - [composer/composer](https://github.com/composer/composer) ([1.10.28](https://github.com/composer/composer/releases/tag/1.10.28), 1 day ago) - Dependency Manager for PHP
 - [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) ([v0.3.0](https://github.com/kayw-geek/x-spam-cast/releases/tag/v0.3.0), 1 day ago) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.9](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.9), 1 day ago) - The PHP Unit Testing framework.
