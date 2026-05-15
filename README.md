@@ -37,10 +37,10 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.10](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.10), today) - The PHP Unit Testing framework.
 - [laravel/framework](https://github.com/laravel/framework) ([v12.59.0](https://github.com/laravel/framework/releases/tag/v12.59.0), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [composer/composer](https://github.com/composer/composer) ([1.10.28](https://github.com/composer/composer/releases/tag/1.10.28), 2 days ago) - Dependency Manager for PHP
 - [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) ([v0.3.0](https://github.com/kayw-geek/x-spam-cast/releases/tag/v0.3.0), 2 days ago) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.9](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.9), 2 days ago) - The PHP Unit Testing framework.
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.0](https://github.com/GitLabPHP/Client/releases/tag/12.1.0), 1 week ago) - GitLab API v4 client for PHP
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.1](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.1), 1 week ago) - Easily install PHP extensions in Docker containers
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.1.1](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.1.1), 2 weeks ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
@@ -63,6 +63,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
+- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect API traffic from Claude Code, Codex CLI, OpenCode, and Cursor CLI in a trace viewer. (today)
+- [dg/bypass-finals](https://github.com/dg/bypass-finals) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery. (today)
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary (1 day ago)
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform (6 days ago)
 - [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version-Control for AI coding agents. (6 days ago)
@@ -71,8 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [netresearch/php-modernization-skill](https://github.com/netresearch/php-modernization-skill) - Agent Skill: PHP 8.x modernization patterns - typing, attributes, PHPStan | Claude Code compatible (2 weeks ago)
 - [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流 (2 weeks ago)
 - [claration/Feather](https://github.com/claration/Feather) - Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program. (3 weeks ago)
-- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. (3 weeks ago)
-- [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs) - ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It&#39;s ideal for agents, sandboxes, containers and other use-cases where startup time is critical. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
