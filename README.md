@@ -37,10 +37,10 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.11](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.11), today) - The PHP Unit Testing framework.
 - [composer/composer](https://github.com/composer/composer) ([2.10.0-RC2](https://github.com/composer/composer/releases/tag/2.10.0-RC2), 1 day ago) - Dependency Manager for PHP
 - [laravel/framework](https://github.com/laravel/framework) ([v12.60.2](https://github.com/laravel/framework/releases/tag/v12.60.2), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.1](https://github.com/symplify/monorepo-builder/releases/tag/12.7.1), 1 day ago) - Composer tools to maintain a monorepo
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.10](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.10), 6 days ago) - The PHP Unit Testing framework.
 - [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) ([v0.3.0](https://github.com/kayw-geek/x-spam-cast/releases/tag/v0.3.0), 1 week ago) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.0](https://github.com/GitLabPHP/Client/releases/tag/12.1.0), 2 weeks ago) - GitLab API v4 client for PHP
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.1](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.1), 2 weeks ago) - Easily install PHP extensions in Docker containers
