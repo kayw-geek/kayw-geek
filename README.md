@@ -30,8 +30,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 #### 🪅 Recent contributed Repos
 
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) - See the full type-inference chain of any value in PHPStan, not just a single snapshot. (today)
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (today)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 days ago)
-- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (2 days ago)
 - [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt (1 week ago)
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) - GitLab API v4 client for PHP (2 weeks ago)
 
