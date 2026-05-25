@@ -37,8 +37,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.12](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.12), today) - The PHP Unit Testing framework.
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), today) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.11](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.11), 4 days ago) - The PHP Unit Testing framework.
 - [composer/composer](https://github.com/composer/composer) ([2.10.0-RC2](https://github.com/composer/composer/releases/tag/2.10.0-RC2), 5 days ago) - Dependency Manager for PHP
 - [laravel/framework](https://github.com/laravel/framework) ([v12.60.2](https://github.com/laravel/framework/releases/tag/v12.60.2), 5 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.1](https://github.com/symplify/monorepo-builder/releases/tag/12.7.1), 5 days ago) - Composer tools to maintain a monorepo
