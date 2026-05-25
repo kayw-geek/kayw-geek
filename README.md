@@ -63,6 +63,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
+- [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的商业诊断 Skills (today)
 - [zeroxjf/cyanide-ios](https://github.com/zeroxjf/cyanide-ios) - Cyanide — iOS tweak runner built on top of the DarkSword kernel r/w exploit (today)
 - [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066 (4 days ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (4 days ago)
@@ -72,7 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer. (1 week ago)
 - [dg/bypass-finals](https://github.com/dg/bypass-finals) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery. (1 week ago)
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary (1 week ago)
-- [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
