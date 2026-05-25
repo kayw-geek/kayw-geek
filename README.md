@@ -29,7 +29,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🪅 Recent contributed Repos
 
-- [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) - See the full type-inference chain of any value in PHPStan, not just a single snapshot. (3 days ago)
+- [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) - See the full type-inference chain of any value in PHPStan, not just a single snapshot. (today)
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (3 days ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (5 days ago)
 - [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt (1 week ago)
@@ -37,6 +37,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), today) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.11](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.11), 4 days ago) - The PHP Unit Testing framework.
 - [composer/composer](https://github.com/composer/composer) ([2.10.0-RC2](https://github.com/composer/composer/releases/tag/2.10.0-RC2), 5 days ago) - Dependency Manager for PHP
 - [laravel/framework](https://github.com/laravel/framework) ([v12.60.2](https://github.com/laravel/framework/releases/tag/v12.60.2), 5 days ago) - Laravel is a web application framework with expressive, elegant syntax.
@@ -46,7 +47,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.1](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.1), 3 weeks ago) - Easily install PHP extensions in Docker containers
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.1.1](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.1.1), 4 weeks ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.6](https://github.com/larastan/larastan/releases/tag/v3.9.6), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.3](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.3), 6 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 
 #### 🔨 My recent Pull Requests
 
@@ -63,6 +63,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
+- [zeroxjf/cyanide-ios](https://github.com/zeroxjf/cyanide-ios) - Cyanide — iOS tweak runner built on top of the DarkSword kernel r/w exploit (today)
 - [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066 (4 days ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (4 days ago)
 - [863401402/image-provenance](https://github.com/863401402/image-provenance) - AI image detector and watermark disruption toolkit (client-side, WIP) (4 days ago)
@@ -72,7 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [dg/bypass-finals](https://github.com/dg/bypass-finals) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery. (1 week ago)
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary (1 week ago)
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform (2 weeks ago)
-- [regent-vcs/re_gent](https://github.com/regent-vcs/re_gent) - Version-Control for AI coding agents. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
