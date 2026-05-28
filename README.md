@@ -37,6 +37,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.10.0](https://github.com/larastan/larastan/releases/tag/v3.10.0), today) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.13](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.13), 1 day ago) - The PHP Unit Testing framework.
 - [laravel/framework](https://github.com/laravel/framework) ([v12.61.0](https://github.com/laravel/framework/releases/tag/v12.61.0), 2 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), 3 days ago) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
@@ -46,7 +47,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.0](https://github.com/GitLabPHP/Client/releases/tag/12.1.0), 3 weeks ago) - GitLab API v4 client for PHP
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.1](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.1), 3 weeks ago) - Easily install PHP extensions in Docker containers
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.1.1](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.1.1), 1 month ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.9.6](https://github.com/larastan/larastan/releases/tag/v3.9.6), 1 month ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 
 #### 🔨 My recent Pull Requests
 
