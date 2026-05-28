@@ -50,6 +50,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔨 My recent Pull Requests
 
+- [Add kayw-geek/phpstan-type-trace to extension library](https://github.com/phpstan/phpstan/pull/14712) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (today)
 - [[13.x] Return FAILURE exit code when key:generate is prohibited](https://github.com/laravel/framework/pull/60273) on [laravel/framework](https://github.com/laravel/framework) (2 days ago)
 - [[13.x] Restore base_path() guard in SQLiteConnector lost during merge race](https://github.com/laravel/framework/pull/60272) on [laravel/framework](https://github.com/laravel/framework) (2 days ago)
 - [[13.x] Fix path separator encoding in temporaryUrl on local disk](https://github.com/laravel/framework/pull/60230) on [laravel/framework](https://github.com/laravel/framework) (6 days ago)
@@ -59,7 +60,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [Add &#34;Add to .git/info/exclude&#34; action in project_panel and git_panel](https://github.com/zed-industries/zed/pull/55140) on [zed-industries/zed](https://github.com/zed-industries/zed) (4 weeks ago)
 - [Add parameterized disableAutoloadMerge(sections, forTypes); deprecate zero-arg form](https://github.com/symplify/monorepo-builder/pull/117) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 - [Honor disablePackageReplace() in RootRemoveComposerJsonDecorator](https://github.com/symplify/monorepo-builder/pull/116) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
-- [Fix repositories array becoming a JSON object after path-type dedup](https://github.com/symplify/monorepo-builder/pull/115) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (1 month ago)
 
 #### ⭐ Recent Stars
 
