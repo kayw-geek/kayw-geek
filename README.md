@@ -65,7 +65,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 - [hyechow/iphone-use](https://github.com/hyechow/iphone-use) - iphone use agent on mac (3 days ago)
 - [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的商业诊断 Skills (5 days ago)
-- [zeroxjf/cyanide-ios](https://github.com/zeroxjf/cyanide-ios) - Cyanide — iOS tweak runner built on top of the DarkSword kernel r/w exploit (5 days ago)
+- [zeroxjf/cyanide-ios-moved](https://github.com/zeroxjf/cyanide-ios-moved) - ⚠️ Moved → github.com/zeroxjf/cyanide · This repository is archived; all development, releases &amp; issues continue at the new home. (5 days ago)
 - [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066 (1 week ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (1 week ago)
 - [863401402/image-provenance](https://github.com/863401402/image-provenance) - AI image detector and watermark disruption toolkit (client-side, WIP) (1 week ago)
