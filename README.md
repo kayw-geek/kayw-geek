@@ -32,14 +32,14 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) - See the full type-inference chain of any value in PHPStan, not just a single snapshot. (1 week ago)
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (1 week ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 weeks ago)
-- [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt (2 weeks ago)
+- [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt (3 weeks ago)
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) - GitLab API v4 client for PHP (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v13.13.0](https://github.com/laravel/framework/releases/tag/v13.13.0), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [composer/composer](https://github.com/composer/composer) ([2.10.0](https://github.com/composer/composer/releases/tag/2.10.0), 6 days ago) - Dependency Manager for PHP
-- [larastan/larastan](https://github.com/larastan/larastan) ([v3.10.0](https://github.com/larastan/larastan/releases/tag/v3.10.0), 6 days ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.13.0](https://github.com/laravel/framework/releases/tag/v13.13.0), 2 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [composer/composer](https://github.com/composer/composer) ([2.10.0](https://github.com/composer/composer/releases/tag/2.10.0), 1 week ago) - Dependency Manager for PHP
+- [larastan/larastan](https://github.com/larastan/larastan) ([v3.10.0](https://github.com/larastan/larastan/releases/tag/v3.10.0), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.13](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.13), 1 week ago) - The PHP Unit Testing framework.
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), 1 week ago) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.1](https://github.com/symplify/monorepo-builder/releases/tag/12.7.1), 2 weeks ago) - Composer tools to maintain a monorepo
@@ -50,8 +50,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔨 My recent Pull Requests
 
-- [Add kayw-geek/phpstan-type-trace to PHPStan rules index](https://github.com/TomasVotruba/tomasvotruba.com/pull/1543) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (5 days ago)
-- [Add kayw-geek/phpstan-type-trace to extension library](https://github.com/phpstan/phpstan/pull/14712) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 days ago)
+- [Add kayw-geek/phpstan-type-trace to PHPStan rules index](https://github.com/TomasVotruba/tomasvotruba.com/pull/1543) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (6 days ago)
+- [Add kayw-geek/phpstan-type-trace to extension library](https://github.com/phpstan/phpstan/pull/14712) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [[13.x] Return FAILURE exit code when key:generate is prohibited](https://github.com/laravel/framework/pull/60273) on [laravel/framework](https://github.com/laravel/framework) (1 week ago)
 - [[13.x] Restore base_path() guard in SQLiteConnector lost during merge race](https://github.com/laravel/framework/pull/60272) on [laravel/framework](https://github.com/laravel/framework) (1 week ago)
 - [[13.x] Fix path separator encoding in temporaryUrl on local disk](https://github.com/laravel/framework/pull/60230) on [laravel/framework](https://github.com/laravel/framework) (1 week ago)
@@ -66,9 +66,9 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [hyechow/iphone-use](https://github.com/hyechow/iphone-use) - iphone use agent on mac (1 week ago)
 - [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的商业诊断 Skills (1 week ago)
 - [zeroxjf/cyanide-ios-moved](https://github.com/zeroxjf/cyanide-ios-moved) - ⚠️ Moved → github.com/zeroxjf/cyanide · This repository is archived; all development, releases &amp; issues continue at the new home. (1 week ago)
-- [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066 (1 week ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (1 week ago)
-- [863401402/image-provenance](https://github.com/863401402/image-provenance) - AI image detector and watermark disruption toolkit (client-side, WIP) (1 week ago)
+- [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066 (2 weeks ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (2 weeks ago)
+- [863401402/image-provenance](https://github.com/863401402/image-provenance) - AI image detector and watermark disruption toolkit (client-side, WIP) (2 weeks ago)
 - [getsentry/cli](https://github.com/getsentry/cli) - Sentry CLI (2 weeks ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 weeks ago)
 - [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer. (2 weeks ago)
