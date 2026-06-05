@@ -30,31 +30,31 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 #### 🪅 Recent contributed Repos
 
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) - See the full type-inference chain of any value in PHPStan, not just a single snapshot. (1 week ago)
-- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (1 week ago)
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (2 weeks ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 weeks ago)
 - [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt (3 weeks ago)
-- [GitLabPHP/Client](https://github.com/GitLabPHP/Client) - GitLab API v4 client for PHP (4 weeks ago)
+- [GitLabPHP/Client](https://github.com/GitLabPHP/Client) - GitLab API v4 client for PHP (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v13.14.0](https://github.com/laravel/framework/releases/tag/v13.14.0), today) - Laravel is a web application framework with expressive, elegant syntax.
-- [composer/composer](https://github.com/composer/composer) ([2.10.1](https://github.com/composer/composer/releases/tag/2.10.1), today) - Dependency Manager for PHP
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.14](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.14), today) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.0), today) - The PHP Unit Testing framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.14.0](https://github.com/laravel/framework/releases/tag/v13.14.0), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [composer/composer](https://github.com/composer/composer) ([2.10.1](https://github.com/composer/composer/releases/tag/2.10.1), 1 day ago) - Dependency Manager for PHP
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.10.0](https://github.com/larastan/larastan/releases/tag/v3.10.0), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), 1 week ago) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.1](https://github.com/symplify/monorepo-builder/releases/tag/12.7.1), 2 weeks ago) - Composer tools to maintain a monorepo
 - [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) ([v0.3.0](https://github.com/kayw-geek/x-spam-cast/releases/tag/v0.3.0), 3 weeks ago) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt
-- [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.0](https://github.com/GitLabPHP/Client/releases/tag/12.1.0), 4 weeks ago) - GitLab API v4 client for PHP
+- [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.0](https://github.com/GitLabPHP/Client/releases/tag/12.1.0), 1 month ago) - GitLab API v4 client for PHP
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.1](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.1), 1 month ago) - Easily install PHP extensions in Docker containers
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.1.1](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.1.1), 1 month ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 
 #### 🔨 My recent Pull Requests
 
-- [Add kayw-geek/phpstan-type-trace to PHPStan rules index](https://github.com/TomasVotruba/tomasvotruba.com/pull/1543) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (6 days ago)
+- [Add kayw-geek/phpstan-type-trace to PHPStan rules index](https://github.com/TomasVotruba/tomasvotruba.com/pull/1543) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 week ago)
 - [Add kayw-geek/phpstan-type-trace to extension library](https://github.com/phpstan/phpstan/pull/14712) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
 - [[13.x] Return FAILURE exit code when key:generate is prohibited](https://github.com/laravel/framework/pull/60273) on [laravel/framework](https://github.com/laravel/framework) (1 week ago)
 - [[13.x] Restore base_path() guard in SQLiteConnector lost during merge race](https://github.com/laravel/framework/pull/60272) on [laravel/framework](https://github.com/laravel/framework) (1 week ago)
-- [[13.x] Fix path separator encoding in temporaryUrl on local disk](https://github.com/laravel/framework/pull/60230) on [laravel/framework](https://github.com/laravel/framework) (1 week ago)
+- [[13.x] Fix path separator encoding in temporaryUrl on local disk](https://github.com/laravel/framework/pull/60230) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
 - [[13.x] Resolve scheduled event callback parameter by type rather than name](https://github.com/laravel/framework/pull/60197) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
 - [Fix uninitialized typed $container error on Symfony Console 8.1](https://github.com/symplify/monorepo-builder/pull/119) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 weeks ago)
 - [[13.x] Add Batch::addOrFail() and use in PendingBatch::dispatch()](https://github.com/laravel/framework/pull/59945) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
@@ -71,8 +71,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [863401402/image-provenance](https://github.com/863401402/image-provenance) - AI image detector and watermark disruption toolkit (client-side, WIP) (2 weeks ago)
 - [getsentry/cli](https://github.com/getsentry/cli) - Sentry CLI (2 weeks ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 weeks ago)
-- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer. (2 weeks ago)
-- [dg/bypass-finals](https://github.com/dg/bypass-finals) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery. (2 weeks ago)
+- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer. (3 weeks ago)
+- [dg/bypass-finals](https://github.com/dg/bypass-finals) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
