@@ -37,11 +37,11 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.0), 2 days ago) - The PHP Unit Testing framework.
-- [laravel/framework](https://github.com/laravel/framework) ([v13.14.0](https://github.com/laravel/framework/releases/tag/v13.14.0), 3 days ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [composer/composer](https://github.com/composer/composer) ([2.10.1](https://github.com/composer/composer/releases/tag/2.10.1), 3 days ago) - Dependency Manager for PHP
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.0), 3 days ago) - The PHP Unit Testing framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.14.0](https://github.com/laravel/framework/releases/tag/v13.14.0), 4 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [composer/composer](https://github.com/composer/composer) ([2.10.1](https://github.com/composer/composer/releases/tag/2.10.1), 4 days ago) - Dependency Manager for PHP
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.10.0](https://github.com/larastan/larastan/releases/tag/v3.10.0), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), 1 week ago) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
+- [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), 2 weeks ago) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.1](https://github.com/symplify/monorepo-builder/releases/tag/12.7.1), 2 weeks ago) - Composer tools to maintain a monorepo
 - [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) ([v0.3.0](https://github.com/kayw-geek/x-spam-cast/releases/tag/v0.3.0), 3 weeks ago) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.0](https://github.com/GitLabPHP/Client/releases/tag/12.1.0), 1 month ago) - GitLab API v4 client for PHP
@@ -64,13 +64,13 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 #### ⭐ Recent Stars
 
 - [hyechow/iphone-use](https://github.com/hyechow/iphone-use) - iphone use agent on mac (1 week ago)
-- [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的商业诊断 Skills (1 week ago)
-- [zeroxjf/cyanide-ios-moved](https://github.com/zeroxjf/cyanide-ios-moved) - ⚠️ Moved → github.com/zeroxjf/cyanide · This repository is archived; all development, releases &amp; issues continue at the new home. (1 week ago)
+- [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的商业诊断 Skills (2 weeks ago)
+- [zeroxjf/cyanide-ios-moved](https://github.com/zeroxjf/cyanide-ios-moved) - ⚠️ Moved → github.com/zeroxjf/cyanide · This repository is archived; all development, releases &amp; issues continue at the new home. (2 weeks ago)
 - [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066 (2 weeks ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (2 weeks ago)
 - [863401402/image-provenance](https://github.com/863401402/image-provenance) - AI image detector and watermark disruption toolkit (client-side, WIP) (2 weeks ago)
 - [getsentry/cli](https://github.com/getsentry/cli) - Sentry CLI (2 weeks ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 weeks ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (3 weeks ago)
 - [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer. (3 weeks ago)
 - [dg/bypass-finals](https://github.com/dg/bypass-finals) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery. (3 weeks ago)
 
