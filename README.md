@@ -29,7 +29,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🪅 Recent contributed Repos
 
-- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (6 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (1 week ago)
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) - See the full type-inference chain of any value in PHPStan, not just a single snapshot. (1 week ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 weeks ago)
 - [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt (3 weeks ago)
@@ -37,10 +37,10 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.3](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.3), today) - Easily install PHP extensions in Docker containers
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.0), 3 days ago) - The PHP Unit Testing framework.
-- [laravel/framework](https://github.com/laravel/framework) ([v13.14.0](https://github.com/laravel/framework/releases/tag/v13.14.0), 4 days ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [composer/composer](https://github.com/composer/composer) ([2.10.1](https://github.com/composer/composer/releases/tag/2.10.1), 4 days ago) - Dependency Manager for PHP
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.3](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.3), 1 day ago) - Easily install PHP extensions in Docker containers
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.0), 4 days ago) - The PHP Unit Testing framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.14.0](https://github.com/laravel/framework/releases/tag/v13.14.0), 5 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [composer/composer](https://github.com/composer/composer) ([2.10.1](https://github.com/composer/composer/releases/tag/2.10.1), 5 days ago) - Dependency Manager for PHP
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.10.0](https://github.com/larastan/larastan/releases/tag/v3.10.0), 1 week ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), 2 weeks ago) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.1](https://github.com/symplify/monorepo-builder/releases/tag/12.7.1), 2 weeks ago) - Composer tools to maintain a monorepo
@@ -52,8 +52,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 - [Add kayw-geek/phpstan-type-trace to PHPStan rules index](https://github.com/TomasVotruba/tomasvotruba.com/pull/1543) on [TomasVotruba/tomasvotruba.com](https://github.com/TomasVotruba/tomasvotruba.com) (1 week ago)
 - [Add kayw-geek/phpstan-type-trace to extension library](https://github.com/phpstan/phpstan/pull/14712) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 week ago)
-- [[13.x] Return FAILURE exit code when key:generate is prohibited](https://github.com/laravel/framework/pull/60273) on [laravel/framework](https://github.com/laravel/framework) (1 week ago)
-- [[13.x] Restore base_path() guard in SQLiteConnector lost during merge race](https://github.com/laravel/framework/pull/60272) on [laravel/framework](https://github.com/laravel/framework) (1 week ago)
+- [[13.x] Return FAILURE exit code when key:generate is prohibited](https://github.com/laravel/framework/pull/60273) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
+- [[13.x] Restore base_path() guard in SQLiteConnector lost during merge race](https://github.com/laravel/framework/pull/60272) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
 - [[13.x] Fix path separator encoding in temporaryUrl on local disk](https://github.com/laravel/framework/pull/60230) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
 - [[13.x] Resolve scheduled event callback parameter by type rather than name](https://github.com/laravel/framework/pull/60197) on [laravel/framework](https://github.com/laravel/framework) (2 weeks ago)
 - [Fix uninitialized typed $container error on Symfony Console 8.1](https://github.com/symplify/monorepo-builder/pull/119) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 weeks ago)
@@ -69,7 +69,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066 (2 weeks ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (2 weeks ago)
 - [863401402/image-provenance](https://github.com/863401402/image-provenance) - AI image detector and watermark disruption toolkit (client-side, WIP) (2 weeks ago)
-- [getsentry/cli](https://github.com/getsentry/cli) - Sentry CLI (2 weeks ago)
+- [getsentry/cli](https://github.com/getsentry/cli) - Sentry CLI (3 weeks ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (3 weeks ago)
 - [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer. (3 weeks ago)
 - [dg/bypass-finals](https://github.com/dg/bypass-finals) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery. (3 weeks ago)
