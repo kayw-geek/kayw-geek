@@ -72,7 +72,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [863401402/image-provenance](https://github.com/863401402/image-provenance) - AI image detector and watermark disruption toolkit (client-side, WIP) (3 weeks ago)
 - [getsentry/cli](https://github.com/getsentry/cli) - Sentry CLI (3 weeks ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (3 weeks ago)
-- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer. (4 weeks ago)
+- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
