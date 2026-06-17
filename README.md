@@ -37,8 +37,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.12](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.12), today) - Easily install PHP extensions in Docker containers
 - [laravel/framework](https://github.com/laravel/framework) ([v13.16.1](https://github.com/laravel/framework/releases/tag/v13.16.1), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.11](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.11), 1 day ago) - Easily install PHP extensions in Docker containers
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.1), 2 days ago) - The PHP Unit Testing framework.
 - [composer/composer](https://github.com/composer/composer) ([2.10.1](https://github.com/composer/composer/releases/tag/2.10.1), 1 week ago) - Dependency Manager for PHP
 - [larastan/larastan](https://github.com/larastan/larastan) ([v3.10.0](https://github.com/larastan/larastan/releases/tag/v3.10.0), 2 weeks ago) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
