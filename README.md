@@ -63,6 +63,9 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
+- [cottenpanda/yanliuportfolio](https://github.com/cottenpanda/yanliuportfolio) -  (today)
+- [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复 (today)
+- [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli) -  (today)
 - [WEIFENG2333/phistory](https://github.com/WEIFENG2333/phistory) - Phistory automatically archives versioned system prompt snapshots from agent CLIs like Claude Code, Codex, OpenClaw, and Hermes. (today)
 - [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板 (2 days ago)
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. (3 days ago)
@@ -70,9 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [hyechow/iphone-use](https://github.com/hyechow/iphone-use) - iphone use agent on mac (3 weeks ago)
 - [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的商业诊断 Skills (3 weeks ago)
 - [zeroxjf/cyanide-ios-moved](https://github.com/zeroxjf/cyanide-ios-moved) - ⚠️ Moved → github.com/zeroxjf/cyanide · This repository is archived; all development, releases &amp; issues continue at the new home. (3 weeks ago)
-- [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066 (4 weeks ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (4 weeks ago)
-- [863401402/image-provenance](https://github.com/863401402/image-provenance) - AI image detector and watermark disruption toolkit (client-side, WIP) (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
