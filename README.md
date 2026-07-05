@@ -33,20 +33,20 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) - See the full type-inference chain of any value in PHPStan, not just a single snapshot. (1 month ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (1 month ago)
 - [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt (1 month ago)
-- [GitLabPHP/Client](https://github.com/GitLabPHP/Client) - GitLab API v4 client for PHP (1 month ago)
+- [GitLabPHP/Client](https://github.com/GitLabPHP/Client) - GitLab API v4 client for PHP (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v13.18.1](https://github.com/laravel/framework/releases/tag/v13.18.1), 2 days ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.1.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.1.2), 3 days ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
-- [composer/composer](https://github.com/composer/composer) ([2.10.2](https://github.com/composer/composer/releases/tag/2.10.2), 3 days ago) - Dependency Manager for PHP
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.2), 5 days ago) - The PHP Unit Testing framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.18.1](https://github.com/laravel/framework/releases/tag/v13.18.1), 3 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.1.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.1.2), 4 days ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
+- [composer/composer](https://github.com/composer/composer) ([2.10.2](https://github.com/composer/composer/releases/tag/2.10.2), 4 days ago) - Dependency Manager for PHP
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.2), 6 days ago) - The PHP Unit Testing framework.
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 1 week ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.12](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.12), 2 weeks ago) - Easily install PHP extensions in Docker containers
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), 1 month ago) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.1](https://github.com/symplify/monorepo-builder/releases/tag/12.7.1), 1 month ago) - Composer tools to maintain a monorepo
 - [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) ([v0.3.0](https://github.com/kayw-geek/x-spam-cast/releases/tag/v0.3.0), 1 month ago) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt
-- [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.0](https://github.com/GitLabPHP/Client/releases/tag/12.1.0), 1 month ago) - GitLab API v4 client for PHP
+- [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.0](https://github.com/GitLabPHP/Client/releases/tag/12.1.0), 2 months ago) - GitLab API v4 client for PHP
 
 #### 🔨 My recent Pull Requests
 
