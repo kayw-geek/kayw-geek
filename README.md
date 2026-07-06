@@ -63,6 +63,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
+- [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned (today)
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents (1 week ago)
 - [cottenpanda/yanliuportfolio](https://github.com/cottenpanda/yanliuportfolio) -  (2 weeks ago)
 - [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复 (2 weeks ago)
@@ -72,7 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. (3 weeks ago)
 - [hyechow/iphone-use](https://github.com/hyechow/iphone-use) - iphone use agent on mac (1 month ago)
 - [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的商业诊断 Skills (1 month ago)
-- [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
