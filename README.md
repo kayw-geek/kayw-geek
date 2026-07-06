@@ -37,10 +37,10 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v13.18.1](https://github.com/laravel/framework/releases/tag/v13.18.1), 3 days ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.1.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.1.2), 4 days ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
-- [composer/composer](https://github.com/composer/composer) ([2.10.2](https://github.com/composer/composer/releases/tag/2.10.2), 4 days ago) - Dependency Manager for PHP
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.2), 6 days ago) - The PHP Unit Testing framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.18.1](https://github.com/laravel/framework/releases/tag/v13.18.1), 4 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.1.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.1.2), 5 days ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
+- [composer/composer](https://github.com/composer/composer) ([2.10.2](https://github.com/composer/composer/releases/tag/2.10.2), 5 days ago) - Dependency Manager for PHP
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.2), 1 week ago) - The PHP Unit Testing framework.
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 1 week ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.12](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.12), 2 weeks ago) - Easily install PHP extensions in Docker containers
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), 1 month ago) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
@@ -69,7 +69,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli) -  (2 weeks ago)
 - [WEIFENG2333/phistory](https://github.com/WEIFENG2333/phistory) - Phistory automatically archives versioned system prompt snapshots from agent CLIs like Claude Code, Codex, OpenClaw, and Hermes. (2 weeks ago)
 - [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板 (2 weeks ago)
-- [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. (2 weeks ago)
+- [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. (3 weeks ago)
 - [hyechow/iphone-use](https://github.com/hyechow/iphone-use) - iphone use agent on mac (1 month ago)
 - [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的商业诊断 Skills (1 month ago)
 - [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066 (1 month ago)
