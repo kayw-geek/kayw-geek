@@ -37,11 +37,11 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.3), today) - The PHP Unit Testing framework.
-- [laravel/framework](https://github.com/laravel/framework) ([v13.18.1](https://github.com/laravel/framework/releases/tag/v13.18.1), 4 days ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.1.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.1.2), 5 days ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
-- [composer/composer](https://github.com/composer/composer) ([2.10.2](https://github.com/composer/composer/releases/tag/2.10.2), 5 days ago) - Dependency Manager for PHP
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 1 week ago) - A PHPStan rule to be used with the thecodingmachine/safe package
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.3), 1 day ago) - The PHP Unit Testing framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.18.1](https://github.com/laravel/framework/releases/tag/v13.18.1), 5 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.1.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.1.2), 6 days ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
+- [composer/composer](https://github.com/composer/composer) ([2.10.2](https://github.com/composer/composer/releases/tag/2.10.2), 6 days ago) - Dependency Manager for PHP
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 2 weeks ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.12](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.12), 2 weeks ago) - Easily install PHP extensions in Docker containers
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), 1 month ago) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.1](https://github.com/symplify/monorepo-builder/releases/tag/12.7.1), 1 month ago) - Composer tools to maintain a monorepo
@@ -63,13 +63,13 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
-- [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned (today)
+- [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned (1 day ago)
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents (1 week ago)
 - [cottenpanda/yanliuportfolio](https://github.com/cottenpanda/yanliuportfolio) -  (2 weeks ago)
 - [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复 (2 weeks ago)
 - [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli) -  (2 weeks ago)
 - [WEIFENG2333/phistory](https://github.com/WEIFENG2333/phistory) - Phistory automatically archives versioned system prompt snapshots from agent CLIs like Claude Code, Codex, OpenClaw, and Hermes. (2 weeks ago)
-- [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板 (2 weeks ago)
+- [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板 (3 weeks ago)
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. (3 weeks ago)
 - [hyechow/iphone-use](https://github.com/hyechow/iphone-use) - iphone use agent on mac (1 month ago)
 - [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的商业诊断 Skills (1 month ago)
