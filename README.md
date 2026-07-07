@@ -37,8 +37,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v12.63.0](https://github.com/laravel/framework/releases/tag/v12.63.0), today) - Laravel is a web application framework with expressive, elegant syntax.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.3), 1 day ago) - The PHP Unit Testing framework.
-- [laravel/framework](https://github.com/laravel/framework) ([v13.18.1](https://github.com/laravel/framework/releases/tag/v13.18.1), 5 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.1.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.1.2), 6 days ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [composer/composer](https://github.com/composer/composer) ([2.10.2](https://github.com/composer/composer/releases/tag/2.10.2), 6 days ago) - Dependency Manager for PHP
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 2 weeks ago) - A PHPStan rule to be used with the thecodingmachine/safe package
