@@ -63,6 +63,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
+- [hijohnnylin/neuronpedia](https://github.com/hijohnnylin/neuronpedia) - open source interpretability platform 🧠 (today)
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (today)
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned (1 day ago)
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents (1 week ago)
 - [cottenpanda/yanliuportfolio](https://github.com/cottenpanda/yanliuportfolio) -  (2 weeks ago)
@@ -71,16 +73,14 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [WEIFENG2333/phistory](https://github.com/WEIFENG2333/phistory) - Phistory automatically archives versioned system prompt snapshots from agent CLIs like Claude Code, Codex, OpenClaw, and Hermes. (2 weeks ago)
 - [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板 (3 weeks ago)
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. (3 weeks ago)
-- [hyechow/iphone-use](https://github.com/hyechow/iphone-use) - iphone use agent on mac (1 month ago)
-- [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的商业诊断 Skills (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
 - [Indigoochoa](https://github.com/Indigoochoa)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [onlytiancai](https://github.com/onlytiancai)
 - [mbelalhossain718-cpu](https://github.com/mbelalhossain718-cpu)
-- [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
 
 
 ---
