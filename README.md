@@ -76,11 +76,11 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 👯 Check out some of my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
 - [Indigoochoa](https://github.com/Indigoochoa)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [onlytiancai](https://github.com/onlytiancai)
-- [mbelalhossain718-cpu](https://github.com/mbelalhossain718-cpu)
 
 
 ---
