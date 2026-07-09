@@ -37,8 +37,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4), today) - The PHP Unit Testing framework.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.63.0](https://github.com/laravel/framework/releases/tag/v12.63.0), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4), 1 day ago) - The PHP Unit Testing framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.63.0](https://github.com/laravel/framework/releases/tag/v12.63.0), 2 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.1.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.1.2), 1 week ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [composer/composer](https://github.com/composer/composer) ([2.10.2](https://github.com/composer/composer/releases/tag/2.10.2), 1 week ago) - Dependency Manager for PHP
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 2 weeks ago) - A PHPStan rule to be used with the thecodingmachine/safe package
@@ -63,15 +63,15 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
-- [AZidan/codemap](https://github.com/AZidan/codemap) - LLM-friendly codebase indexer that reduces token consumption by 60-80% by enabling targeted line-range reads instead of full file reads (today)
-- [hijohnnylin/neuronpedia](https://github.com/hijohnnylin/neuronpedia) - open source interpretability platform 🧠 (1 day ago)
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (1 day ago)
-- [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned (2 days ago)
+- [AZidan/codemap](https://github.com/AZidan/codemap) - LLM-friendly codebase indexer that reduces token consumption by 60-80% by enabling targeted line-range reads instead of full file reads (1 day ago)
+- [hijohnnylin/neuronpedia](https://github.com/hijohnnylin/neuronpedia) - open source interpretability platform 🧠 (2 days ago)
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (2 days ago)
+- [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned (3 days ago)
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents (1 week ago)
-- [cottenpanda/yanliuportfolio](https://github.com/cottenpanda/yanliuportfolio) -  (2 weeks ago)
-- [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复 (2 weeks ago)
-- [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli) -  (2 weeks ago)
-- [WEIFENG2333/phistory](https://github.com/WEIFENG2333/phistory) - Phistory automatically archives versioned system prompt snapshots from agent CLIs like Claude Code, Codex, OpenClaw, and Hermes. (2 weeks ago)
+- [cottenpanda/yanliuportfolio](https://github.com/cottenpanda/yanliuportfolio) -  (3 weeks ago)
+- [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复 (3 weeks ago)
+- [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli) -  (3 weeks ago)
+- [WEIFENG2333/phistory](https://github.com/WEIFENG2333/phistory) - Phistory automatically archives versioned system prompt snapshots from agent CLIs like Claude Code, Codex, OpenClaw, and Hermes. (3 weeks ago)
 - [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板 (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
