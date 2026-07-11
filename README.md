@@ -37,8 +37,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4), 2 days ago) - The PHP Unit Testing framework.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.63.0](https://github.com/laravel/framework/releases/tag/v12.63.0), 3 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4), 3 days ago) - The PHP Unit Testing framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.63.0](https://github.com/laravel/framework/releases/tag/v12.63.0), 4 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.1.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.1.2), 1 week ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [composer/composer](https://github.com/composer/composer) ([2.10.2](https://github.com/composer/composer/releases/tag/2.10.2), 1 week ago) - Dependency Manager for PHP
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 2 weeks ago) - A PHPStan rule to be used with the thecodingmachine/safe package
@@ -63,13 +63,13 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
-- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers. (today)
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images &amp; video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen &amp; 20&#43; CLIs via BYOK. (1 day ago)
-- [outpacelabs/avatars](https://github.com/outpacelabs/avatars) -  (1 day ago)
-- [AZidan/codemap](https://github.com/AZidan/codemap) - LLM-friendly codebase indexer that reduces token consumption by 60-80% by enabling targeted line-range reads instead of full file reads (2 days ago)
-- [hijohnnylin/neuronpedia](https://github.com/hijohnnylin/neuronpedia) - open source interpretability platform 🧠 (3 days ago)
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (3 days ago)
-- [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned (4 days ago)
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers. (1 day ago)
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images &amp; video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen &amp; 20&#43; CLIs via BYOK. (2 days ago)
+- [outpacelabs/avatars](https://github.com/outpacelabs/avatars) -  (2 days ago)
+- [AZidan/codemap](https://github.com/AZidan/codemap) - LLM-friendly codebase indexer that reduces token consumption by 60-80% by enabling targeted line-range reads instead of full file reads (3 days ago)
+- [hijohnnylin/neuronpedia](https://github.com/hijohnnylin/neuronpedia) - open source interpretability platform 🧠 (4 days ago)
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (4 days ago)
+- [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned (5 days ago)
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents (2 weeks ago)
 - [cottenpanda/yanliuportfolio](https://github.com/cottenpanda/yanliuportfolio) -  (3 weeks ago)
 - [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复 (3 weeks ago)
