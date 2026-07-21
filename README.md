@@ -37,11 +37,11 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.64.0](https://github.com/laravel/framework/releases/tag/v12.64.0), 6 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.64.0](https://github.com/laravel/framework/releases/tag/v12.64.0), 1 week ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4), 1 week ago) - The PHP Unit Testing framework.
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.1.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.1.2), 2 weeks ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [composer/composer](https://github.com/composer/composer) ([2.10.2](https://github.com/composer/composer/releases/tag/2.10.2), 2 weeks ago) - Dependency Manager for PHP
-- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 3 weeks ago) - A PHPStan rule to be used with the thecodingmachine/safe package
+- [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 4 weeks ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.12](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.12), 1 month ago) - Easily install PHP extensions in Docker containers
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), 1 month ago) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.1](https://github.com/symplify/monorepo-builder/releases/tag/12.7.1), 2 months ago) - Composer tools to maintain a monorepo
@@ -53,25 +53,25 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [Add kayw-geek/phpstan-type-trace to extension library](https://github.com/phpstan/phpstan/pull/14712) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
 - [[13.x] Return FAILURE exit code when key:generate is prohibited](https://github.com/laravel/framework/pull/60273) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
 - [[13.x] Restore base_path() guard in SQLiteConnector lost during merge race](https://github.com/laravel/framework/pull/60272) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
-- [[13.x] Fix path separator encoding in temporaryUrl on local disk](https://github.com/laravel/framework/pull/60230) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
+- [[13.x] Fix path separator encoding in temporaryUrl on local disk](https://github.com/laravel/framework/pull/60230) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
 - [[13.x] Resolve scheduled event callback parameter by type rather than name](https://github.com/laravel/framework/pull/60197) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
 - [Fix uninitialized typed $container error on Symfony Console 8.1](https://github.com/symplify/monorepo-builder/pull/119) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
 - [[13.x] Add Batch::addOrFail() and use in PendingBatch::dispatch()](https://github.com/laravel/framework/pull/59945) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
 - [Add &#34;Add to .git/info/exclude&#34; action in project_panel and git_panel](https://github.com/zed-industries/zed/pull/55140) on [zed-industries/zed](https://github.com/zed-industries/zed) (2 months ago)
 - [Add parameterized disableAutoloadMerge(sections, forTypes); deprecate zero-arg form](https://github.com/symplify/monorepo-builder/pull/117) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
-- [Honor disablePackageReplace() in RootRemoveComposerJsonDecorator](https://github.com/symplify/monorepo-builder/pull/116) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
+- [Honor disablePackageReplace() in RootRemoveComposerJsonDecorator](https://github.com/symplify/monorepo-builder/pull/116) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (3 days ago)
-- [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (5 days ago)
-- [shipmonk-rnd/passkeys](https://github.com/shipmonk-rnd/passkeys) - zero dependency spec-compliant passkey library for php (6 days ago)
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (4 days ago)
+- [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (6 days ago)
+- [shipmonk-rnd/passkeys](https://github.com/shipmonk-rnd/passkeys) - zero dependency spec-compliant passkey library for php (1 week ago)
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers. (1 week ago)
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images &amp; video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen &amp; 20&#43; CLIs via BYOK. (1 week ago)
 - [outpacelabs/avatars](https://github.com/outpacelabs/avatars) -  (1 week ago)
 - [AZidan/codemap](https://github.com/AZidan/codemap) - LLM-friendly codebase indexer that reduces token consumption by 60-80% by enabling targeted line-range reads instead of full file reads (1 week ago)
-- [hijohnnylin/neuronpedia](https://github.com/hijohnnylin/neuronpedia) - open source interpretability platform 🧠 (1 week ago)
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (1 week ago)
+- [hijohnnylin/neuronpedia](https://github.com/hijohnnylin/neuronpedia) - open source interpretability platform 🧠 (2 weeks ago)
+- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (2 weeks ago)
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
