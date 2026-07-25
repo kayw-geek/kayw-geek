@@ -37,8 +37,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v13.22.0](https://github.com/laravel/framework/releases/tag/v13.22.0), today) - Laravel is a web application framework with expressive, elegant syntax.
-- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.0](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.0), 3 days ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.22.0](https://github.com/laravel/framework/releases/tag/v13.22.0), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.0](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.0), 4 days ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.4), 2 weeks ago) - The PHP Unit Testing framework.
 - [composer/composer](https://github.com/composer/composer) ([2.10.2](https://github.com/composer/composer/releases/tag/2.10.2), 3 weeks ago) - Dependency Manager for PHP
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 1 month ago) - A PHPStan rule to be used with the thecodingmachine/safe package
@@ -51,8 +51,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 #### 🔨 My recent Pull Requests
 
 - [Add kayw-geek/phpstan-type-trace to extension library](https://github.com/phpstan/phpstan/pull/14712) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (1 month ago)
-- [[13.x] Return FAILURE exit code when key:generate is prohibited](https://github.com/laravel/framework/pull/60273) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
-- [[13.x] Restore base_path() guard in SQLiteConnector lost during merge race](https://github.com/laravel/framework/pull/60272) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
+- [[13.x] Return FAILURE exit code when key:generate is prohibited](https://github.com/laravel/framework/pull/60273) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
+- [[13.x] Restore base_path() guard in SQLiteConnector lost during merge race](https://github.com/laravel/framework/pull/60272) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
 - [[13.x] Fix path separator encoding in temporaryUrl on local disk](https://github.com/laravel/framework/pull/60230) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
 - [[13.x] Resolve scheduled event callback parameter by type rather than name](https://github.com/laravel/framework/pull/60197) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
 - [Fix uninitialized typed $container error on Symfony Console 8.1](https://github.com/symplify/monorepo-builder/pull/119) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
@@ -63,9 +63,9 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
-- [CatsJuice/sticker-forge](https://github.com/CatsJuice/sticker-forge) - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics. (today)
-- [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) - Codex skill for generating quiet minimal zine-style editorial poster prompts and images. (1 day ago)
-- [swoole/typephp](https://github.com/swoole/typephp) -  (3 days ago)
+- [CatsJuice/sticker-forge](https://github.com/CatsJuice/sticker-forge) - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics. (1 day ago)
+- [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) - Codex skill for generating quiet minimal zine-style editorial poster prompts and images. (2 days ago)
+- [swoole/typephp](https://github.com/swoole/typephp) -  (4 days ago)
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (1 week ago)
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (1 week ago)
 - [shipmonk-rnd/passkeys](https://github.com/shipmonk-rnd/passkeys) - zero dependency spec-compliant passkey library for php (1 week ago)
