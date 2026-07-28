@@ -37,9 +37,9 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v13.23.0](https://github.com/laravel/framework/releases/tag/v13.23.0), today) - Laravel is a web application framework with expressive, elegant syntax.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.5), 2 days ago) - The PHP Unit Testing framework.
-- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.0](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.0), 6 days ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.23.0](https://github.com/laravel/framework/releases/tag/v13.23.0), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.5), 3 days ago) - The PHP Unit Testing framework.
+- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.0](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.0), 1 week ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [composer/composer](https://github.com/composer/composer) ([2.10.2](https://github.com/composer/composer/releases/tag/2.10.2), 3 weeks ago) - Dependency Manager for PHP
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 1 month ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.12](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.12), 1 month ago) - Easily install PHP extensions in Docker containers
@@ -57,22 +57,22 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [[13.x] Resolve scheduled event callback parameter by type rather than name](https://github.com/laravel/framework/pull/60197) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
 - [Fix uninitialized typed $container error on Symfony Console 8.1](https://github.com/symplify/monorepo-builder/pull/119) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (2 months ago)
 - [[13.x] Add Batch::addOrFail() and use in PendingBatch::dispatch()](https://github.com/laravel/framework/pull/59945) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
-- [Add &#34;Add to .git/info/exclude&#34; action in project_panel and git_panel](https://github.com/zed-industries/zed/pull/55140) on [zed-industries/zed](https://github.com/zed-industries/zed) (2 months ago)
+- [Add &#34;Add to .git/info/exclude&#34; action in project_panel and git_panel](https://github.com/zed-industries/zed/pull/55140) on [zed-industries/zed](https://github.com/zed-industries/zed) (3 months ago)
 - [Add parameterized disableAutoloadMerge(sections, forTypes); deprecate zero-arg form](https://github.com/symplify/monorepo-builder/pull/117) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 months ago)
 - [Honor disablePackageReplace() in RootRemoveComposerJsonDecorator](https://github.com/symplify/monorepo-builder/pull/116) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [CatsJuice/sticker-forge](https://github.com/CatsJuice/sticker-forge) - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics. (3 days ago)
-- [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) - Codex skill for generating quiet minimal zine-style editorial poster prompts and images. (4 days ago)
-- [swoole/typephp](https://github.com/swoole/typephp) -  (6 days ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [READ ONLY] Split of turbo-ext directory from phpstan-src repository. phpstan_turbo is a native acceleration extension for PHPStan. (today)
+- [CatsJuice/sticker-forge](https://github.com/CatsJuice/sticker-forge) - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics. (4 days ago)
+- [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) - Codex skill for generating quiet minimal zine-style editorial poster prompts and images. (5 days ago)
+- [swoole/typephp](https://github.com/swoole/typephp) -  (1 week ago)
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (1 week ago)
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (1 week ago)
-- [shipmonk-rnd/passkeys](https://github.com/shipmonk-rnd/passkeys) - zero dependency spec-compliant passkey library for php (1 week ago)
+- [shipmonk-rnd/passkeys](https://github.com/shipmonk-rnd/passkeys) - zero dependency spec-compliant passkey library for php (2 weeks ago)
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers. (2 weeks ago)
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images &amp; video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen &amp; 20&#43; CLIs via BYOK. (2 weeks ago)
 - [outpacelabs/avatars](https://github.com/outpacelabs/avatars) -  (2 weeks ago)
-- [AZidan/codemap](https://github.com/AZidan/codemap) - LLM-friendly codebase indexer that reduces token consumption by 60-80% by enabling targeted line-range reads instead of full file reads (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
