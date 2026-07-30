@@ -37,8 +37,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.6), 1 day ago) - The PHP Unit Testing framework.
-- [laravel/framework](https://github.com/laravel/framework) ([v13.23.0](https://github.com/laravel/framework/releases/tag/v13.23.0), 2 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.2.6), 2 days ago) - The PHP Unit Testing framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.23.0](https://github.com/laravel/framework/releases/tag/v13.23.0), 3 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.0](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.0), 1 week ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [composer/composer](https://github.com/composer/composer) ([2.10.2](https://github.com/composer/composer/releases/tag/2.10.2), 4 weeks ago) - Dependency Manager for PHP
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 1 month ago) - A PHPStan rule to be used with the thecodingmachine/safe package
@@ -63,16 +63,16 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
-- [mintdotgg/mint-playground](https://github.com/mintdotgg/mint-playground) - Open-source Three.js experiences built with Mint MCP and Mint Three.js Skills (today)
-- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [READ ONLY] Split of turbo-ext directory from phpstan-src repository. phpstan_turbo is a native acceleration extension for PHPStan. (1 day ago)
-- [CatsJuice/sticker-forge](https://github.com/CatsJuice/sticker-forge) - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics. (5 days ago)
-- [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) - Codex skill for generating quiet minimal zine-style editorial poster prompts and images. (6 days ago)
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (today)
+- [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale. (today)
+- [mintdotgg/mint-playground](https://github.com/mintdotgg/mint-playground) - Open-source Three.js experiences built with Mint MCP and Mint Three.js Skills (1 day ago)
+- [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [READ ONLY] Split of turbo-ext directory from phpstan-src repository. phpstan_turbo is a native acceleration extension for PHPStan. (2 days ago)
+- [CatsJuice/sticker-forge](https://github.com/CatsJuice/sticker-forge) - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics. (6 days ago)
+- [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) - Codex skill for generating quiet minimal zine-style editorial poster prompts and images. (1 week ago)
 - [swoole/typephp](https://github.com/swoole/typephp) -  (1 week ago)
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (1 week ago)
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. (2 weeks ago)
 - [shipmonk-rnd/passkeys](https://github.com/shipmonk-rnd/passkeys) - zero dependency spec-compliant passkey library for php (2 weeks ago)
-- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers. (2 weeks ago)
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images &amp; video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen &amp; 20&#43; CLIs via BYOK. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
