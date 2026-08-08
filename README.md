@@ -37,8 +37,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.0), today) - The PHP Unit Testing framework.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.65.0](https://github.com/laravel/framework/releases/tag/v12.65.0), 2 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.0), 1 day ago) - The PHP Unit Testing framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.65.0](https://github.com/laravel/framework/releases/tag/v12.65.0), 3 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.2](https://github.com/symplify/monorepo-builder/releases/tag/12.7.2), 1 week ago) - Composer tools to maintain a monorepo
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.0](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.0), 2 weeks ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [composer/composer](https://github.com/composer/composer) ([2.10.2](https://github.com/composer/composer/releases/tag/2.10.2), 1 month ago) - Dependency Manager for PHP
@@ -63,8 +63,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
-- [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws) - A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window. (2 days ago)
-- [mayfly42/ThreatReport](https://github.com/mayfly42/ThreatReport) -  (4 days ago)
+- [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws) - A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window. (3 days ago)
+- [mayfly42/ThreatReport](https://github.com/mayfly42/ThreatReport) -  (5 days ago)
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (1 week ago)
 - [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale. (1 week ago)
 - [mintdotgg/mint-playground](https://github.com/mintdotgg/mint-playground) - Open-source Three.js experiences built with Mint MCP and Mint Three.js Skills (1 week ago)
