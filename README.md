@@ -63,6 +63,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
+- [Evianis/travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction) - A source-available Codex skill for distilling photographs into sparse editorial abstractions. (today)
 - [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws) - A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window. (6 days ago)
 - [mayfly42/ThreatReport](https://github.com/mayfly42/ThreatReport) -  (1 week ago)
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (1 week ago)
@@ -72,7 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [CatsJuice/sticker-forge](https://github.com/CatsJuice/sticker-forge) - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics. (2 weeks ago)
 - [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) - Codex skill for generating quiet minimal zine-style editorial poster prompts and images. (2 weeks ago)
 - [swoole/typephp](https://github.com/swoole/typephp) -  (3 weeks ago)
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
