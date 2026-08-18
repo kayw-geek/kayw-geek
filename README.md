@@ -37,8 +37,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v13.26.0](https://github.com/laravel/framework/releases/tag/v13.26.0), today) - Laravel is a web application framework with expressive, elegant syntax.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.1), 5 days ago) - The PHP Unit Testing framework.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.66.0](https://github.com/laravel/framework/releases/tag/v12.66.0), 1 week ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.2](https://github.com/symplify/monorepo-builder/releases/tag/12.7.2), 2 weeks ago) - Composer tools to maintain a monorepo
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.0](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.0), 4 weeks ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [composer/composer](https://github.com/composer/composer) ([2.10.2](https://github.com/composer/composer/releases/tag/2.10.2), 1 month ago) - Dependency Manager for PHP
