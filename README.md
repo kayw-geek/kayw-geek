@@ -63,6 +63,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. (today)
 - [block/berd](https://github.com/block/berd) - a desktop app for getting work done with any model (5 days ago)
 - [Evianis/travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction) - A source-available Codex skill for distilling photographs into sparse editorial abstractions. (2 weeks ago)
 - [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws) - A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window. (3 weeks ago)
@@ -72,7 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [mintdotgg/mint-playground](https://github.com/mintdotgg/mint-playground) - Open-source Three.js experiences built with Mint MCP and Mint Three.js Skills (4 weeks ago)
 - [phpstan/turbo-ext](https://github.com/phpstan/turbo-ext) - [READ ONLY] Split of turbo-ext directory from phpstan-src repository. phpstan_turbo is a native acceleration extension for PHPStan. (4 weeks ago)
 - [CatsJuice/sticker-forge](https://github.com/CatsJuice/sticker-forge) - A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics. (1 month ago)
-- [LiamGvchi/gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) - Codex skill for generating quiet minimal zine-style editorial poster prompts and images. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
