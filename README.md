@@ -37,10 +37,10 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v13.30.1](https://github.com/laravel/framework/releases/tag/v13.30.1), today) - Laravel is a web application framework with expressive, elegant syntax.
-- [composer/composer](https://github.com/composer/composer) ([2.2.30](https://github.com/composer/composer/releases/tag/2.2.30), 5 days ago) - Dependency Manager for PHP
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.2), 5 days ago) - The PHP Unit Testing framework.
-- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.1](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.1), 6 days ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.30.1](https://github.com/laravel/framework/releases/tag/v13.30.1), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [composer/composer](https://github.com/composer/composer) ([2.2.30](https://github.com/composer/composer/releases/tag/2.2.30), 6 days ago) - Dependency Manager for PHP
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.2), 6 days ago) - The PHP Unit Testing framework.
+- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.1](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.1), 1 week ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.2](https://github.com/symplify/monorepo-builder/releases/tag/12.7.2), 1 month ago) - Composer tools to maintain a monorepo
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 2 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.12](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.12), 2 months ago) - Easily install PHP extensions in Docker containers
@@ -63,14 +63,14 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
-- [YueChan/Live](https://github.com/YueChan/Live) - 收集于互联网的一些高清直播源。 (1 day ago)
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (5 days ago)
-- [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (5 days ago)
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. (6 days ago)
+- [YueChan/Live](https://github.com/YueChan/Live) - 收集于互联网的一些高清直播源。 (2 days ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (6 days ago)
+- [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (6 days ago)
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. (1 week ago)
 - [block/berd](https://github.com/block/berd) - a desktop app for getting work done with any model (1 week ago)
 - [Evianis/travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction) - A source-available Codex skill for distilling photographs into sparse editorial abstractions. (3 weeks ago)
-- [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws) - A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window. (3 weeks ago)
-- [mayfly42/ThreatReport](https://github.com/mayfly42/ThreatReport) -  (4 weeks ago)
+- [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws) - A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window. (4 weeks ago)
+- [mayfly42/ThreatReport](https://github.com/mayfly42/ThreatReport) -  (1 month ago)
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (1 month ago)
 - [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale. (1 month ago)
 
