@@ -63,6 +63,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
+- [yanliudesign/mono-color-skill](https://github.com/yanliudesign/mono-color-skill) - One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography. (today)
 - [Do1e/mijia-api](https://github.com/Do1e/mijia-api) - 使用代码、CLI、MCP 直接控制米家设备。 (2 days ago)
 - [YueChan/Live](https://github.com/YueChan/Live) - 收集于互联网的一些高清直播源。 (4 days ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 week ago)
@@ -72,7 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [Evianis/travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction) - A source-available Codex skill for distilling photographs into sparse editorial abstractions. (3 weeks ago)
 - [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws) - A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window. (1 month ago)
 - [mayfly42/ThreatReport](https://github.com/mayfly42/ThreatReport) -  (1 month ago)
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
