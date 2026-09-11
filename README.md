@@ -32,13 +32,13 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (1 month ago)
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (3 months ago)
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) - See the full type-inference chain of any value in PHPStan, not just a single snapshot. (3 months ago)
-- [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt (3 months ago)
+- [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt (4 months ago)
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) - GitLab API v4 client for PHP (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.3), 1 day ago) - The PHP Unit Testing framework.
-- [laravel/framework](https://github.com/laravel/framework) ([v12.69.2](https://github.com/laravel/framework/releases/tag/v12.69.2), 2 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.3), 2 days ago) - The PHP Unit Testing framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.69.2](https://github.com/laravel/framework/releases/tag/v12.69.2), 3 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [composer/composer](https://github.com/composer/composer) ([2.2.30](https://github.com/composer/composer/releases/tag/2.2.30), 2 weeks ago) - Dependency Manager for PHP
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.1](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.1), 2 weeks ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.2](https://github.com/symplify/monorepo-builder/releases/tag/12.7.2), 1 month ago) - Composer tools to maintain a monorepo
@@ -63,13 +63,13 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
-- [yanliudesign/mono-color-skill](https://github.com/yanliudesign/mono-color-skill) - One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography. (6 days ago)
+- [yanliudesign/mono-color-skill](https://github.com/yanliudesign/mono-color-skill) - One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography. (1 week ago)
 - [Do1e/mijia-api](https://github.com/Do1e/mijia-api) - 使用代码、CLI、MCP 直接控制米家设备。 (1 week ago)
 - [YueChan/Live](https://github.com/YueChan/Live) - 收集于互联网的一些高清直播源。 (1 week ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 weeks ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (2 weeks ago)
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. (2 weeks ago)
-- [block/berd](https://github.com/block/berd) - a desktop app for getting work done with any model (2 weeks ago)
+- [block/berd](https://github.com/block/berd) - a desktop app for getting work done with any model (3 weeks ago)
 - [Evianis/travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction) - A source-available Codex skill for distilling photographs into sparse editorial abstractions. (1 month ago)
 - [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws) - A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window. (1 month ago)
 - [mayfly42/ThreatReport](https://github.com/mayfly42/ThreatReport) -  (1 month ago)
