@@ -63,6 +63,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
+- [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) - Evidence-backed use cases, prompts, integrations, evaluations, and safety notes for OpenAI GPT-6 Astra. (today)
 - [SanyamPunia/www](https://github.com/SanyamPunia/www) - ✨ new www (2 days ago)
 - [yanliudesign/mono-color-skill](https://github.com/yanliudesign/mono-color-skill) - One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography. (1 week ago)
 - [Do1e/mijia-api](https://github.com/Do1e/mijia-api) - 使用代码、CLI、MCP 直接控制米家设备。 (2 weeks ago)
@@ -72,7 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. (3 weeks ago)
 - [block/berd](https://github.com/block/berd) - a desktop app for getting work done with any model (3 weeks ago)
 - [Evianis/travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction) - A source-available Codex skill for distilling photographs into sparse editorial abstractions. (1 month ago)
-- [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws) - A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
