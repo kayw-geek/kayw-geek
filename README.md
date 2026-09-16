@@ -37,9 +37,9 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v13.32.0](https://github.com/laravel/framework/releases/tag/v13.32.0), today) - Laravel is a web application framework with expressive, elegant syntax.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.4), today) - The PHP Unit Testing framework.
-- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.2), 1 day ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.32.0](https://github.com/laravel/framework/releases/tag/v13.32.0), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.4), 1 day ago) - The PHP Unit Testing framework.
+- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.2), 2 days ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [composer/composer](https://github.com/composer/composer) ([2.2.30](https://github.com/composer/composer/releases/tag/2.2.30), 2 weeks ago) - Dependency Manager for PHP
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.2](https://github.com/symplify/monorepo-builder/releases/tag/12.7.2), 1 month ago) - Composer tools to maintain a monorepo
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 2 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
@@ -63,13 +63,13 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
-- [SanyamPunia/www](https://github.com/SanyamPunia/www) - ✨ new www (1 day ago)
+- [SanyamPunia/www](https://github.com/SanyamPunia/www) - ✨ new www (2 days ago)
 - [yanliudesign/mono-color-skill](https://github.com/yanliudesign/mono-color-skill) - One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography. (1 week ago)
-- [Do1e/mijia-api](https://github.com/Do1e/mijia-api) - 使用代码、CLI、MCP 直接控制米家设备。 (1 week ago)
+- [Do1e/mijia-api](https://github.com/Do1e/mijia-api) - 使用代码、CLI、MCP 直接控制米家设备。 (2 weeks ago)
 - [YueChan/Live](https://github.com/YueChan/Live) - 收集于互联网的一些高清直播源。 (2 weeks ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 weeks ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (2 weeks ago)
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. (2 weeks ago)
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. (3 weeks ago)
 - [block/berd](https://github.com/block/berd) - a desktop app for getting work done with any model (3 weeks ago)
 - [Evianis/travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction) - A source-available Codex skill for distilling photographs into sparse editorial abstractions. (1 month ago)
 - [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws) - A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window. (1 month ago)
