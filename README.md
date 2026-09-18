@@ -37,7 +37,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.26](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.26), today) - Easily install PHP extensions in Docker containers
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.11.27](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.11.27), today) - Easily install PHP extensions in Docker containers
 - [laravel/framework](https://github.com/laravel/framework) ([v13.32.0](https://github.com/laravel/framework/releases/tag/v13.32.0), 3 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.4), 3 days ago) - The PHP Unit Testing framework.
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.2), 4 days ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
