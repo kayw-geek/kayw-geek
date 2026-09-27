@@ -37,9 +37,9 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.36](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.36), 1 day ago) - The PHP Unit Testing framework.
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.12.0](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.12.0), 2 days ago) - Easily install PHP extensions in Docker containers
-- [laravel/framework](https://github.com/laravel/framework) ([v13.33.0](https://github.com/laravel/framework/releases/tag/v13.33.0), 4 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.36](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.36), 2 days ago) - The PHP Unit Testing framework.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.12.0](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.12.0), 3 days ago) - Easily install PHP extensions in Docker containers
+- [laravel/framework](https://github.com/laravel/framework) ([v13.33.0](https://github.com/laravel/framework/releases/tag/v13.33.0), 5 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.2), 1 week ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [composer/composer](https://github.com/composer/composer) ([2.2.30](https://github.com/composer/composer/releases/tag/2.2.30), 1 month ago) - Dependency Manager for PHP
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.2](https://github.com/symplify/monorepo-builder/releases/tag/12.7.2), 1 month ago) - Composer tools to maintain a monorepo
@@ -56,14 +56,14 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [[13.x] Fix path separator encoding in temporaryUrl on local disk](https://github.com/laravel/framework/pull/60230) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
 - [[13.x] Resolve scheduled event callback parameter by type rather than name](https://github.com/laravel/framework/pull/60197) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
 - [Fix uninitialized typed $container error on Symfony Console 8.1](https://github.com/symplify/monorepo-builder/pull/119) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (4 months ago)
-- [[13.x] Add Batch::addOrFail() and use in PendingBatch::dispatch()](https://github.com/laravel/framework/pull/59945) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
+- [[13.x] Add Batch::addOrFail() and use in PendingBatch::dispatch()](https://github.com/laravel/framework/pull/59945) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
 - [Add &#34;Add to .git/info/exclude&#34; action in project_panel and git_panel](https://github.com/zed-industries/zed/pull/55140) on [zed-industries/zed](https://github.com/zed-industries/zed) (5 months ago)
 - [Add parameterized disableAutoloadMerge(sections, forTypes); deprecate zero-arg form](https://github.com/symplify/monorepo-builder/pull/117) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (5 months ago)
 - [Honor disablePackageReplace() in RootRemoveComposerJsonDecorator](https://github.com/symplify/monorepo-builder/pull/116) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [tushen6/Tomorrow](https://github.com/tushen6/Tomorrow) - 数据来源于网络 (4 days ago)
+- [tushen6/Tomorrow](https://github.com/tushen6/Tomorrow) - 数据来源于网络 (5 days ago)
 - [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) - Evidence-backed use cases, prompts, integrations, evaluations, and safety notes for OpenAI GPT-6 Astra. (1 week ago)
 - [SanyamPunia/www](https://github.com/SanyamPunia/www) - ✨ new www (1 week ago)
 - [yanliudesign/mono-color-skill](https://github.com/yanliudesign/mono-color-skill) - One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography. (3 weeks ago)
