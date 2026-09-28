@@ -63,6 +63,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
+- [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) - 282 viral videos made with Claude Opus 5.5, each with the exact prompt. Watch every original next to a live remake on Skillry. (today)
 - [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS (today)
 - [tushen6/Tomorrow](https://github.com/tushen6/Tomorrow) - 数据来源于网络 (6 days ago)
 - [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) - Evidence-backed use cases, prompts, integrations, evaluations, and safety notes for OpenAI GPT-6 Astra. (1 week ago)
@@ -72,7 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [YueChan/Live](https://github.com/YueChan/Live) - 收集于互联网的一些高清直播源。 (4 weeks ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 month ago)
 - [olvlvl/composer-attribute-collector](https://github.com/olvlvl/composer-attribute-collector) - A convenient and near zero-cost way to retrieve targets of PHP 8 attributes (1 month ago)
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
