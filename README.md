@@ -37,9 +37,9 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v12.69.3](https://github.com/laravel/framework/releases/tag/v12.69.3), today) - Laravel is a web application framework with expressive, elegant syntax.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.3.6), today) - The PHP Unit Testing framework.
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.12.0](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.12.0), 5 days ago) - Easily install PHP extensions in Docker containers
-- [laravel/framework](https://github.com/laravel/framework) ([v13.33.0](https://github.com/laravel/framework/releases/tag/v13.33.0), 1 week ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.2), 2 weeks ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [composer/composer](https://github.com/composer/composer) ([2.2.30](https://github.com/composer/composer/releases/tag/2.2.30), 1 month ago) - Dependency Manager for PHP
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.2](https://github.com/symplify/monorepo-builder/releases/tag/12.7.2), 2 months ago) - Composer tools to maintain a monorepo
