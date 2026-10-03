@@ -79,8 +79,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [standardgalactic](https://github.com/standardgalactic)
 - [noorgx](https://github.com/noorgx)
 - [Dvurechensky](https://github.com/Dvurechensky)
-- [Nai64](https://github.com/Nai64)
 - [Indigoochoa](https://github.com/Indigoochoa)
+- [rodrigogalura](https://github.com/rodrigogalura)
 
 
 ---
