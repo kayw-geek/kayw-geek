@@ -63,6 +63,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
+- [finnvoor/PiDurableKit](https://github.com/finnvoor/PiDurableKit) - Durable AI agents for Apple platforms: pi-durable on JavaScriptCore with a Swift API (today)
 - [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) - Steam Play for macOS (today)
 - [zoolapp/aime](https://github.com/zoolapp/aime) - 艾么输入法 · An open-source Chinese input method for macOS, built on RIME. Local first, optional AI. (1 day ago)
 - [corvofeng/atv-core](https://github.com/corvofeng/atv-core) -  (1 week ago)
@@ -72,7 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS (1 week ago)
 - [tushen6/Tomorrow](https://github.com/tushen6/Tomorrow) - 数据来源于网络 (2 weeks ago)
 - [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) - Evidence-backed use cases, prompts, integrations, evaluations, and safety notes for OpenAI GPT-6 Astra. (3 weeks ago)
-- [SanyamPunia/www](https://github.com/SanyamPunia/www) - ✨ new www (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
