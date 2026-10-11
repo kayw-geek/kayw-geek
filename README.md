@@ -32,13 +32,13 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 months ago)
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (4 months ago)
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) - See the full type-inference chain of any value in PHPStan, not just a single snapshot. (4 months ago)
-- [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt (4 months ago)
+- [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt (5 months ago)
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) - GitLab API v4 client for PHP (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v13.35.0](https://github.com/laravel/framework/releases/tag/v13.35.0), 4 days ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1), 5 days ago) - The PHP Unit Testing framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.35.0](https://github.com/laravel/framework/releases/tag/v13.35.0), 5 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1), 6 days ago) - The PHP Unit Testing framework.
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.12.0](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.12.0), 2 weeks ago) - Easily install PHP extensions in Docker containers
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.2), 3 weeks ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [composer/composer](https://github.com/composer/composer) ([2.2.30](https://github.com/composer/composer/releases/tag/2.2.30), 1 month ago) - Dependency Manager for PHP
@@ -50,7 +50,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔨 My recent Pull Requests
 
-- [iPhone OCR works on macOS 27 and on a small mirroring window](https://github.com/ShawnPana/phone-harness/pull/109) on [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) (2 days ago)
+- [iPhone OCR works on macOS 27 and on a small mirroring window](https://github.com/ShawnPana/phone-harness/pull/109) on [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) (3 days ago)
 - [Add kayw-geek/phpstan-type-trace to extension library](https://github.com/phpstan/phpstan/pull/14712) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 months ago)
 - [[13.x] Return FAILURE exit code when key:generate is prohibited](https://github.com/laravel/framework/pull/60273) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
 - [[13.x] Restore base_path() guard in SQLiteConnector lost during merge race](https://github.com/laravel/framework/pull/60272) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
@@ -63,9 +63,9 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
-- [finnvoor/PiDurableKit](https://github.com/finnvoor/PiDurableKit) - Durable AI agents for Apple platforms: pi-durable on JavaScriptCore with a Swift API (1 day ago)
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) - Steam Play for macOS (1 day ago)
-- [zoolapp/aime](https://github.com/zoolapp/aime) - 艾么输入法 · An open-source Chinese input method for macOS, built on RIME. Local first, optional AI. (2 days ago)
+- [finnvoor/PiDurableKit](https://github.com/finnvoor/PiDurableKit) - Durable AI agents for Apple platforms: pi-durable on JavaScriptCore with a Swift API (2 days ago)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) - Steam Play for macOS (2 days ago)
+- [zoolapp/aime](https://github.com/zoolapp/aime) - 艾么输入法 · An open-source Chinese input method for macOS, built on RIME. Local first, optional AI. (3 days ago)
 - [corvofeng/atv-core](https://github.com/corvofeng/atv-core) -  (1 week ago)
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number (1 week ago)
 - [MengTo/threeui](https://github.com/MengTo/threeui) - Open-source ThreeUI Community catalog with live interactive components and complete Community source. (1 week ago)
