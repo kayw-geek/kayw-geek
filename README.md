@@ -63,6 +63,9 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
+- [OpenMinis/iCTRL](https://github.com/OpenMinis/iCTRL) - An AI-friendly iOS/iPadOS automation testing tool built on XCUITest, but more than a testing tool: agents like Codex, Claude Code, Hermes, OpenClaw and Minis can operate your iPhone or iPad wirelessly through an encrypted JSON-RPC 2.0 API (tap, type, read the screen, launch apps, and more). (today)
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows (today)
+- [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) - Open-source iOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone and iPad — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS 兼容层 (today)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 day ago)
 - [finnvoor/PiDurableKit](https://github.com/finnvoor/PiDurableKit) - Durable AI agents for Apple platforms: pi-durable on JavaScriptCore with a Swift API (4 days ago)
 - [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) - Steam Play for macOS (4 days ago)
@@ -70,9 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [corvofeng/atv-core](https://github.com/corvofeng/atv-core) -  (1 week ago)
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number (1 week ago)
 - [MengTo/threeui](https://github.com/MengTo/threeui) - Open-source ThreeUI Community catalog with live interactive components and complete Community source. (2 weeks ago)
-- [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) - A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly. (2 weeks ago)
-- [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS (2 weeks ago)
-- [tushen6/Tomorrow](https://github.com/tushen6/Tomorrow) - 数据来源于网络 (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
