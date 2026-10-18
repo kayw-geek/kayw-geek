@@ -37,9 +37,9 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3), 1 day ago) - The PHP Unit Testing framework.
-- [laravel/framework](https://github.com/laravel/framework) ([v13.37.0](https://github.com/laravel/framework/releases/tag/v13.37.0), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.12.1](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.12.1), 2 days ago) - Easily install PHP extensions in Docker containers
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3), 2 days ago) - The PHP Unit Testing framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.37.0](https://github.com/laravel/framework/releases/tag/v13.37.0), 2 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.12.1](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.12.1), 3 days ago) - Easily install PHP extensions in Docker containers
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.2), 1 month ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [composer/composer](https://github.com/composer/composer) ([2.2.30](https://github.com/composer/composer/releases/tag/2.2.30), 1 month ago) - Dependency Manager for PHP
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.2](https://github.com/symplify/monorepo-builder/releases/tag/12.7.2), 2 months ago) - Composer tools to maintain a monorepo
@@ -63,10 +63,10 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
-- [OpenMinis/iCTRL](https://github.com/OpenMinis/iCTRL) - An AI-friendly iOS/iPadOS automation testing tool built on XCUITest, but more than a testing tool: agents like Codex, Claude Code, Hermes, OpenClaw and Minis can operate your iPhone or iPad wirelessly through an encrypted JSON-RPC 2.0 API (tap, type, read the screen, launch apps, and more). (4 days ago)
-- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows (4 days ago)
-- [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) - Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层 (4 days ago)
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (5 days ago)
+- [OpenMinis/iCTRL](https://github.com/OpenMinis/iCTRL) - An AI-friendly iOS/iPadOS automation testing tool built on XCUITest, but more than a testing tool: agents like Codex, Claude Code, Hermes, OpenClaw and Minis can operate your iPhone or iPad wirelessly through an encrypted JSON-RPC 2.0 API (tap, type, read the screen, launch apps, and more). (5 days ago)
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows (5 days ago)
+- [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) - Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层 (5 days ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (6 days ago)
 - [finnvoor/PiDurableKit](https://github.com/finnvoor/PiDurableKit) - Durable AI agents for Apple platforms: pi-durable on JavaScriptCore with a Swift API (1 week ago)
 - [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) - Steam Play for macOS (1 week ago)
 - [zoolapp/aime](https://github.com/zoolapp/aime) - 艾么输入法 · An open-source Chinese input method for macOS, built on RIME. Local first, optional AI. (1 week ago)
