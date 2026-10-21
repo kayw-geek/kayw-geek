@@ -76,11 +76,11 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 👯 Check out some of my recent followers
 
+- [a4hmad1](https://github.com/a4hmad1)
 - [standardgalactic](https://github.com/standardgalactic)
 - [noorgx](https://github.com/noorgx)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [Indigoochoa](https://github.com/Indigoochoa)
-- [rodrigogalura](https://github.com/rodrigogalura)
 
 
 ---
