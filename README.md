@@ -29,7 +29,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🪅 Recent contributed Repos
 
-- [kayw-geek/yingshicang](https://github.com/kayw-geek/yingshicang) - Personal YingshiCang config (today)
+- [kayw-geek/yingshicang](https://github.com/kayw-geek/yingshicang) - Personal YingshiCang config (1 day ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (2 months ago)
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (4 months ago)
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) - See the full type-inference chain of any value in PHPStan, not just a single snapshot. (4 months ago)
@@ -37,20 +37,20 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.70.1](https://github.com/laravel/framework/releases/tag/v12.70.1), today) - Laravel is a web application framework with expressive, elegant syntax.
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.12.3](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.12.3), 1 day ago) - Easily install PHP extensions in Docker containers
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3), 5 days ago) - The PHP Unit Testing framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.70.1](https://github.com/laravel/framework/releases/tag/v12.70.1), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.12.3](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.12.3), 2 days ago) - Easily install PHP extensions in Docker containers
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3), 6 days ago) - The PHP Unit Testing framework.
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.2), 1 month ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [composer/composer](https://github.com/composer/composer) ([2.2.30](https://github.com/composer/composer/releases/tag/2.2.30), 1 month ago) - Dependency Manager for PHP
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.2](https://github.com/symplify/monorepo-builder/releases/tag/12.7.2), 2 months ago) - Composer tools to maintain a monorepo
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 4 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
-- [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), 4 months ago) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
+- [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), 5 months ago) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
 - [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) ([v0.3.0](https://github.com/kayw-geek/x-spam-cast/releases/tag/v0.3.0), 5 months ago) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.0](https://github.com/GitLabPHP/Client/releases/tag/12.1.0), 5 months ago) - GitLab API v4 client for PHP
 
 #### 🔨 My recent Pull Requests
 
-- [iPhone OCR works on macOS 27 and on a small mirroring window](https://github.com/ShawnPana/phone-harness/pull/109) on [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) (1 week ago)
+- [iPhone OCR works on macOS 27 and on a small mirroring window](https://github.com/ShawnPana/phone-harness/pull/109) on [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) (2 weeks ago)
 - [Add kayw-geek/phpstan-type-trace to extension library](https://github.com/phpstan/phpstan/pull/14712) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (4 months ago)
 - [[13.x] Return FAILURE exit code when key:generate is prohibited](https://github.com/laravel/framework/pull/60273) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
 - [[13.x] Restore base_path() guard in SQLiteConnector lost during merge race](https://github.com/laravel/framework/pull/60272) on [laravel/framework](https://github.com/laravel/framework) (4 months ago)
@@ -63,16 +63,16 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
-- [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated. (1 day ago)
-- [mytv-android/myDV](https://github.com/mytv-android/myDV) - 保持深呼吸！ (1 day ago)
-- [mytv-android/bv](https://github.com/mytv-android/bv) - 哔哩哔哩 的第三方 Android TV 应用。A third-party Android TV app for Bilibili. （自用修改版） (1 day ago)
-- [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) - Material 3 Expressive 风格的Android/Android TV IPTV播放器，内建Media3,IJKplayer和 VLC。A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC. (1 day ago)
-- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (1 day ago)
-- [harkhowalia-1/MacSubsystemForAndroid](https://github.com/harkhowalia-1/MacSubsystemForAndroid) - Run Android apps on your Mac like Mac apps: each in its own window with its own Dock icon, on Apple silicon. Notifications, game controllers, privacy controls. Free &amp; open source (LineageOS &#43; QEMU &#43; scrcpy). (1 day ago)
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (2 days ago)
+- [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs (today)
+- [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated. (2 days ago)
+- [mytv-android/myDV](https://github.com/mytv-android/myDV) - 保持深呼吸！ (2 days ago)
+- [mytv-android/bv](https://github.com/mytv-android/bv) - 哔哩哔哩 的第三方 Android TV 应用。A third-party Android TV app for Bilibili. （自用修改版） (2 days ago)
+- [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) - Material 3 Expressive 风格的Android/Android TV IPTV播放器，内建Media3,IJKplayer和 VLC。A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC. (2 days ago)
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (2 days ago)
+- [harkhowalia-1/MacSubsystemForAndroid](https://github.com/harkhowalia-1/MacSubsystemForAndroid) - Run Android apps on your Mac like Mac apps: each in its own window with its own Dock icon, on Apple silicon. Notifications, game controllers, privacy controls. Free &amp; open source (LineageOS &#43; QEMU &#43; scrcpy). (2 days ago)
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (3 days ago)
 - [OpenMinis/iCTRL](https://github.com/OpenMinis/iCTRL) - An AI-friendly iOS/iPadOS automation testing tool built on XCUITest, but more than a testing tool: agents like Codex, Claude Code, Hermes, OpenClaw and Minis can operate your iPhone or iPad wirelessly through an encrypted JSON-RPC 2.0 API (tap, type, read the screen, launch apps, and more). (1 week ago)
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows (1 week ago)
-- [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) - Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层 (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
