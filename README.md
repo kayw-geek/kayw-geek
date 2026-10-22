@@ -63,6 +63,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
+- [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) -  (today)
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. (today)
 - [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs (today)
 - [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated. (2 days ago)
 - [mytv-android/myDV](https://github.com/mytv-android/myDV) - 保持深呼吸！ (2 days ago)
@@ -71,8 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (2 days ago)
 - [harkhowalia-1/MacSubsystemForAndroid](https://github.com/harkhowalia-1/MacSubsystemForAndroid) - Run Android apps on your Mac like Mac apps: each in its own window with its own Dock icon, on Apple silicon. Notifications, game controllers, privacy controls. Free &amp; open source (LineageOS &#43; QEMU &#43; scrcpy). (2 days ago)
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (3 days ago)
-- [OpenMinis/iCTRL](https://github.com/OpenMinis/iCTRL) - An AI-friendly iOS/iPadOS automation testing tool built on XCUITest, but more than a testing tool: agents like Codex, Claude Code, Hermes, OpenClaw and Minis can operate your iPhone or iPad wirelessly through an encrypted JSON-RPC 2.0 API (tap, type, read the screen, launch apps, and more). (1 week ago)
-- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
