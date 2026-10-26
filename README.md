@@ -71,16 +71,16 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs (4 days ago)
 - [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated. (6 days ago)
 - [mytv-android/myDV](https://github.com/mytv-android/myDV) - 保持深呼吸！ (6 days ago)
-- [mytv-android/bv](https://github.com/mytv-android/bv) - 哔哩哔哩 的第三方 Android TV 应用。A third-party Android TV app for Bilibili. （自用修改版） (6 days ago)
+- [mytv-android/bv](https://github.com/mytv-android/bv) - 哔哩哔哩 的第三方 Android TV 应用。A third-party Android TV app for Bilibili.  (6 days ago)
 - [mytv-android/mytv-android](https://github.com/mytv-android/mytv-android) - Material 3 Expressive 风格的Android/Android TV IPTV播放器，内建Media3,IJKplayer和 VLC。A Material 3 Expressive style Android/Android TV IPTV player with built-in Media3, IJKplayer and VLC. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
 - [a4hmad1](https://github.com/a4hmad1)
 - [standardgalactic](https://github.com/standardgalactic)
-- [noorgx](https://github.com/noorgx)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [Indigoochoa](https://github.com/Indigoochoa)
+- [rodrigogalura](https://github.com/rodrigogalura)
 
 
 ---
