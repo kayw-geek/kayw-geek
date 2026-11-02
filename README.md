@@ -37,20 +37,20 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.11.1](https://github.com/composer/composer/releases/tag/2.11.1), 2 days ago) - Dependency Manager for PHP
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.13.1](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.13.1), 3 days ago) - Easily install PHP extensions in Docker containers
-- [laravel/framework](https://github.com/laravel/framework) ([v12.70.2](https://github.com/laravel/framework/releases/tag/v12.70.2), 5 days ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.5), 5 days ago) - The PHP Unit Testing framework.
+- [composer/composer](https://github.com/composer/composer) ([2.11.1](https://github.com/composer/composer/releases/tag/2.11.1), 3 days ago) - Dependency Manager for PHP
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.13.1](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.13.1), 4 days ago) - Easily install PHP extensions in Docker containers
+- [laravel/framework](https://github.com/laravel/framework) ([v12.70.2](https://github.com/laravel/framework/releases/tag/v12.70.2), 6 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.5), 6 days ago) - The PHP Unit Testing framework.
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.2), 1 month ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.2](https://github.com/symplify/monorepo-builder/releases/tag/12.7.2), 3 months ago) - Composer tools to maintain a monorepo
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 4 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), 5 months ago) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
 - [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) ([v0.3.0](https://github.com/kayw-geek/x-spam-cast/releases/tag/v0.3.0), 5 months ago) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt
-- [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.0](https://github.com/GitLabPHP/Client/releases/tag/12.1.0), 5 months ago) - GitLab API v4 client for PHP
+- [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.0](https://github.com/GitLabPHP/Client/releases/tag/12.1.0), 6 months ago) - GitLab API v4 client for PHP
 
 #### 🔨 My recent Pull Requests
 
-- [iPhone OCR works on macOS 27 and on a small mirroring window](https://github.com/ShawnPana/phone-harness/pull/109) on [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) (3 weeks ago)
+- [iPhone OCR works on macOS 27 and on a small mirroring window](https://github.com/phone-harness/phone-harness/pull/109) on [phone-harness/phone-harness](https://github.com/phone-harness/phone-harness) (3 weeks ago)
 - [Add kayw-geek/phpstan-type-trace to extension library](https://github.com/phpstan/phpstan/pull/14712) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 months ago)
 - [[13.x] Return FAILURE exit code when key:generate is prohibited](https://github.com/laravel/framework/pull/60273) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
 - [[13.x] Restore base_path() guard in SQLiteConnector lost during merge race](https://github.com/laravel/framework/pull/60272) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
@@ -63,10 +63,10 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (5 days ago)
-- [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal) (5 days ago)
-- [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) - Decrypt IPA&#39;s on MacOS (5 days ago)
-- [roothide/Dopamine-roothide](https://github.com/roothide/Dopamine-roothide) - Open-source integration of roothide and Dopamine 3.x (6 days ago)
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (6 days ago)
+- [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal) (6 days ago)
+- [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) - Decrypt IPA&#39;s on MacOS (6 days ago)
+- [roothide/Dopamine-roothide](https://github.com/roothide/Dopamine-roothide) - Open-source integration of roothide and Dopamine 3.x (1 week ago)
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 (1 week ago)
 - [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt) - Offline FairPlay App Store IPA decryption with independent key derivation (1 week ago)
 - [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) - Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game&#39;s ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game. (1 week ago)
