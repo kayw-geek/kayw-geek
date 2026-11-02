@@ -37,10 +37,10 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.6), today) - The PHP Unit Testing framework.
 - [composer/composer](https://github.com/composer/composer) ([2.11.1](https://github.com/composer/composer/releases/tag/2.11.1), 3 days ago) - Dependency Manager for PHP
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.13.1](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.13.1), 4 days ago) - Easily install PHP extensions in Docker containers
 - [laravel/framework](https://github.com/laravel/framework) ([v12.70.2](https://github.com/laravel/framework/releases/tag/v12.70.2), 6 days ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.5), 6 days ago) - The PHP Unit Testing framework.
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.2), 1 month ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.2](https://github.com/symplify/monorepo-builder/releases/tag/12.7.2), 3 months ago) - Composer tools to maintain a monorepo
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 4 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
