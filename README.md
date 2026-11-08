@@ -37,9 +37,9 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v13.40.0](https://github.com/laravel/framework/releases/tag/v13.40.0), 4 days ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.13.2](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.13.2), 5 days ago) - Easily install PHP extensions in Docker containers
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.6), 5 days ago) - The PHP Unit Testing framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.40.0](https://github.com/laravel/framework/releases/tag/v13.40.0), 5 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.13.2](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.13.2), 6 days ago) - Easily install PHP extensions in Docker containers
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.6), 6 days ago) - The PHP Unit Testing framework.
 - [composer/composer](https://github.com/composer/composer) ([2.11.1](https://github.com/composer/composer/releases/tag/2.11.1), 1 week ago) - Dependency Manager for PHP
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.2), 1 month ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.2](https://github.com/symplify/monorepo-builder/releases/tag/12.7.2), 3 months ago) - Composer tools to maintain a monorepo
