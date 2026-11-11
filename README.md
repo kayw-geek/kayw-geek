@@ -29,7 +29,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🪅 Recent contributed Repos
 
-- [kayw-geek/yingshicang](https://github.com/kayw-geek/yingshicang) - Personal YingshiCang config (2 weeks ago)
+- [kayw-geek/yingshicang](https://github.com/kayw-geek/yingshicang) - Personal YingshiCang config (3 weeks ago)
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) - Composer tools to maintain a monorepo (3 months ago)
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax. (5 months ago)
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) - See the full type-inference chain of any value in PHPStan, not just a single snapshot. (5 months ago)
@@ -37,8 +37,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v13.42.0](https://github.com/laravel/framework/releases/tag/v13.42.0), today) - Laravel is a web application framework with expressive, elegant syntax.
-- [composer/composer](https://github.com/composer/composer) ([2.11.2](https://github.com/composer/composer/releases/tag/2.11.2), today) - Dependency Manager for PHP
+- [laravel/framework](https://github.com/laravel/framework) ([v13.42.0](https://github.com/laravel/framework/releases/tag/v13.42.0), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [composer/composer](https://github.com/composer/composer) ([2.11.2](https://github.com/composer/composer/releases/tag/2.11.2), 1 day ago) - Dependency Manager for PHP
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.13.2](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.13.2), 1 week ago) - Easily install PHP extensions in Docker containers
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.6), 1 week ago) - The PHP Unit Testing framework.
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.2](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.2), 1 month ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
