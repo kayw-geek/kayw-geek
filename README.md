@@ -37,7 +37,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([8.5.57](https://github.com/sebastianbergmann/phpunit/releases/tag/8.5.57), 1 day ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.7), today) - The PHP Unit Testing framework.
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.3](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.3), 2 days ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [laravel/framework](https://github.com/laravel/framework) ([v13.42.0](https://github.com/laravel/framework/releases/tag/v13.42.0), 3 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [composer/composer](https://github.com/composer/composer) ([2.11.2](https://github.com/composer/composer/releases/tag/2.11.2), 3 days ago) - Dependency Manager for PHP
@@ -50,6 +50,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: add ClassLoader::getRegisteredLoaders() so Laravel can infer its base path](https://github.com/phast-sh/phast/pull/24) on [phast-sh/phast](https://github.com/phast-sh/phast) (today)
 - [iPhone OCR works on macOS 27 and on a small mirroring window](https://github.com/phone-harness/phone-harness/pull/109) on [phone-harness/phone-harness](https://github.com/phone-harness/phone-harness) (1 month ago)
 - [Add kayw-geek/phpstan-type-trace to extension library](https://github.com/phpstan/phpstan/pull/14712) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 months ago)
 - [[13.x] Return FAILURE exit code when key:generate is prohibited](https://github.com/laravel/framework/pull/60273) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
@@ -59,10 +60,10 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [Fix uninitialized typed $container error on Symfony Console 8.1](https://github.com/symplify/monorepo-builder/pull/119) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (5 months ago)
 - [[13.x] Add Batch::addOrFail() and use in PendingBatch::dispatch()](https://github.com/laravel/framework/pull/59945) on [laravel/framework](https://github.com/laravel/framework) (6 months ago)
 - [Add &#34;Add to .git/info/exclude&#34; action in project_panel and git_panel](https://github.com/zed-industries/zed/pull/55140) on [zed-industries/zed](https://github.com/zed-industries/zed) (6 months ago)
-- [Add parameterized disableAutoloadMerge(sections, forTypes); deprecate zero-arg form](https://github.com/symplify/monorepo-builder/pull/117) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (6 months ago)
 
 #### ⭐ Recent Stars
 
+- [phast-sh/phast](https://github.com/phast-sh/phast) - PHP dependencies, at Rust speed (today)
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (2 weeks ago)
 - [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal) (2 weeks ago)
 - [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) - Decrypt IPA&#39;s on MacOS (2 weeks ago)
@@ -72,7 +73,6 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) - Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game&#39;s ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game. (3 weeks ago)
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. (3 weeks ago)
 - [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs (3 weeks ago)
-- [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
