@@ -37,11 +37,11 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.7), 2 days ago) - The PHP Unit Testing framework.
-- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.3](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.3), 4 days ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
-- [laravel/framework](https://github.com/laravel/framework) ([v13.42.0](https://github.com/laravel/framework/releases/tag/v13.42.0), 5 days ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [composer/composer](https://github.com/composer/composer) ([2.11.2](https://github.com/composer/composer/releases/tag/2.11.2), 5 days ago) - Dependency Manager for PHP
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.13.2](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.13.2), 1 week ago) - Easily install PHP extensions in Docker containers
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.7), 3 days ago) - The PHP Unit Testing framework.
+- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.3](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.3), 5 days ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
+- [laravel/framework](https://github.com/laravel/framework) ([v13.42.0](https://github.com/laravel/framework/releases/tag/v13.42.0), 6 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [composer/composer](https://github.com/composer/composer) ([2.11.2](https://github.com/composer/composer/releases/tag/2.11.2), 6 days ago) - Dependency Manager for PHP
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.13.2](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.13.2), 2 weeks ago) - Easily install PHP extensions in Docker containers
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.2](https://github.com/symplify/monorepo-builder/releases/tag/12.7.2), 3 months ago) - Composer tools to maintain a monorepo
 - [thecodingmachine/phpstan-safe-rule](https://github.com/thecodingmachine/phpstan-safe-rule) ([v1.4.7](https://github.com/thecodingmachine/phpstan-safe-rule/releases/tag/v1.4.7), 4 months ago) - A PHPStan rule to be used with the thecodingmachine/safe package
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), 5 months ago) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
@@ -50,29 +50,29 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: add ClassLoader::getRegisteredLoaders() so Laravel can infer its base path](https://github.com/phast-sh/phast/pull/24) on [phast-sh/phast](https://github.com/phast-sh/phast) (2 days ago)
+- [fix: add ClassLoader::getRegisteredLoaders() so Laravel can infer its base path](https://github.com/phast-sh/phast/pull/24) on [phast-sh/phast](https://github.com/phast-sh/phast) (3 days ago)
 - [iPhone OCR works on macOS 27 and on a small mirroring window](https://github.com/phone-harness/phone-harness/pull/109) on [phone-harness/phone-harness](https://github.com/phone-harness/phone-harness) (1 month ago)
 - [Add kayw-geek/phpstan-type-trace to extension library](https://github.com/phpstan/phpstan/pull/14712) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 months ago)
 - [[13.x] Return FAILURE exit code when key:generate is prohibited](https://github.com/laravel/framework/pull/60273) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
 - [[13.x] Restore base_path() guard in SQLiteConnector lost during merge race](https://github.com/laravel/framework/pull/60272) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
 - [[13.x] Fix path separator encoding in temporaryUrl on local disk](https://github.com/laravel/framework/pull/60230) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
-- [[13.x] Resolve scheduled event callback parameter by type rather than name](https://github.com/laravel/framework/pull/60197) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
-- [Fix uninitialized typed $container error on Symfony Console 8.1](https://github.com/symplify/monorepo-builder/pull/119) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (5 months ago)
+- [[13.x] Resolve scheduled event callback parameter by type rather than name](https://github.com/laravel/framework/pull/60197) on [laravel/framework](https://github.com/laravel/framework) (6 months ago)
+- [Fix uninitialized typed $container error on Symfony Console 8.1](https://github.com/symplify/monorepo-builder/pull/119) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (6 months ago)
 - [[13.x] Add Batch::addOrFail() and use in PendingBatch::dispatch()](https://github.com/laravel/framework/pull/59945) on [laravel/framework](https://github.com/laravel/framework) (6 months ago)
 - [Add &#34;Add to .git/info/exclude&#34; action in project_panel and git_panel](https://github.com/zed-industries/zed/pull/55140) on [zed-industries/zed](https://github.com/zed-industries/zed) (6 months ago)
 
 #### ⭐ Recent Stars
 
-- [phast-sh/phast](https://github.com/phast-sh/phast) - PHP dependencies, at Rust speed (2 days ago)
+- [phpstan/tally](https://github.com/phpstan/tally) - PHP benchmarking framework that doesn&#39;t care about wall-clock time or how fast your CPU is. (today)
+- [phast-sh/phast](https://github.com/phast-sh/phast) - PHP dependencies, at Rust speed (3 days ago)
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (2 weeks ago)
 - [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal) (2 weeks ago)
 - [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) - Decrypt IPA&#39;s on MacOS (2 weeks ago)
-- [roothide/Dopamine-roothide](https://github.com/roothide/Dopamine-roothide) - Open-source integration of roothide and Dopamine 3.x (2 weeks ago)
+- [roothide/Dopamine-roothide](https://github.com/roothide/Dopamine-roothide) - Open-source integration of roothide and Dopamine 3.x (3 weeks ago)
 - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 A multi-platform music player for local files, Navidrome, and online streaming services, featuring stunning animated lyrics. (3 weeks ago)
 - [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt) - Offline FairPlay App Store IPA decryption with independent key derivation (3 weeks ago)
 - [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) - Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game&#39;s ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game. (3 weeks ago)
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents. (3 weeks ago)
-- [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
