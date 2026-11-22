@@ -37,9 +37,9 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.8), 2 days ago) - The PHP Unit Testing framework.
-- [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.1](https://github.com/GitLabPHP/Client/releases/tag/12.1.1), 4 days ago) - GitLab API v4 client for PHP
-- [laravel/framework](https://github.com/laravel/framework) ([v13.43.0](https://github.com/laravel/framework/releases/tag/v13.43.0), 4 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.8), 3 days ago) - The PHP Unit Testing framework.
+- [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.1](https://github.com/GitLabPHP/Client/releases/tag/12.1.1), 5 days ago) - GitLab API v4 client for PHP
+- [laravel/framework](https://github.com/laravel/framework) ([v13.43.0](https://github.com/laravel/framework/releases/tag/v13.43.0), 5 days ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.3](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.3), 1 week ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [composer/composer](https://github.com/composer/composer) ([2.11.2](https://github.com/composer/composer/releases/tag/2.11.2), 1 week ago) - Dependency Manager for PHP
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.13.2](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.13.2), 2 weeks ago) - Easily install PHP extensions in Docker containers
@@ -52,8 +52,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [fix: add ClassLoader::getRegisteredLoaders() so Laravel can infer its base path](https://github.com/phast-sh/phast/pull/24) on [phast-sh/phast](https://github.com/phast-sh/phast) (1 week ago)
 - [iPhone OCR works on macOS 27 and on a small mirroring window](https://github.com/phone-harness/phone-harness/pull/109) on [phone-harness/phone-harness](https://github.com/phone-harness/phone-harness) (1 month ago)
 - [Add kayw-geek/phpstan-type-trace to extension library](https://github.com/phpstan/phpstan/pull/14712) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (5 months ago)
-- [[13.x] Return FAILURE exit code when key:generate is prohibited](https://github.com/laravel/framework/pull/60273) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
-- [[13.x] Restore base_path() guard in SQLiteConnector lost during merge race](https://github.com/laravel/framework/pull/60272) on [laravel/framework](https://github.com/laravel/framework) (5 months ago)
+- [[13.x] Return FAILURE exit code when key:generate is prohibited](https://github.com/laravel/framework/pull/60273) on [laravel/framework](https://github.com/laravel/framework) (6 months ago)
+- [[13.x] Restore base_path() guard in SQLiteConnector lost during merge race](https://github.com/laravel/framework/pull/60272) on [laravel/framework](https://github.com/laravel/framework) (6 months ago)
 - [[13.x] Fix path separator encoding in temporaryUrl on local disk](https://github.com/laravel/framework/pull/60230) on [laravel/framework](https://github.com/laravel/framework) (6 months ago)
 - [[13.x] Resolve scheduled event callback parameter by type rather than name](https://github.com/laravel/framework/pull/60197) on [laravel/framework](https://github.com/laravel/framework) (6 months ago)
 - [Fix uninitialized typed $container error on Symfony Console 8.1](https://github.com/symplify/monorepo-builder/pull/119) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (6 months ago)
@@ -62,16 +62,16 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### ⭐ Recent Stars
 
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (5 days ago)
-- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (5 days ago)
-- [phpstan/tally](https://github.com/phpstan/tally) - PHP benchmarking framework that doesn&#39;t care about wall-clock time or how fast your CPU is. (5 days ago)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (6 days ago)
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (6 days ago)
+- [phpstan/tally](https://github.com/phpstan/tally) - PHP benchmarking framework that doesn&#39;t care about wall-clock time or how fast your CPU is. (6 days ago)
 - [phast-sh/phast](https://github.com/phast-sh/phast) - PHP dependencies, at Rust speed (1 week ago)
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (3 weeks ago)
 - [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal) (3 weeks ago)
 - [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) - Decrypt IPA&#39;s on MacOS (3 weeks ago)
 - [roothide/Dopamine-roothide](https://github.com/roothide/Dopamine-roothide) - Open-source integration of roothide and Dopamine 3.x (3 weeks ago)
-- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 A multi-platform music player for local files, Navidrome, and online streaming services, featuring stunning animated lyrics. (4 weeks ago)
-- [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt) - Offline FairPlay App Store IPA decryption with independent key derivation (4 weeks ago)
+- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 A multi-platform music player for local files, Navidrome, and online streaming services, featuring stunning animated lyrics. (1 month ago)
+- [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt) - Offline FairPlay App Store IPA decryption with independent key derivation (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
