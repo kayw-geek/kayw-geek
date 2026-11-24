@@ -37,12 +37,12 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.13.3](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.13.3), 1 day ago) - Easily install PHP extensions in Docker containers
+- [laravel/framework](https://github.com/laravel/framework) ([v12.74.0](https://github.com/laravel/framework/releases/tag/v12.74.0), today) - Laravel is a web application framework with expressive, elegant syntax.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.13.4](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.13.4), today) - Easily install PHP extensions in Docker containers
+- [composer/composer](https://github.com/composer/composer) ([2.11.3](https://github.com/composer/composer/releases/tag/2.11.3), today) - Dependency Manager for PHP
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.8), 5 days ago) - The PHP Unit Testing framework.
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.1](https://github.com/GitLabPHP/Client/releases/tag/12.1.1), 1 week ago) - GitLab API v4 client for PHP
-- [laravel/framework](https://github.com/laravel/framework) ([v13.43.0](https://github.com/laravel/framework/releases/tag/v13.43.0), 1 week ago) - Laravel is a web application framework with expressive, elegant syntax.
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.3](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.3), 1 week ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
-- [composer/composer](https://github.com/composer/composer) ([2.11.2](https://github.com/composer/composer/releases/tag/2.11.2), 2 weeks ago) - Dependency Manager for PHP
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.2](https://github.com/symplify/monorepo-builder/releases/tag/12.7.2), 3 months ago) - Composer tools to maintain a monorepo
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), 6 months ago) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
 - [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) ([v0.3.0](https://github.com/kayw-geek/x-spam-cast/releases/tag/v0.3.0), 6 months ago) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt
