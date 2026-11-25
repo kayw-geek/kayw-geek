@@ -37,12 +37,12 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.74.0](https://github.com/laravel/framework/releases/tag/v12.74.0), today) - Laravel is a web application framework with expressive, elegant syntax.
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.13.4](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.13.4), today) - Easily install PHP extensions in Docker containers
-- [composer/composer](https://github.com/composer/composer) ([2.11.3](https://github.com/composer/composer/releases/tag/2.11.3), today) - Dependency Manager for PHP
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.8), 5 days ago) - The PHP Unit Testing framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v12.74.0](https://github.com/laravel/framework/releases/tag/v12.74.0), 1 day ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.13.4](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.13.4), 1 day ago) - Easily install PHP extensions in Docker containers
+- [composer/composer](https://github.com/composer/composer) ([2.11.3](https://github.com/composer/composer/releases/tag/2.11.3), 1 day ago) - Dependency Manager for PHP
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.8), 6 days ago) - The PHP Unit Testing framework.
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.1](https://github.com/GitLabPHP/Client/releases/tag/12.1.1), 1 week ago) - GitLab API v4 client for PHP
-- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.3](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.3), 1 week ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
+- [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.3](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.3), 2 weeks ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
 - [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) ([12.7.2](https://github.com/symplify/monorepo-builder/releases/tag/12.7.2), 3 months ago) - Composer tools to maintain a monorepo
 - [kayw-geek/phpstan-type-trace](https://github.com/kayw-geek/phpstan-type-trace) ([v0.2.0](https://github.com/kayw-geek/phpstan-type-trace/releases/tag/v0.2.0), 6 months ago) - See the full type-inference chain of any value in PHPStan, not just a single snapshot.
 - [kayw-geek/x-spam-cast](https://github.com/kayw-geek/x-spam-cast) ([v0.3.0](https://github.com/kayw-geek/x-spam-cast/releases/tag/v0.3.0), 6 months ago) - LLM-powered X/Twitter spam filter — full-auto mode, community subscription packs, gist backup, customizable prompt
@@ -58,11 +58,12 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [[13.x] Resolve scheduled event callback parameter by type rather than name](https://github.com/laravel/framework/pull/60197) on [laravel/framework](https://github.com/laravel/framework) (6 months ago)
 - [Fix uninitialized typed $container error on Symfony Console 8.1](https://github.com/symplify/monorepo-builder/pull/119) on [symplify/monorepo-builder](https://github.com/symplify/monorepo-builder) (6 months ago)
 - [[13.x] Add Batch::addOrFail() and use in PendingBatch::dispatch()](https://github.com/laravel/framework/pull/59945) on [laravel/framework](https://github.com/laravel/framework) (6 months ago)
-- [Add &#34;Add to .git/info/exclude&#34; action in project_panel and git_panel](https://github.com/zed-industries/zed/pull/55140) on [zed-industries/zed](https://github.com/zed-industries/zed) (6 months ago)
+- [Add &#34;Add to .git/info/exclude&#34; action in project_panel and git_panel](https://github.com/zed-industries/zed/pull/55140) on [zed-industries/zed](https://github.com/zed-industries/zed) (7 months ago)
 
 #### ⭐ Recent Stars
 
-- [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) - ⚡ Coverage engine for PHP at near-native speed! 400× less overhead than Xdebug, 30× less than PCOV. ZERO overhead for code you do not measure (like vendor). (today)
+- [shipfastlabs/pun](https://github.com/shipfastlabs/pun) - The ultrafast unified PHP toolchain (today)
+- [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) - ⚡ Coverage engine for PHP at near-native speed! 400× less overhead than Xdebug, 30× less than PCOV. ZERO overhead for code you do not measure (like vendor). (1 day ago)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (1 week ago)
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (1 week ago)
 - [phpstan/tally](https://github.com/phpstan/tally) - PHP benchmarking framework that doesn&#39;t care about wall-clock time or how fast your CPU is. (1 week ago)
@@ -70,8 +71,7 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (4 weeks ago)
 - [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal) (4 weeks ago)
 - [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) - Decrypt IPA&#39;s on MacOS (4 weeks ago)
-- [roothide/Dopamine-roothide](https://github.com/roothide/Dopamine-roothide) - Open-source integration of roothide and Dopamine 3.x (4 weeks ago)
-- [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 A multi-platform music player for local files, Navidrome, and online streaming services, featuring stunning animated lyrics. (1 month ago)
+- [roothide/Dopamine-roothide](https://github.com/roothide/Dopamine-roothide) - Open-source integration of roothide and Dopamine 3.x (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
