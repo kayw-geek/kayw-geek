@@ -78,8 +78,8 @@ I work on PHP by day, and contribute to the PHP open-source ecosystem by night.
 - [a4hmad1](https://github.com/a4hmad1)
 - [standardgalactic](https://github.com/standardgalactic)
 - [Dvurechensky](https://github.com/Dvurechensky)
+- [Nai64](https://github.com/Nai64)
 - [Indigoochoa](https://github.com/Indigoochoa)
-- [rodrigogalura](https://github.com/rodrigogalura)
 
 
 ---
