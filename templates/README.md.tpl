@@ -10,9 +10,9 @@
 
 ### What I do in OSS
 
-- 🔐 **Found and fixed [CVE-2026-41570](https://www.cve.org/CVERecord?id=CVE-2026-41570)**: a high-severity argument injection in PHPUnit, the standard PHP test framework with 1B+ Packagist installs. Found while upgrading to PHPUnit 12. [Advisory](https://github.com/sebastianbergmann/phpunit/security/advisories/GHSA-qrr6-mg7r-m243) · [fix commits](https://github.com/sebastianbergmann/phpunit/commits?author=kayw-geek)
+- 🔐 **Found [CVE-2026-41570](https://www.cve.org/CVERecord?id=CVE-2026-41570)** while upgrading to PHPUnit 12: a high-severity argument injection in PHPUnit, the standard PHP test framework with 1B+ Packagist installs. Reported it and submitted the fix. [Advisory](https://github.com/sebastianbergmann/phpunit/security/advisories/GHSA-qrr6-mg7r-m243) · [fix commits](https://github.com/sebastianbergmann/phpunit/commits?author=kayw-geek)
 - 🛠️ **Maintainer** of [`symplify/monorepo-builder`](https://github.com/symplify/monorepo-builder) (530+ stars, 6.8M+ installs), and its [most active human contributor](https://github.com/symplify/monorepo-builder/graphs/contributors).
-- 🧩 **[98 merged PRs](https://github.com/search?q=author%3Akayw-geek+is%3Apr+is%3Amerged&type=pullrequests) across 30 repositories**, including:
+- 🧩 **[98 merged PRs](https://github.com/search?q=author%3Akayw-geek+is%3Apr+is%3Amerged&type=pullrequests) across 30 repositories** since 2018, 64 of them merged before AI coding agents became mainstream in 2025, including:
   [Laravel (17)](https://github.com/laravel/framework/pulls?q=author%3Akayw-geek+is%3Amerged) ·
   [Symfony](https://github.com/symfony/symfony/pulls?q=author%3Akayw-geek+is%3Amerged) ·
   [Composer](https://github.com/composer/composer/commits?author=kayw-geek) ·
