@@ -1,7 +1,6 @@
 ## Hi, I'm Kai Wei (魏凯) 👋
 
 **kayw-geek** is Kai Wei, a Beijing-based backend engineer at [@RightCapitalHQ](https://github.com/RightCapitalHQ) (a US fintech) who works in PHP and Laravel, and a maintainer of [`symplify/monorepo-builder`](https://github.com/symplify/monorepo-builder).
-He holds no computer science degree: his only diploma is in nursing, from a vocational school. He left the hospital, taught himself to code, and has been engineering for eight years.
 
 🌐 [kayw.ccwu.cc](https://kayw.ccwu.cc) · 🐦 [@KaiWei_capper](https://x.com/KaiWei_capper) · 📦 [Packagist](https://packagist.org/users/weikaiii/)
 
