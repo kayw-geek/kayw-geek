@@ -38,9 +38,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v12.74.0](https://github.com/laravel/framework/releases/tag/v12.74.0), 2 days ago) - Laravel is a web application framework with expressive, elegant syntax.
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.13.4](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.13.4), 2 days ago) - Easily install PHP extensions in Docker containers
-- [composer/composer](https://github.com/composer/composer) ([2.11.3](https://github.com/composer/composer/releases/tag/2.11.3), 2 days ago) - Dependency Manager for PHP
+- [laravel/framework](https://github.com/laravel/framework) ([v12.74.0](https://github.com/laravel/framework/releases/tag/v12.74.0), 3 days ago) - Laravel is a web application framework with expressive, elegant syntax.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.13.4](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.13.4), 3 days ago) - Easily install PHP extensions in Docker containers
+- [composer/composer](https://github.com/composer/composer) ([2.11.3](https://github.com/composer/composer/releases/tag/2.11.3), 3 days ago) - Dependency Manager for PHP
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.4.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.8), 1 week ago) - The PHP Unit Testing framework.
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) ([12.1.1](https://github.com/GitLabPHP/Client/releases/tag/12.1.1), 1 week ago) - GitLab API v4 client for PHP
 - [rudderlabs/rudder-php-sdk](https://github.com/rudderlabs/rudder-php-sdk) ([v2.2.3](https://github.com/rudderlabs/rudder-php-sdk/releases/tag/v2.2.3), 2 weeks ago) - RudderStack&#39;s PHP SDK for effective server-side event tracking.
@@ -50,7 +50,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: add ClassLoader::getRegisteredLoaders() so Laravel can infer its base path](https://github.com/phast-sh/phast/pull/24) on [phast-sh/phast](https://github.com/phast-sh/phast) (1 week ago)
+- [fix: add ClassLoader::getRegisteredLoaders() so Laravel can infer its base path](https://github.com/phast-sh/phast/pull/24) on [phast-sh/phast](https://github.com/phast-sh/phast) (2 weeks ago)
 - [iPhone OCR works on macOS 27 and on a small mirroring window](https://github.com/phone-harness/phone-harness/pull/109) on [phone-harness/phone-harness](https://github.com/phone-harness/phone-harness) (1 month ago)
 - [Add kayw-geek/phpstan-type-trace to extension library](https://github.com/phpstan/phpstan/pull/14712) on [phpstan/phpstan](https://github.com/phpstan/phpstan) (6 months ago)
 - [[13.x] Return FAILURE exit code when key:generate is prohibited](https://github.com/laravel/framework/pull/60273) on [laravel/framework](https://github.com/laravel/framework) (6 months ago)
@@ -63,12 +63,12 @@
 
 #### ⭐ Recent Stars
 
-- [shipfastlabs/pun](https://github.com/shipfastlabs/pun) - The ultrafast unified PHP toolchain (1 day ago)
-- [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) - ⚡ Coverage engine for PHP at near-native speed! 400× less overhead than Xdebug, 30× less than PCOV. ZERO overhead for code you do not measure (like vendor). (2 days ago)
+- [shipfastlabs/pun](https://github.com/shipfastlabs/pun) - The ultrafast unified PHP toolchain (2 days ago)
+- [shipmonk-rnd/turbocov](https://github.com/shipmonk-rnd/turbocov) - ⚡ Coverage engine for PHP at near-native speed! 400× less overhead than Xdebug, 30× less than PCOV. ZERO overhead for code you do not measure (like vendor). (3 days ago)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (1 week ago)
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices (1 week ago)
 - [phpstan/tally](https://github.com/phpstan/tally) - PHP benchmarking framework that doesn&#39;t care about wall-clock time or how fast your CPU is. (1 week ago)
-- [phast-sh/phast](https://github.com/phast-sh/phast) - PHP dependencies, at Rust speed (1 week ago)
+- [phast-sh/phast](https://github.com/phast-sh/phast) - PHP dependencies, at Rust speed (2 weeks ago)
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. (1 month ago)
 - [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal) (1 month ago)
 - [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) - Decrypt IPA&#39;s on MacOS (1 month ago)
